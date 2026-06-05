@@ -1,0 +1,9 @@
+dataset,program,GTra,baseline
+COVID,Interferon Alpha Response,5.57,1.44
+COVID,Interferon Gamma Response,6.92,3.64
+MND,neuron differentiation,2.97,2.13
+MND,generation of neurons,2.94,1.16
+MND,neuron development,4.53,2.17
+HSPC,myeloid cell differentiation,0.91,2.86
+HSPC,erythrocyte differentiation,0.79,4.21
+HSPC,hemopoiesis,0.94,0.96

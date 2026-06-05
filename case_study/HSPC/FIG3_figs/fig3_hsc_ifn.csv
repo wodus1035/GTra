@@ -1,0 +1,5 @@
+method,n_modules,IFN_recovery
+GTra (HSC modules),3,1.1560172341572261
+k-means (HSC),8,44.847463438099986
+spherical k-means (HSC),8,44.847463438099986
+STEM-like (HSC),10,44.847463438099986

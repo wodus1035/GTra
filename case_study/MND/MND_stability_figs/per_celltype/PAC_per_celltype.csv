@@ -1,0 +1,28 @@
+cell_type,timepoint,PAC
+1-Neurons,11,0.343
+1-Neurons,13,0.275
+1-Neurons,15,0.277
+1-Neurons,17,0.275
+2-Young neurons,11,0.386
+2-Young neurons,13,0.348
+2-Young neurons,15,0.372
+2-Young neurons,17,0.331
+3-APs/RPs,11,0.364
+3-APs/RPs,13,0.282
+3-APs/RPs,15,0.298
+3-APs/RPs,17,0.273
+4-IPs,11,0.329
+4-IPs,13,0.354
+4-IPs,15,0.299
+4-IPs,17,0.311
+5-APs/RPs,11,0.359
+5-APs/RPs,13,0.329
+5-APs/RPs,15,0.353
+5-APs/RPs,17,0.078
+6-Young neurons,11,0.4
+6-Young neurons,13,0.382
+6-Young neurons,15,0.395
+6-Young neurons,17,0.37
+7-IPs,11,0.467
+7-IPs,13,0.404
+7-IPs,15,0.419

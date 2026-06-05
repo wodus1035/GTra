@@ -1,0 +1,9 @@
+cell_type,zscore(GTra),eta2_magnitude,n_clusters
+2-Young neurons,True,0.396646851295634,5
+2-Young neurons,False,0.3546722048665966,6
+1-Neurons,True,0.1857925600491115,5
+1-Neurons,False,0.31369218503047436,4
+3-APs/RPs,True,0.2042362128540926,6
+3-APs/RPs,False,0.34933765436186026,4
+4-IPs,True,0.09756382932980151,5
+4-IPs,False,0.30403718756647735,3

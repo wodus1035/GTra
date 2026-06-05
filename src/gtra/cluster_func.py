@@ -27,17 +27,6 @@ from joblib import Parallel, delayed
 from .core import *
 from .preproc import *
 
-## Get clustering results
-def get_label(label,names,K):
-    label_index = []
-    for k in range(K):
-        tmp_idx = []
-        for cidx in range(len(label)):
-            if label[cidx] == k:
-                tmp_idx.append(names[cidx])
-        label_index.append(tmp_idx)
-    return label_index
-
 # Get label index
 def _get_label(labels, names, K):
     label_index = [[] for _ in range(K)]
@@ -58,7 +47,7 @@ def add_annotation(obj, time, do_filter=True):
     # 1) Filter out low-count cell types (optional)
     counts = adata.obs[cname].value_counts()
     if do_filter:
-        valid_ct = counts[counts > obj.params.filter_cell_n].index
+        valid_ct = counts[counts >= obj.params.filter_cell_n].index
     else:
         valid_ct = counts.index  # keep all observed CTs
 
@@ -90,16 +79,20 @@ def cell_graph_clustering(obj, time):
         adata.layers["norm"] = adata.X.copy()
         sc.pp.normalize_total(adata, layer="norm")
         sc.pp.log1p(adata, layer="norm")
-        sc.pp.scale(adata, max_value=10, layer="norm")
+        
+    if 'scaled' not in adata.layers:
+        adata.layers['scaled'] = adata.layers['norm'].copy()
+        sc.pp.scale(adata, max_value=10, layer="scaled")
 
     # 2) PCA + neighbors + Leiden
-    adata.X = adata.layers["norm"]
+    adata.X = adata.layers["scaled"]
     sc.tl.pca(adata, svd_solver="arpack")
-    sc.pp.neighbors(adata, n_neighbors=obj.params.cn_neighbors,
-                    use_rep="X_pca")
+    sc.pp.neighbors(adata, n_neighbors=obj.params.cn_neighbors, use_rep="X_pca")
     sc.tl.leiden(adata, resolution=obj.params.cn_cluster_resolution)
     
     # 3) Cluster labeling
+    adata.X = adata.layers["raw"]
+    
     clabel = adata.obs["leiden"].astype(int)
     adata.obs["cluster_label"] = clabel
 
@@ -265,7 +258,7 @@ def _build_boot_obj(dat):
     obj.params = dat["params"]
     return obj
 
-def _create_random_cells(obj, time, frac=0.8, min_keep=10):
+def _create_random_cells(obj, time, frac=0.8, min_keep=None):
     """
     Randomly subsample cells within each (annotated) cell type, but
     guarantee a minimum number of retained cells per type to prevent
@@ -289,14 +282,14 @@ def _create_random_cells(obj, time, frac=0.8, min_keep=10):
             continue
 
         N = int(n * frac)
-
         # guarantee at least min_keep, but never exceed n
         N = max(N, min_keep)
         N = min(N, n)
-
-        # if N == n, sample() still works but is wasteful; keep it simple
-        trial_cells.extend(random.sample(cell_ids, N))
-
+        
+        if N == n:
+            trial_cells.extend(cell_ids)
+        else:
+            trial_cells.extend(random.sample(cell_ids, N))
     return trial_cells
 
 
@@ -320,8 +313,9 @@ def process_timepoint(dat, tp):
             - cli: list of cell indices per cluster
             - glabels: list of gene-cluster assignments per cell cluster
     """
-    mini = _build_boot_obj(dat)
     
+    mini = _build_boot_obj(dat)
+
     # 1) Random cell selection
     trial_cells = _create_random_cells(mini, tp)
     if len(trial_cells) == 0:
@@ -406,8 +400,22 @@ def _score_distribution(obj):
     ct_label_dict = dict()
     for tp in range(obj.tp_data_num):
         cell_clustering(obj, tp)
-        id = obj.tp_data_dict[tp].obs.value_counts().index
-        ct_label = {str(i[1]): i[0] for i in id}
+        obs = obj.tp_data_dict[tp].obs
+        cl_col = "cluster_label"
+        ct_col = obj.params.cell_type_label
+
+        # Map each cluster label -> (majority) cell-type name.
+        # Select the two columns explicitly so the mapping is robust to any
+        # extra metadata columns the user may carry in obs.
+        if ct_col == cl_col:
+            ct_label = {str(cl): cl for cl in obs[cl_col].unique()}
+        else:
+            vc = obs[[cl_col, ct_col]].value_counts()  # sorted by count desc
+            ct_label = {}
+            for (cl, ct), _ in vc.items():
+                key = str(cl)
+                if key not in ct_label:   # first occurrence = majority cell type
+                    ct_label[key] = ct
         ct_label_dict[tp] = ct_label
     
     x = copy.deepcopy(obj.score_dict)
@@ -416,9 +424,13 @@ def _score_distribution(obj):
     for it in intervals:
         for st, vals in x[it].items():
             tok = st.split('_')
-            source = ct_label_dict[it][tok[0]]
-            target = ct_label_dict[it+1][tok[1]]
-            
+            if obj.params.label_flag:
+                source = ct_label_dict[it][tok[0]]
+                target = ct_label_dict[it+1][tok[1]]
+            else:
+                source = f't{str(it)}_{tok[0]}'
+                target = f't{str(it+1)}_{tok[1]}'
+
             for v in vals:
                 iter_static.append([it, source, target, v])
     dist_df = pd.DataFrame(
@@ -498,35 +510,62 @@ def _calc_gap(linked, min_k=2, max_k=None):
     return optimal_k
 
 
+def remap_timepoint_states(obj, time):
+    # 실제 존재하는 cluster key
+    actual_keys = sorted(obj.ccmatrix[time].keys())
+    key_map = {old: new for new, old in enumerate(actual_keys)}
+
+    # 1) ccmatrix remap
+    new_cc = {}
+    for old, new in key_map.items():
+        new_cc[new] = obj.ccmatrix[time][old]
+    obj.ccmatrix[time] = new_cc
+
+    # 2) cell_label_index remap
+    old_cli = obj.cell_label_index[time]
+    new_cli = []
+    for old in actual_keys:
+        if old < len(old_cli):
+            new_cli.append(old_cli[old])
+        else:
+            new_cli.append([])
+    obj.cell_label_index[time] = new_cli
+
+    # 3) cell_optimal_k update
+    obj.cell_optimal_k[time] = len(actual_keys)
+
+    # 4) cluster labels in obs remap
+    adata = obj.tp_data_dict[time]
+    if "cluster_label" in adata.obs.columns:
+        adata.obs["cluster_label"] = adata.obs["cluster_label"].map(key_map)
+        
 def cc_clustering(obj):
-    """
-    Generate gene modules for each time point and each cell cluster.
-
-    For every (time point, cell cluster), this function:
-      - reads the consensus gene–gene similarity matrix (obj.ccmatrix)
-      - performs hierarchical clustering (Ward linkage)
-      - determines optimal module number (via GAP heuristic)
-      - assigns genes to modules using fcluster
-
-    Results are stored in:
-        obj.gene_label_info[time] = list of gene modules per cell cluster.
-    """
     cc_dict = obj.ccmatrix.copy()
     genes = obj.genes.copy()
-    
+
     for time in range(obj.tp_data_num):
+        remap_timepoint_states(obj, time)
+        actual_keys = sorted(cc_dict[time].keys())   # 실제 존재하는 cluster만
         clabel_clusters = []
-        for clabel in range(obj.cell_optimal_k[time]):
-            cc = cc_dict[time][clabel]
+
+        for old_clabel in actual_keys:
+            cc = cc_dict[time][old_clabel]
+
+            if cc is None or getattr(cc, "shape", (0, 0))[0] < 2:
+                clabel_clusters.append([genes])
+                continue
+
             linked = linkage(cc, "ward")
             K = _calc_gap(linked)
             clusters = fcluster(linked, K, criterion="maxclust")
-            
+
             clustered_genes = []
-            for cl in range(1, max(clusters)+1):
-                tmp = [gene for gene, label in zip(genes, clusters) if label==cl]
-                clustered_genes.append(tmp)
+            for cl in range(1, max(clusters) + 1):
+                tmp = [gene for gene, label in zip(genes, clusters) if label == cl]
+                if len(tmp) > 0:
+                    clustered_genes.append(tmp)
+
             clabel_clusters.append(clustered_genes)
-        
+
         obj.gene_label_info[time] = clabel_clusters
-    
+        obj.cell_optimal_k[time] = len(clabel_clusters)

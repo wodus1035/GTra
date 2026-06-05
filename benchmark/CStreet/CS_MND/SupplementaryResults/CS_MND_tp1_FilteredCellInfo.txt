@@ -1,0 +1,1403 @@
+	scdata_cluster	percent_mito	n_counts	n_genes	cell_id
+b'ATGTAGTACCGA'	timepoint1_3-APs/RPs	0.0	1241.3754	3760	timepoint1_cell0
+b'TCAACTTCATAT'	timepoint1_5-APs/RPs	0.0	1446.3398	3692	timepoint1_cell1
+b'ATGAAAGACCAT'	timepoint1_1-Neurons	0.0	2324.694	4103	timepoint1_cell2
+b'CCGTACCGCGTA'	timepoint1_3-APs/RPs	0.0	1429.1191	3991	timepoint1_cell3
+b'ATCACCCGTGTT'	timepoint1_3-APs/RPs	0.0	1330.8539	3682	timepoint1_cell4
+b'ATCTCCGCACGT'	timepoint1_5-APs/RPs	0.0	1955.4302	4068	timepoint1_cell5
+b'CCCTTCTCCTAC'	timepoint1_3-APs/RPs	0.0	1555.4546	3693	timepoint1_cell6
+b'AATCAGTTGCTT'	timepoint1_3-APs/RPs	0.0	1682.6295	3729	timepoint1_cell7
+b'AGTAAAGGACTT'	timepoint1_3-APs/RPs	0.0	1819.2726	3801	timepoint1_cell8
+b'CTGCGCTTACCT'	timepoint1_5-APs/RPs	0.0	1383.5107	3674	timepoint1_cell9
+b'GGGTATTTGTTT'	timepoint1_3-APs/RPs	0.0	1775.5325	3897	timepoint1_cell10
+b'GCTACAGCTAAC'	timepoint1_5-APs/RPs	0.0	1423.0029	3387	timepoint1_cell11
+b'CTAATAGGCACA'	timepoint1_3-APs/RPs	0.0	1163.3495	3504	timepoint1_cell12
+b'TATCGTGCCTTG'	timepoint1_5-APs/RPs	0.0	1714.8896	3674	timepoint1_cell13
+b'ACCTCTCTACGT'	timepoint1_5-APs/RPs	0.0	1662.9634	3717	timepoint1_cell14
+b'TTAGTCCCGTCA'	timepoint1_5-APs/RPs	0.0	1330.3926	3567	timepoint1_cell15
+b'CGTCAGTAGACC'	timepoint1_3-APs/RPs	0.0	1787.5459	3682	timepoint1_cell16
+b'TACAATCGCTAA'	timepoint1_4-IPs	0.0	1656.2966	3434	timepoint1_cell17
+b'GCACCCCCAAAT'	timepoint1_4-IPs	0.0	1834.307	3713	timepoint1_cell18
+b'ACCTAGGTTCTG'	timepoint1_3-APs/RPs	0.0	1648.7788	3433	timepoint1_cell19
+b'CCGCCTTCCGAT'	timepoint1_3-APs/RPs	0.0	1549.8392	3181	timepoint1_cell20
+b'CCTTGTCGAGTN'	timepoint1_5-APs/RPs	0.0	1486.6285	3339	timepoint1_cell21
+b'CGCTCTGCCTCA'	timepoint1_5-APs/RPs	0.0	1586.5673	3652	timepoint1_cell22
+b'GGCTCACCCCAG'	timepoint1_5-APs/RPs	0.0	1445.3661	3506	timepoint1_cell23
+b'GACATTGACCTT'	timepoint1_5-APs/RPs	0.0	859.83307	3344	timepoint1_cell24
+b'TGTTCCCGAGCT'	timepoint1_3-APs/RPs	0.0	1509.2759	3595	timepoint1_cell25
+b'CTCCGTGGTGAG'	timepoint1_5-APs/RPs	0.0	1415.7312	3589	timepoint1_cell26
+b'GTGCAGCGTGCC'	timepoint1_3-APs/RPs	0.0	1016.3837	3310	timepoint1_cell27
+b'CTTGTTTGCACC'	timepoint1_5-APs/RPs	0.0	1515.1335	3654	timepoint1_cell28
+b'TCGCAAGATATC'	timepoint1_5-APs/RPs	0.0	1298.275	3255	timepoint1_cell29
+b'AGTTCCCGATAT'	timepoint1_3-APs/RPs	0.0	1351.3353	3284	timepoint1_cell30
+b'GCACTCCAGCAT'	timepoint1_5-APs/RPs	0.0	1449.4473	3314	timepoint1_cell31
+b'ATTAAACGCCCC'	timepoint1_3-APs/RPs	0.0	1559.5588	3414	timepoint1_cell32
+b'TTCTCGCTCGGC'	timepoint1_3-APs/RPs	0.0	1809.2616	3382	timepoint1_cell33
+b'ATCGCCGTAGCG'	timepoint1_5-APs/RPs	0.0	1574.0355	3132	timepoint1_cell34
+b'GCAGCAATCTAA'	timepoint1_7-IPs	0.0	1427.1848	3187	timepoint1_cell35
+b'TCCCATGTTTCA'	timepoint1_4-IPs	0.0	1582.8287	3255	timepoint1_cell36
+b'TTCGTAAGGCTT'	timepoint1_5-APs/RPs	0.0	1336.1564	3251	timepoint1_cell37
+b'TCCCACAGTATG'	timepoint1_4-IPs	0.0	1404.052	3293	timepoint1_cell38
+b'CTTTATTTATCA'	timepoint1_3-APs/RPs	0.0	1076.8556	3315	timepoint1_cell39
+b'CTTGTACTCACG'	timepoint1_5-APs/RPs	0.0	1389.6085	3114	timepoint1_cell40
+b'ATCATTATGAGC'	timepoint1_3-APs/RPs	0.0	1055.2749	2946	timepoint1_cell41
+b'TAAACATTAGTA'	timepoint1_3-APs/RPs	0.0	1793.754	3246	timepoint1_cell42
+b'GACCCTGTATTC'	timepoint1_3-APs/RPs	0.0	1385.1992	3464	timepoint1_cell43
+b'AGTCTTTACTAC'	timepoint1_3-APs/RPs	0.0	1642.2424	3191	timepoint1_cell44
+b'TCCATGTAGCGT'	timepoint1_3-APs/RPs	0.0	1398.345	3500	timepoint1_cell45
+b'GCTACCACTTAC'	timepoint1_7-IPs	0.0	1855.8666	3419	timepoint1_cell46
+b'GGACATGGGGCC'	timepoint1_5-APs/RPs	0.0	1546.3939	3306	timepoint1_cell47
+b'TTATCGATGGAN'	timepoint1_7-IPs	0.0	1508.7052	2956	timepoint1_cell48
+b'ACCTACTTTGCA'	timepoint1_5-APs/RPs	0.0	1582.1418	3168	timepoint1_cell49
+b'ATTTTGCGCATT'	timepoint1_5-APs/RPs	0.0	1073.9088	3115	timepoint1_cell50
+b'CCGCCCCTCCCC'	timepoint1_3-APs/RPs	0.0	1551.7794	3207	timepoint1_cell51
+b'CTCCCTGAGTCT'	timepoint1_5-APs/RPs	0.0	1282.5977	3005	timepoint1_cell52
+b'GCGCCTTACTGC'	timepoint1_5-APs/RPs	0.0	897.6815	3147	timepoint1_cell53
+b'CTCGATTAATTT'	timepoint1_3-APs/RPs	0.0	910.1952	2772	timepoint1_cell54
+b'CCATCTTTCAGG'	timepoint1_5-APs/RPs	0.0	1424.3047	2953	timepoint1_cell55
+b'ACGCACCCTACT'	timepoint1_3-APs/RPs	0.0	1438.9595	3267	timepoint1_cell56
+b'CATACATTGTCA'	timepoint1_3-APs/RPs	0.0	1139.6307	2850	timepoint1_cell57
+b'GTTCCGAGACCG'	timepoint1_5-APs/RPs	0.0	772.3066	2826	timepoint1_cell58
+b'TATGGTCAGATA'	timepoint1_5-APs/RPs	0.0	1551.235	3278	timepoint1_cell59
+b'CTCTTTCGGTTA'	timepoint1_3-APs/RPs	0.0	1205.9335	3002	timepoint1_cell60
+b'GAGACTGTGCAT'	timepoint1_3-APs/RPs	0.0	1282.9784	3263	timepoint1_cell61
+b'GATTGCTTCTCG'	timepoint1_7-IPs	0.0	1362.2239	2790	timepoint1_cell62
+b'TAATACCCTTTT'	timepoint1_5-APs/RPs	0.0	1413.4199	2856	timepoint1_cell63
+b'CTCCAGCTTCGA'	timepoint1_5-APs/RPs	0.0	1042.1392	2732	timepoint1_cell64
+b'CCTGTTCCCCTA'	timepoint1_5-APs/RPs	0.0	573.14667	2951	timepoint1_cell65
+b'CACCAATGTTCA'	timepoint1_3-APs/RPs	0.0	1122.815	2950	timepoint1_cell66
+b'CCCACCCGCGAA'	timepoint1_3-APs/RPs	0.0	759.14325	2501	timepoint1_cell67
+b'GCTGCCCTGCTA'	timepoint1_3-APs/RPs	0.0	1211.1315	2896	timepoint1_cell68
+b'CCGTTACACAGN'	timepoint1_5-APs/RPs	0.0	1222.8348	2936	timepoint1_cell69
+b'TTGATGTTGTCA'	timepoint1_5-APs/RPs	0.0	1296.3303	2894	timepoint1_cell70
+b'TACCATTTCTGC'	timepoint1_5-APs/RPs	0.0	1685.9236	2948	timepoint1_cell71
+b'CGCGGTCCCGCA'	timepoint1_3-APs/RPs	0.0	1259.1266	3013	timepoint1_cell72
+b'CGATTCCACTCC'	timepoint1_5-APs/RPs	0.0	1073.9192	2777	timepoint1_cell73
+b'GCGTCCCAATGG'	timepoint1_3-APs/RPs	0.0	1267.1079	3133	timepoint1_cell74
+b'CATTTCTCTCTN'	timepoint1_3-APs/RPs	0.0	1532.2886	2833	timepoint1_cell75
+b'CTCGCCATGCAG'	timepoint1_3-APs/RPs	0.0	837.28534	2945	timepoint1_cell76
+b'ACTCGTGCTATC'	timepoint1_5-APs/RPs	0.0	1874.399	3011	timepoint1_cell77
+b'TTCTAGTGGCTT'	timepoint1_3-APs/RPs	0.0	1395.6923	2935	timepoint1_cell78
+b'TACCCCTTCACA'	timepoint1_3-APs/RPs	0.0	1520.4366	3023	timepoint1_cell79
+b'TAAAGAACGGGA'	timepoint1_3-APs/RPs	0.0	1346.1505	2848	timepoint1_cell80
+b'CAACCGATACAA'	timepoint1_5-APs/RPs	0.0	1438.6294	2969	timepoint1_cell81
+b'ACAAGCTAAGAT'	timepoint1_3-APs/RPs	0.0	1567.7465	2733	timepoint1_cell82
+b'GTGGTCTAAGAA'	timepoint1_5-APs/RPs	0.0	1977.2523	3612	timepoint1_cell83
+b'TACCATGAGTGN'	timepoint1_3-APs/RPs	0.0	1507.3196	2777	timepoint1_cell84
+b'CGACCACTTTCC'	timepoint1_3-APs/RPs	0.0	1250.4971	2960	timepoint1_cell85
+b'CCGGTCCCAGTA'	timepoint1_3-APs/RPs	0.0	1137.2106	2873	timepoint1_cell86
+b'ACCCTGGGACGT'	timepoint1_5-APs/RPs	0.0	1221.9083	3026	timepoint1_cell87
+b'CCAGTTTCAGGC'	timepoint1_5-APs/RPs	0.0	1053.5928	2659	timepoint1_cell88
+b'AGCTCCCCACGA'	timepoint1_5-APs/RPs	0.0	958.1859	2879	timepoint1_cell89
+b'CGCCCTCGTAGA'	timepoint1_3-APs/RPs	0.0	874.1083	2547	timepoint1_cell90
+b'TGCTCACTATCC'	timepoint1_3-APs/RPs	0.0	1459.2224	3051	timepoint1_cell91
+b'TGAACGGATTAG'	timepoint1_3-APs/RPs	0.0	999.94055	2668	timepoint1_cell92
+b'AAATTCTAGTAG'	timepoint1_5-APs/RPs	0.0	1228.6707	2759	timepoint1_cell93
+b'AGTCCCCTTGCC'	timepoint1_3-APs/RPs	0.0	786.3143	2668	timepoint1_cell94
+b'CCGAATACTTGC'	timepoint1_3-APs/RPs	0.0	896.8391	2729	timepoint1_cell95
+b'TCTCGATGTCTT'	timepoint1_3-APs/RPs	0.0	384.26706	2516	timepoint1_cell96
+b'TGGCGTTCTAAC'	timepoint1_3-APs/RPs	0.0	1909.1989	3043	timepoint1_cell97
+b'AATAGTGGCTTN'	timepoint1_3-APs/RPs	0.0	1641.2943	3032	timepoint1_cell98
+b'GGTAGTTTTAAT'	timepoint1_3-APs/RPs	0.0	837.9312	2723	timepoint1_cell99
+b'GTTACGACCGTA'	timepoint1_3-APs/RPs	0.0	1243.7673	2976	timepoint1_cell100
+b'CCGCTACGGTTG'	timepoint1_3-APs/RPs	0.0	1164.9448	2910	timepoint1_cell101
+b'AGAAGGATCCCA'	timepoint1_5-APs/RPs	0.0	1368.7996	2764	timepoint1_cell102
+b'CACCCTCTTATC'	timepoint1_3-APs/RPs	0.0	870.8042	2679	timepoint1_cell103
+b'GGTCGCTAAGAT'	timepoint1_3-APs/RPs	0.0	846.9378	2700	timepoint1_cell104
+b'ACCGGCCCTCTA'	timepoint1_4-IPs	0.0	1383.5702	2933	timepoint1_cell105
+b'GCTGGCCCCGTC'	timepoint1_5-APs/RPs	0.0	1106.4912	3102	timepoint1_cell106
+b'ACCTGATGCCCC'	timepoint1_5-APs/RPs	0.0	1288.0442	2950	timepoint1_cell107
+b'ATCTAAGCCTTA'	timepoint1_3-APs/RPs	0.0	715.8429	2480	timepoint1_cell108
+b'GGAGACGTTTGT'	timepoint1_3-APs/RPs	0.0	727.2737	2538	timepoint1_cell109
+b'ATTGCAATAGCT'	timepoint1_3-APs/RPs	0.0	705.92285	2528	timepoint1_cell110
+b'GGCTATGTATGC'	timepoint1_3-APs/RPs	0.0	1436.7922	2781	timepoint1_cell111
+b'AGAAACCGCCCA'	timepoint1_5-APs/RPs	0.0	1572.4357	2899	timepoint1_cell112
+b'ATGATCACCCCG'	timepoint1_5-APs/RPs	0.0	1213.5886	2811	timepoint1_cell113
+b'GACATTCCTTGG'	timepoint1_3-APs/RPs	0.0	1246.783	2464	timepoint1_cell114
+b'ATCACCCTCCGC'	timepoint1_3-APs/RPs	0.0	935.8022	2595	timepoint1_cell115
+b'GGGCGTAGACAC'	timepoint1_5-APs/RPs	0.0	1786.0465	3450	timepoint1_cell116
+b'TCGACACGCCTA'	timepoint1_3-APs/RPs	0.0	978.3688	2813	timepoint1_cell117
+b'CGGCTCTGTCTC'	timepoint1_3-APs/RPs	0.0	889.2328	2676	timepoint1_cell118
+b'GTCGTTTTTCCA'	timepoint1_3-APs/RPs	0.0	1179.1936	2729	timepoint1_cell119
+b'CCGGTGTTCCTN'	timepoint1_3-APs/RPs	0.0	351.2294	2341	timepoint1_cell120
+b'ACCTTTCATCCA'	timepoint1_3-APs/RPs	0.0	894.4901	2664	timepoint1_cell121
+b'CAGGCGCGAAGC'	timepoint1_3-APs/RPs	0.0	1085.4191	2630	timepoint1_cell122
+b'TTATCATATATC'	timepoint1_3-APs/RPs	0.0	711.63727	2603	timepoint1_cell123
+b'AGTAGCCAGCCA'	timepoint1_5-APs/RPs	0.0	996.71375	2797	timepoint1_cell124
+b'TTTTTGCTCCAT'	timepoint1_3-APs/RPs	0.0	771.726	2389	timepoint1_cell125
+b'GAAATTCGCCGT'	timepoint1_3-APs/RPs	0.0	706.7484	2391	timepoint1_cell126
+b'GACAATGTTCTC'	timepoint1_5-APs/RPs	0.0	1276.624	2696	timepoint1_cell127
+b'CTAGGTCTGGTA'	timepoint1_4-IPs	0.0	1295.157	2791	timepoint1_cell128
+b'TGAATTGTTGGA'	timepoint1_4-IPs	0.0	903.376	2497	timepoint1_cell129
+b'CTGAATGAACGT'	timepoint1_5-APs/RPs	0.0	1379.7532	2558	timepoint1_cell130
+b'GTGGATTATTCT'	timepoint1_3-APs/RPs	0.0	1089.3394	2849	timepoint1_cell131
+b'CCCTCAAACGCA'	timepoint1_3-APs/RPs	0.0	844.29803	2500	timepoint1_cell132
+b'TACTTTCAGGTT'	timepoint1_3-APs/RPs	0.0	779.493	2616	timepoint1_cell133
+b'TTGTTGTTCTCC'	timepoint1_3-APs/RPs	0.0	924.1933	2624	timepoint1_cell134
+b'AAATTTAAACAG'	timepoint1_3-APs/RPs	0.0	655.0113	2347	timepoint1_cell135
+b'CTCAACACGATC'	timepoint1_7-IPs	0.0	1161.0441	2391	timepoint1_cell136
+b'GAGCGTCGATTT'	timepoint1_5-APs/RPs	0.0	1027.884	2464	timepoint1_cell137
+b'ATCCCGTATCAN'	timepoint1_5-APs/RPs	0.0	1475.7091	2548	timepoint1_cell138
+b'CGCTCCGGGCGG'	timepoint1_3-APs/RPs	0.0	709.77765	2725	timepoint1_cell139
+b'TAGAATATTTTG'	timepoint1_3-APs/RPs	0.0	739.83685	2461	timepoint1_cell140
+b'TCGGAACTCGCC'	timepoint1_3-APs/RPs	0.0	487.18985	2316	timepoint1_cell141
+b'CCAATCCTAGCG'	timepoint1_3-APs/RPs	0.0	1068.8392	2360	timepoint1_cell142
+b'CATCACACATCT'	timepoint1_3-APs/RPs	0.0	751.4865	2337	timepoint1_cell143
+b'ATATCTCCAGCG'	timepoint1_3-APs/RPs	0.0	1218.0636	2486	timepoint1_cell144
+b'ATATTATCGCAT'	timepoint1_5-APs/RPs	0.0	1198.0316	2609	timepoint1_cell145
+b'GAGGTTGGTGCA'	timepoint1_3-APs/RPs	0.0	1437.1635	2737	timepoint1_cell146
+b'ATTCGATTACAC'	timepoint1_3-APs/RPs	0.0	1042.165	2436	timepoint1_cell147
+b'GCGGTGGCAAGA'	timepoint1_7-IPs	0.0	1289.5598	2819	timepoint1_cell148
+b'ACGAGATCATTC'	timepoint1_5-APs/RPs	0.0	1872.235	2526	timepoint1_cell149
+b'CTTGAGCAGCGC'	timepoint1_3-APs/RPs	0.0	926.4506	2659	timepoint1_cell150
+b'CGCACGGTATGN'	timepoint1_5-APs/RPs	0.0	1337.7231	2562	timepoint1_cell151
+b'ATTCATTATGGG'	timepoint1_3-APs/RPs	0.0	1093.5598	2457	timepoint1_cell152
+b'GATAGTATGCTT'	timepoint1_3-APs/RPs	0.0	122.18136	2129	timepoint1_cell153
+b'CCATACCGAACC'	timepoint1_5-APs/RPs	0.0	1044.6556	2514	timepoint1_cell154
+b'CATACAGGTCAT'	timepoint1_4-IPs	0.0	1601.495	2744	timepoint1_cell155
+b'CGTCCCGAGCCN'	timepoint1_3-APs/RPs	0.0	453.55847	2395	timepoint1_cell156
+b'ACACCTCACCTG'	timepoint1_7-IPs	0.0	1145.1871	2493	timepoint1_cell157
+b'ATGGTTGCCTCG'	timepoint1_3-APs/RPs	0.0	951.9708	2604	timepoint1_cell158
+b'CCGGCTACCTCC'	timepoint1_5-APs/RPs	0.0	664.5435	2669	timepoint1_cell159
+b'TCAGCAACAACA'	timepoint1_5-APs/RPs	0.0	990.7824	2160	timepoint1_cell160
+b'TTGCACGATGTC'	timepoint1_5-APs/RPs	0.0	672.91046	2261	timepoint1_cell161
+b'AACCGCGCACCN'	timepoint1_5-APs/RPs	0.0	1022.8402	2498	timepoint1_cell162
+b'TATTTGGATTCT'	timepoint1_3-APs/RPs	0.0	1622.8152	2802	timepoint1_cell163
+b'GCTTCAACCACT'	timepoint1_4-IPs	0.0	1256.9624	2561	timepoint1_cell164
+b'ATAGAGAATAGG'	timepoint1_3-APs/RPs	0.0	1385.9927	2608	timepoint1_cell165
+b'AAAATAGGATTG'	timepoint1_5-APs/RPs	0.0	826.95245	2337	timepoint1_cell166
+b'CTCGTTGCGCGA'	timepoint1_3-APs/RPs	0.0	592.8619	2307	timepoint1_cell167
+b'ATTCCCACCTGT'	timepoint1_2-Young neurons	0.0	645.9881	2281	timepoint1_cell168
+b'CCAACTAGTTTG'	timepoint1_5-APs/RPs	0.0	628.81586	2196	timepoint1_cell169
+b'CTAAGGTCTTCC'	timepoint1_7-IPs	0.0	395.49792	2144	timepoint1_cell170
+b'TACAACGTCTCT'	timepoint1_3-APs/RPs	0.0	592.0931	2459	timepoint1_cell171
+b'TTTCAACCCGGT'	timepoint1_5-APs/RPs	0.0	868.02344	2383	timepoint1_cell172
+b'GCCTCCTGCATA'	timepoint1_3-APs/RPs	0.0	1249.9161	2621	timepoint1_cell173
+b'TACAAGCGGTAC'	timepoint1_5-APs/RPs	0.0	783.1496	2445	timepoint1_cell174
+b'TAGGGATCACGA'	timepoint1_5-APs/RPs	0.0	1060.3741	2627	timepoint1_cell175
+b'ACACCCCTACCC'	timepoint1_5-APs/RPs	0.0	1208.7031	2929	timepoint1_cell176
+b'TGTCCGGTCTGT'	timepoint1_7-IPs	0.0	1393.0034	2498	timepoint1_cell177
+b'AATCTATTAACA'	timepoint1_1-Neurons	0.0	872.8783	2297	timepoint1_cell178
+b'ATCACTCTCGTC'	timepoint1_3-APs/RPs	0.0	531.966	2213	timepoint1_cell179
+b'CCGTGTTCACAG'	timepoint1_3-APs/RPs	0.0	881.7664	2365	timepoint1_cell180
+b'ATACACGAGTTT'	timepoint1_5-APs/RPs	0.0	980.1997	2484	timepoint1_cell181
+b'CAAGATGTTAGT'	timepoint1_5-APs/RPs	0.0	628.1188	2389	timepoint1_cell182
+b'ATGGCCAATTTA'	timepoint1_5-APs/RPs	0.0	443.777	2326	timepoint1_cell183
+b'TTGTACGGGCAC'	timepoint1_5-APs/RPs	0.0	1106.1249	2526	timepoint1_cell184
+b'CGCTTAGGTGTT'	timepoint1_3-APs/RPs	0.0	608.95734	2278	timepoint1_cell185
+b'GAGTCTTTAGCG'	timepoint1_3-APs/RPs	0.0	893.47327	2293	timepoint1_cell186
+b'GACACCCCAGCA'	timepoint1_7-IPs	0.0	1158.2266	2386	timepoint1_cell187
+b'CGACTTAGGAAA'	timepoint1_3-APs/RPs	0.0	929.23834	2284	timepoint1_cell188
+b'ACAAAACCATCG'	timepoint1_7-IPs	0.0	315.74872	1958	timepoint1_cell189
+b'ATGCGCAACTAC'	timepoint1_5-APs/RPs	0.0	979.78845	2563	timepoint1_cell190
+b'CAGAGCTTTACG'	timepoint1_3-APs/RPs	0.0	383.7708	2202	timepoint1_cell191
+b'TACAATCAGTTC'	timepoint1_3-APs/RPs	0.0	1244.8416	2337	timepoint1_cell192
+b'CCGAGGGTTGCC'	timepoint1_3-APs/RPs	0.0	469.7497	2278	timepoint1_cell193
+b'GTCACCGGCTGG'	timepoint1_3-APs/RPs	0.0	388.71902	2247	timepoint1_cell194
+b'TTCCCTCATGAG'	timepoint1_3-APs/RPs	0.0	529.294	2358	timepoint1_cell195
+b'TTTTTCTGAGCA'	timepoint1_4-IPs	0.0	651.3072	2116	timepoint1_cell196
+b'GGGTCTTAGGCC'	timepoint1_5-APs/RPs	0.0	775.9482	2688	timepoint1_cell197
+b'TTCTTGTATAAN'	timepoint1_3-APs/RPs	0.0	998.51227	2271	timepoint1_cell198
+b'ACCTGAAATTGG'	timepoint1_5-APs/RPs	0.0	1001.6872	2520	timepoint1_cell199
+b'AATACTCATCTT'	timepoint1_3-APs/RPs	0.0	847.65924	2317	timepoint1_cell200
+b'ACAATGGGTTTT'	timepoint1_3-APs/RPs	0.0	1308.2029	2448	timepoint1_cell201
+b'ATCGGCCTTACA'	timepoint1_3-APs/RPs	0.0	603.9367	2402	timepoint1_cell202
+b'GCCACCCACGAG'	timepoint1_1-Neurons	0.0	718.66095	2151	timepoint1_cell203
+b'CTGCAGTTGTTA'	timepoint1_3-APs/RPs	0.0	739.56683	2256	timepoint1_cell204
+b'GCAAGGCAGTAA'	timepoint1_5-APs/RPs	0.0	730.06647	2365	timepoint1_cell205
+b'ACGCAGCGGCCA'	timepoint1_5-APs/RPs	0.0	469.29813	2248	timepoint1_cell206
+b'GCTCCCTATCCT'	timepoint1_5-APs/RPs	0.0	1517.065	2524	timepoint1_cell207
+b'ACGCTCAGTCTA'	timepoint1_3-APs/RPs	0.0	580.1429	2367	timepoint1_cell208
+b'ATGAGTTACGTC'	timepoint1_5-APs/RPs	0.0	937.0118	2508	timepoint1_cell209
+b'TGCACCTCATGG'	timepoint1_3-APs/RPs	0.0	709.57935	2445	timepoint1_cell210
+b'TTAGCATGTTTG'	timepoint1_1-Neurons	0.0	815.61005	2239	timepoint1_cell211
+b'CGAGTGCGAAAC'	timepoint1_5-APs/RPs	0.0	769.9808	2336	timepoint1_cell212
+b'AACGTATTTAGC'	timepoint1_5-APs/RPs	0.0	1109.9155	2477	timepoint1_cell213
+b'CGCATGAGAGGC'	timepoint1_3-APs/RPs	0.0	291.0973	2124	timepoint1_cell214
+b'ACTATGTCTACA'	timepoint1_5-APs/RPs	0.0	1376.1421	2454	timepoint1_cell215
+b'GCGTTGTGTCAT'	timepoint1_5-APs/RPs	0.0	843.6603	2395	timepoint1_cell216
+b'CGTATTGCTAGA'	timepoint1_1-Neurons	0.0	611.94324	2193	timepoint1_cell217
+b'CGAGCGTTAGGT'	timepoint1_5-APs/RPs	0.0	755.9216	2193	timepoint1_cell218
+b'TCCCTGTTGTTG'	timepoint1_5-APs/RPs	0.0	941.0235	2531	timepoint1_cell219
+b'CAGTAGCGGTTT'	timepoint1_3-APs/RPs	0.0	216.4836	2105	timepoint1_cell220
+b'GTCGCAACACCA'	timepoint1_3-APs/RPs	0.0	947.4564	2245	timepoint1_cell221
+b'GACGTCTATTTN'	timepoint1_5-APs/RPs	0.0	470.4966	2287	timepoint1_cell222
+b'GGCCACCGCCAA'	timepoint1_3-APs/RPs	0.0	430.7178	2219	timepoint1_cell223
+b'CTACCTCTGATC'	timepoint1_5-APs/RPs	0.0	1077.2281	2304	timepoint1_cell224
+b'CCTACTTCGATA'	timepoint1_1-Neurons	0.0	449.21243	2021	timepoint1_cell225
+b'ATTGTTGCGTCG'	timepoint1_3-APs/RPs	0.0	769.32965	2303	timepoint1_cell226
+b'CGCTGAATTGTC'	timepoint1_3-APs/RPs	0.0	774.16364	2396	timepoint1_cell227
+b'GCATAGCCGCCA'	timepoint1_5-APs/RPs	0.0	742.9739	2149	timepoint1_cell228
+b'AGTCATAGGAAA'	timepoint1_3-APs/RPs	0.0	594.2257	2323	timepoint1_cell229
+b'GCCGCGACCTCG'	timepoint1_5-APs/RPs	0.0	1189.5331	2093	timepoint1_cell230
+b'TGTTGTCTTGCT'	timepoint1_3-APs/RPs	0.0	901.7328	2259	timepoint1_cell231
+b'GTTGGGCGGAAN'	timepoint1_5-APs/RPs	0.0	1191.6442	2549	timepoint1_cell232
+b'GTTTCATGAATT'	timepoint1_5-APs/RPs	0.0	713.5539	2316	timepoint1_cell233
+b'CGTTGCCGAGGN'	timepoint1_5-APs/RPs	0.0	853.03265	2333	timepoint1_cell234
+b'TATCTAGGGACT'	timepoint1_1-Neurons	0.0	917.72424	2137	timepoint1_cell235
+b'GCGAACATTGAT'	timepoint1_7-IPs	0.0	705.176	2235	timepoint1_cell236
+b'GTTACTCGTCGT'	timepoint1_5-APs/RPs	0.0	265.4383	2139	timepoint1_cell237
+b'CTCCATGGATTC'	timepoint1_1-Neurons	0.0	663.1978	2029	timepoint1_cell238
+b'AGCACCCTTCGG'	timepoint1_3-APs/RPs	0.0	572.3571	2181	timepoint1_cell239
+b'ATCTGCATTTCC'	timepoint1_5-APs/RPs	0.0	627.94354	2207	timepoint1_cell240
+b'GGCGTATTTCGN'	timepoint1_3-APs/RPs	0.0	278.84695	2101	timepoint1_cell241
+b'AGTGTGAACGAT'	timepoint1_2-Young neurons	0.0	517.16437	2098	timepoint1_cell242
+b'CAGTCGCAGGAA'	timepoint1_3-APs/RPs	0.0	976.0376	2401	timepoint1_cell243
+b'AATTACCCTCAA'	timepoint1_5-APs/RPs	0.0	276.33893	1920	timepoint1_cell244
+b'TTGGCGTGCGTC'	timepoint1_4-IPs	0.0	898.23145	2172	timepoint1_cell245
+b'TGACCTCAGTTN'	timepoint1_3-APs/RPs	0.0	824.0236	2016	timepoint1_cell246
+b'ATTCTGCCTGCG'	timepoint1_5-APs/RPs	0.0	275.66302	1937	timepoint1_cell247
+b'CACTACGTCTGA'	timepoint1_3-APs/RPs	0.0	711.82587	2050	timepoint1_cell248
+b'TGTTCGGATAGG'	timepoint1_7-IPs	0.0	382.92133	2147	timepoint1_cell249
+b'GCTCCGCTGAGT'	timepoint1_3-APs/RPs	0.0	541.1808	2104	timepoint1_cell250
+b'TTATTCTTTATC'	timepoint1_3-APs/RPs	0.0	599.0137	2072	timepoint1_cell251
+b'AATCAAACCAGA'	timepoint1_5-APs/RPs	0.0	671.1313	2056	timepoint1_cell252
+b'ACACCCTCTATT'	timepoint1_3-APs/RPs	0.0	44.4632	2024	timepoint1_cell253
+b'GAGAGATGCGCG'	timepoint1_7-IPs	0.0	1223.9844	2436	timepoint1_cell254
+b'ATTGCCCCACAT'	timepoint1_4-IPs	0.0	774.4259	2233	timepoint1_cell255
+b'ATATCCACAGCG'	timepoint1_3-APs/RPs	0.0	714.2805	2141	timepoint1_cell256
+b'GCGTTACGTAGT'	timepoint1_3-APs/RPs	0.0	9.18424	2003	timepoint1_cell257
+b'TAAGTACTGGTT'	timepoint1_5-APs/RPs	0.0	824.41046	2109	timepoint1_cell258
+b'GCAGACAGCCGG'	timepoint1_5-APs/RPs	0.0	642.79297	2239	timepoint1_cell259
+b'CAATCGTGCTAG'	timepoint1_3-APs/RPs	0.0	490.1513	2066	timepoint1_cell260
+b'TGTTTGCGCCCA'	timepoint1_1-Neurons	0.0	676.43994	2073	timepoint1_cell261
+b'ACGTAGAATGAT'	timepoint1_4-IPs	0.0	550.6915	2069	timepoint1_cell262
+b'TTGCGCAGGCCC'	timepoint1_6-Young neurons	0.0	955.72766	2135	timepoint1_cell263
+b'CCTATCTCGACA'	timepoint1_4-IPs	0.0	491.00198	2073	timepoint1_cell264
+b'GACTCATGTCTA'	timepoint1_5-APs/RPs	0.0	569.2115	2167	timepoint1_cell265
+b'ACCTTACACCGC'	timepoint1_3-APs/RPs	0.0	499.20392	2172	timepoint1_cell266
+b'CTACTACCGAAC'	timepoint1_1-Neurons	0.0	909.0258	2075	timepoint1_cell267
+b'ACGATTGCTCAA'	timepoint1_3-APs/RPs	0.0	875.4246	2024	timepoint1_cell268
+b'CTGCGACCCATC'	timepoint1_5-APs/RPs	0.0	763.88586	2234	timepoint1_cell269
+b'ACAACGGCACCT'	timepoint1_3-APs/RPs	0.0	515.45306	2211	timepoint1_cell270
+b'GAGTGTGCGAGC'	timepoint1_7-IPs	0.0	1345.2537	2247	timepoint1_cell271
+b'CTCCGTTGGTAC'	timepoint1_3-APs/RPs	0.0	490.99847	2100	timepoint1_cell272
+b'GTCTTCAGCTTN'	timepoint1_4-IPs	0.0	789.56067	1864	timepoint1_cell273
+b'TTAAGTAACGAA'	timepoint1_3-APs/RPs	0.0	639.0721	2149	timepoint1_cell274
+b'AGCCGGAACGAA'	timepoint1_5-APs/RPs	0.0	734.55914	2143	timepoint1_cell275
+b'CCAGCCCGTATA'	timepoint1_5-APs/RPs	0.0	328.7064	1955	timepoint1_cell276
+b'ATTTTGCCTATA'	timepoint1_3-APs/RPs	0.0	360.30698	1965	timepoint1_cell277
+b'ACGAACCCCGTT'	timepoint1_5-APs/RPs	0.0	836.6415	2278	timepoint1_cell278
+b'TAAATCCTTCCA'	timepoint1_5-APs/RPs	0.0	680.43536	2001	timepoint1_cell279
+b'CGAGTCTAGGCG'	timepoint1_3-APs/RPs	0.0	261.17795	2088	timepoint1_cell280
+b'CGTTAGTGCTTA'	timepoint1_3-APs/RPs	0.0	675.6776	2046	timepoint1_cell281
+b'GACCTGGAGGTT'	timepoint1_5-APs/RPs	0.0	542.3113	2034	timepoint1_cell282
+b'TTAAGAACTAAC'	timepoint1_5-APs/RPs	0.0	624.0396	1920	timepoint1_cell283
+b'GTGACTTCTCGC'	timepoint1_5-APs/RPs	0.0	554.14233	1923	timepoint1_cell284
+b'TCCATAGGTTGC'	timepoint1_5-APs/RPs	0.0	499.3319	2077	timepoint1_cell285
+b'CGTACTCTAGAN'	timepoint1_4-IPs	0.0	445.3121	1854	timepoint1_cell286
+b'CTTTACTGTTAC'	timepoint1_5-APs/RPs	0.0	653.453	1949	timepoint1_cell287
+b'CGGATTGGTTCG'	timepoint1_3-APs/RPs	0.0	458.15363	2007	timepoint1_cell288
+b'GTCGATTATAGA'	timepoint1_3-APs/RPs	0.0	668.5921	2037	timepoint1_cell289
+b'CCCTCGTGTTGT'	timepoint1_3-APs/RPs	0.0	512.9862	2184	timepoint1_cell290
+b'TACACTTCCGTC'	timepoint1_4-IPs	0.0	335.79443	1843	timepoint1_cell291
+b'CAGTAGTATCGA'	timepoint1_3-APs/RPs	0.0	531.30963	2068	timepoint1_cell292
+b'AAAATCAACGAT'	timepoint1_4-IPs	0.0	649.3767	1879	timepoint1_cell293
+b'GTATCTCACAGC'	timepoint1_5-APs/RPs	0.0	481.88855	1941	timepoint1_cell294
+b'GCAGACACCGCN'	timepoint1_3-APs/RPs	0.0	522.4907	2122	timepoint1_cell295
+b'ACCCCGAGAGAT'	timepoint1_3-APs/RPs	0.0	416.82266	1946	timepoint1_cell296
+b'AAACGCTCGCTC'	timepoint1_3-APs/RPs	0.0	635.98944	2096	timepoint1_cell297
+b'GCGTCTCATCCT'	timepoint1_4-IPs	0.0	571.4668	1910	timepoint1_cell298
+b'TGCATTTCCAAT'	timepoint1_5-APs/RPs	0.0	296.36407	1758	timepoint1_cell299
+b'AGAATGTCGCCA'	timepoint1_4-IPs	0.0	862.9672	1896	timepoint1_cell300
+b'CCCAATGTAGTA'	timepoint1_5-APs/RPs	0.0	485.1546	1968	timepoint1_cell301
+b'ATCATAGAATCA'	timepoint1_3-APs/RPs	0.0	692.03326	1962	timepoint1_cell302
+b'GTGTTCTGTCTA'	timepoint1_3-APs/RPs	0.0	504.90628	2000	timepoint1_cell303
+b'CAACCCTCCTGT'	timepoint1_4-IPs	0.0	681.22235	2085	timepoint1_cell304
+b'CCCACAGAAAGA'	timepoint1_5-APs/RPs	0.0	189.1259	1855	timepoint1_cell305
+b'CAGATAGGAATA'	timepoint1_3-APs/RPs	0.0	251.71455	1937	timepoint1_cell306
+b'GCAATCTGCCCC'	timepoint1_5-APs/RPs	0.0	440.94113	2204	timepoint1_cell307
+b'CGTCATGAATTT'	timepoint1_3-APs/RPs	0.0	148.2813	1903	timepoint1_cell308
+b'GATTAGGCACTT'	timepoint1_2-Young neurons	0.0	969.4196	1935	timepoint1_cell309
+b'GATACTCCAAGT'	timepoint1_5-APs/RPs	0.0	133.7248	1958	timepoint1_cell310
+b'GCCAGCAGCGGC'	timepoint1_5-APs/RPs	0.0	575.84595	2176	timepoint1_cell311
+b'TTCAAAGCCATG'	timepoint1_5-APs/RPs	0.0	657.8704	1966	timepoint1_cell312
+b'ACCATGCTGGTC'	timepoint1_7-IPs	0.0	386.52206	1914	timepoint1_cell313
+b'GCCCGAGATGTT'	timepoint1_3-APs/RPs	0.0	1286.2756	2039	timepoint1_cell314
+b'CTCGATCGAGGA'	timepoint1_5-APs/RPs	0.0	43.20634	1870	timepoint1_cell315
+b'GACAAAGTGAAT'	timepoint1_1-Neurons	0.0	371.77396	1762	timepoint1_cell316
+b'ATGTTCGAGCGG'	timepoint1_5-APs/RPs	0.0	339.98935	2080	timepoint1_cell317
+b'CCTATTGAAGCG'	timepoint1_5-APs/RPs	0.0	602.0847	2035	timepoint1_cell318
+b'TAAGAATAAGTC'	timepoint1_3-APs/RPs	0.0	267.93625	1739	timepoint1_cell319
+b'TGTGGTTTTCCA'	timepoint1_5-APs/RPs	0.0	717.9702	2264	timepoint1_cell320
+b'CATTTTCGGTCT'	timepoint1_5-APs/RPs	-0.0	-617.67224	1465	timepoint1_cell321
+b'TCCTTCGCATGG'	timepoint1_3-APs/RPs	0.0	522.8622	1816	timepoint1_cell322
+b'GTAATTCCTTTT'	timepoint1_5-APs/RPs	0.0	1315.9131	1851	timepoint1_cell323
+b'ACTGGGTCAGCA'	timepoint1_1-Neurons	0.0	717.6519	2136	timepoint1_cell324
+b'ACAGTCCGCGGC'	timepoint1_5-APs/RPs	0.0	1203.4589	2229	timepoint1_cell325
+b'CGTTCTATAATT'	timepoint1_7-IPs	0.0	406.18967	1849	timepoint1_cell326
+b'CTGTGTAGCGAC'	timepoint1_3-APs/RPs	0.0	305.67896	1991	timepoint1_cell327
+b'ACCTTTTCACTA'	timepoint1_5-APs/RPs	0.0	787.6671	1892	timepoint1_cell328
+b'TAAGTCCATGGN'	timepoint1_5-APs/RPs	0.0	798.2708	2036	timepoint1_cell329
+b'CGAGTACTTTGA'	timepoint1_5-APs/RPs	0.0	1102.227	2156	timepoint1_cell330
+b'CCATAAATTCGC'	timepoint1_5-APs/RPs	0.0	301.83804	1915	timepoint1_cell331
+b'CGTGACCCCCTC'	timepoint1_5-APs/RPs	0.0	13.218406	1860	timepoint1_cell332
+b'TAGCAGTCATAT'	timepoint1_7-IPs	0.0	534.56226	1786	timepoint1_cell333
+b'TTTTCTGTGTCC'	timepoint1_6-Young neurons	0.0	445.31876	1981	timepoint1_cell334
+b'ACGTCCTGATCT'	timepoint1_5-APs/RPs	0.0	646.12396	2184	timepoint1_cell335
+b'AACATACTTACC'	timepoint1_4-IPs	0.0	1014.535	1949	timepoint1_cell336
+b'CCACAAGTTGGN'	timepoint1_5-APs/RPs	-0.0	-117.499535	1680	timepoint1_cell337
+b'GCCTTTCGGATA'	timepoint1_3-APs/RPs	0.0	781.99664	2190	timepoint1_cell338
+b'GAACACCGTACA'	timepoint1_3-APs/RPs	0.0	482.76456	1912	timepoint1_cell339
+b'AGCACCAATTCC'	timepoint1_3-APs/RPs	0.0	165.09175	1937	timepoint1_cell340
+b'TACGGCATGGCG'	timepoint1_5-APs/RPs	0.0	432.3684	2044	timepoint1_cell341
+b'GCGAGCCCGATG'	timepoint1_2-Young neurons	0.0	1089.4966	1980	timepoint1_cell342
+b'CCGCATAAACGN'	timepoint1_3-APs/RPs	0.0	261.46216	1723	timepoint1_cell343
+b'TATCTCAGCCTA'	timepoint1_5-APs/RPs	0.0	438.37616	1845	timepoint1_cell344
+b'GCCCGACCCCCA'	timepoint1_4-IPs	0.0	649.41046	2073	timepoint1_cell345
+b'TTTTTCCCCACA'	timepoint1_4-IPs	0.0	113.78166	1633	timepoint1_cell346
+b'ACGATCGCATAG'	timepoint1_5-APs/RPs	0.0	773.43396	2002	timepoint1_cell347
+b'CAATAGCGAGTC'	timepoint1_3-APs/RPs	0.0	462.5023	1920	timepoint1_cell348
+b'CTTGCAAATTGT'	timepoint1_6-Young neurons	0.0	282.0788	1889	timepoint1_cell349
+b'GACATGGCTAGT'	timepoint1_5-APs/RPs	0.0	642.20294	1978	timepoint1_cell350
+b'TGTTTCAATCCC'	timepoint1_4-IPs	0.0	687.27313	1928	timepoint1_cell351
+b'CAGCATCTGTCA'	timepoint1_3-APs/RPs	0.0	202.03268	1830	timepoint1_cell352
+b'GGTGCGACTGAC'	timepoint1_5-APs/RPs	0.0	664.41174	2038	timepoint1_cell353
+b'GTTTGCAAAATG'	timepoint1_5-APs/RPs	0.0	215.09778	1921	timepoint1_cell354
+b'TATGTTGTCACA'	timepoint1_5-APs/RPs	0.0	718.07874	2046	timepoint1_cell355
+b'AATGCAATCCCC'	timepoint1_3-APs/RPs	0.0	273.36832	1880	timepoint1_cell356
+b'AGGTTCCTGCCC'	timepoint1_3-APs/RPs	0.0	417.63245	1908	timepoint1_cell357
+b'TAGATCACGCCG'	timepoint1_3-APs/RPs	0.0	668.4117	1877	timepoint1_cell358
+b'TTTATCACTCGA'	timepoint1_7-IPs	0.0	337.9087	1689	timepoint1_cell359
+b'AACGCATGAGAA'	timepoint1_3-APs/RPs	0.0	339.58575	2000	timepoint1_cell360
+b'AACGATAGAATT'	timepoint1_3-APs/RPs	0.0	290.29916	1661	timepoint1_cell361
+b'TCTACGTGGACN'	timepoint1_1-Neurons	0.0	657.4197	1754	timepoint1_cell362
+b'CAACTTCGCCTT'	timepoint1_3-APs/RPs	0.0	114.459496	1827	timepoint1_cell363
+b'GCAGAACTTCGC'	timepoint1_3-APs/RPs	0.0	161.97588	1723	timepoint1_cell364
+b'AAGGATAGATGT'	timepoint1_3-APs/RPs	0.0	479.6947	1953	timepoint1_cell365
+b'GTTGAGAGTGTC'	timepoint1_3-APs/RPs	0.0	174.41756	1811	timepoint1_cell366
+b'TCCCCAAGTCTT'	timepoint1_3-APs/RPs	0.0	113.481285	1838	timepoint1_cell367
+b'TGGTGCTGTAGT'	timepoint1_3-APs/RPs	0.0	540.9562	2121	timepoint1_cell368
+b'ATGAGTTTTTTA'	timepoint1_3-APs/RPs	-0.0	-156.28604	1717	timepoint1_cell369
+b'CTGTGCTTGTGT'	timepoint1_5-APs/RPs	0.0	152.53687	1871	timepoint1_cell370
+b'TCTAGTCATTCT'	timepoint1_4-IPs	0.0	6.448347	1591	timepoint1_cell371
+b'TTATTTCCTTAA'	timepoint1_5-APs/RPs	-0.0	-12.553121	1685	timepoint1_cell372
+b'ACCAAAGTTATG'	timepoint1_1-Neurons	-0.0	-131.8323	1587	timepoint1_cell373
+b'ATTACACGTATT'	timepoint1_3-APs/RPs	0.0	315.59564	1787	timepoint1_cell374
+b'GAAACTACTACC'	timepoint1_5-APs/RPs	0.0	499.95947	1712	timepoint1_cell375
+b'TGGTCTTTTTAN'	timepoint1_2-Young neurons	0.0	715.6348	1901	timepoint1_cell376
+b'GATTTTTTGGTC'	timepoint1_3-APs/RPs	-0.0	-21.37824	1800	timepoint1_cell377
+b'CTGGATAGATGT'	timepoint1_1-Neurons	0.0	617.03345	1686	timepoint1_cell378
+b'GGTAGTCGGCCT'	timepoint1_3-APs/RPs	0.0	554.54645	1955	timepoint1_cell379
+b'TTCGACTGAAAC'	timepoint1_5-APs/RPs	0.0	243.12283	1802	timepoint1_cell380
+b'CAATCTCACAGC'	timepoint1_3-APs/RPs	0.0	145.0374	1693	timepoint1_cell381
+b'GCGATTCGTCGT'	timepoint1_1-Neurons	0.0	402.28622	1741	timepoint1_cell382
+b'GAATACGTTTAA'	timepoint1_3-APs/RPs	-0.0	-307.37265	1541	timepoint1_cell383
+b'TTTTCAGAGTAT'	timepoint1_3-APs/RPs	0.0	573.09827	1902	timepoint1_cell384
+b'CCCTTTATACCG'	timepoint1_3-APs/RPs	0.0	572.77466	1887	timepoint1_cell385
+b'CAAATCCGTCTG'	timepoint1_1-Neurons	0.0	507.0087	1729	timepoint1_cell386
+b'ACATCTTTTCGA'	timepoint1_4-IPs	0.0	474.4625	1717	timepoint1_cell387
+b'GCCTTTGTGCGA'	timepoint1_3-APs/RPs	0.0	608.7305	1754	timepoint1_cell388
+b'AATTGGAGCGTA'	timepoint1_6-Young neurons	0.0	99.44745	1672	timepoint1_cell389
+b'AGGCGCACCATC'	timepoint1_3-APs/RPs	0.0	239.5175	1950	timepoint1_cell390
+b'GTTCGTACCGCC'	timepoint1_1-Neurons	0.0	408.53848	1822	timepoint1_cell391
+b'AAAGTGCTCCTA'	timepoint1_1-Neurons	0.0	263.66293	1726	timepoint1_cell392
+b'TTAGTTTAATGN'	timepoint1_3-APs/RPs	0.0	306.57758	1832	timepoint1_cell393
+b'CCCGCAAATTAC'	timepoint1_3-APs/RPs	-0.0	-15.965409	1717	timepoint1_cell394
+b'AACGCGACTCTC'	timepoint1_6-Young neurons	-0.0	-103.07186	1635	timepoint1_cell395
+b'GCTAACCTAACA'	timepoint1_6-Young neurons	0.0	31.494589	1781	timepoint1_cell396
+b'GCCGCAATCCAC'	timepoint1_7-IPs	0.0	583.8536	1691	timepoint1_cell397
+b'CGTATGGACCTG'	timepoint1_5-APs/RPs	0.0	653.22614	1870	timepoint1_cell398
+b'ATCGTCTGAGTT'	timepoint1_4-IPs	0.0	416.37048	1750	timepoint1_cell399
+b'ATAGAGATAGGN'	timepoint1_4-IPs	0.0	90.75012	1687	timepoint1_cell400
+b'GGATTGTTAGGC'	timepoint1_4-IPs	0.0	333.32037	1685	timepoint1_cell401
+b'CGTGTGTCGAAC'	timepoint1_4-IPs	0.0	508.72702	2122	timepoint1_cell402
+b'CGTGCTTAACAA'	timepoint1_3-APs/RPs	0.0	501.13925	1944	timepoint1_cell403
+b'TGCTTCCGCAGT'	timepoint1_3-APs/RPs	0.0	216.73288	1636	timepoint1_cell404
+b'GAGTAGGAATAT'	timepoint1_5-APs/RPs	-0.0	-394.28452	1565	timepoint1_cell405
+b'ATAGCGCGTTTA'	timepoint1_6-Young neurons	-0.0	-28.270098	1638	timepoint1_cell406
+b'CCAGAAGTGTTC'	timepoint1_3-APs/RPs	0.0	237.4412	1647	timepoint1_cell407
+b'TACCCCGAAGTA'	timepoint1_5-APs/RPs	0.0	111.44075	1681	timepoint1_cell408
+b'CATAATCGCCCC'	timepoint1_6-Young neurons	-0.0	-22.681599	1742	timepoint1_cell409
+b'GTTCCTCAAGCC'	timepoint1_4-IPs	0.0	311.2765	1815	timepoint1_cell410
+b'CTTGCACTTCGT'	timepoint1_3-APs/RPs	0.0	327.80432	1826	timepoint1_cell411
+b'CGCGAGGGGATT'	timepoint1_1-Neurons	0.0	537.63385	1798	timepoint1_cell412
+b'CTGTGCAAGCCC'	timepoint1_3-APs/RPs	0.0	184.00255	1886	timepoint1_cell413
+b'CACATCGACGCG'	timepoint1_1-Neurons	0.0	179.29066	1563	timepoint1_cell414
+b'GAGTTGCCCGTG'	timepoint1_3-APs/RPs	0.0	43.145367	1741	timepoint1_cell415
+b'TTTCTCCGCTGA'	timepoint1_5-APs/RPs	0.0	448.22302	1948	timepoint1_cell416
+b'ATTATTAAGGAT'	timepoint1_1-Neurons	0.0	820.3307	1796	timepoint1_cell417
+b'ATCAGCCGCTGC'	timepoint1_3-APs/RPs	0.0	538.5467	1864	timepoint1_cell418
+b'AGTAGTTTCACG'	timepoint1_6-Young neurons	0.0	315.32034	1779	timepoint1_cell419
+b'CGCGAATGTCAG'	timepoint1_5-APs/RPs	0.0	203.31639	1632	timepoint1_cell420
+b'TTTGTATCTATT'	timepoint1_4-IPs	0.0	717.079	1707	timepoint1_cell421
+b'ACTTAATCTCAG'	timepoint1_3-APs/RPs	-0.0	-154.61597	1608	timepoint1_cell422
+b'TGCTACCTACGG'	timepoint1_3-APs/RPs	-0.0	-227.39473	1543	timepoint1_cell423
+b'CCTGAAGGCCAC'	timepoint1_5-APs/RPs	0.0	115.45712	1747	timepoint1_cell424
+b'CAAGCTGAACGT'	timepoint1_3-APs/RPs	0.0	205.5685	1506	timepoint1_cell425
+b'TATGCCTTCGTG'	timepoint1_1-Neurons	0.0	537.6227	1809	timepoint1_cell426
+b'TGAGACAGAGTT'	timepoint1_4-IPs	0.0	831.8602	1713	timepoint1_cell427
+b'GACCCTCGCAAG'	timepoint1_5-APs/RPs	0.0	1889.7644	1694	timepoint1_cell428
+b'TCTAATGCGCTG'	timepoint1_3-APs/RPs	-0.0	-31.524633	1635	timepoint1_cell429
+b'AGGTAACACAGA'	timepoint1_4-IPs	0.0	152.96475	1548	timepoint1_cell430
+b'GGGCAGCGTGTG'	timepoint1_7-IPs	0.0	553.00586	1931	timepoint1_cell431
+b'GTGCACAACGTC'	timepoint1_5-APs/RPs	0.0	118.767365	1672	timepoint1_cell432
+b'GACGATCAAAGG'	timepoint1_5-APs/RPs	-0.0	-25.80599	1639	timepoint1_cell433
+b'CACATTTCTGCA'	timepoint1_1-Neurons	0.0	403.25818	1645	timepoint1_cell434
+b'ATTACTGTAACT'	timepoint1_3-APs/RPs	0.0	390.97946	1613	timepoint1_cell435
+b'GTAGCTTCCCAC'	timepoint1_3-APs/RPs	0.0	703.1065	1730	timepoint1_cell436
+b'ACTGTTACTGGC'	timepoint1_3-APs/RPs	0.0	246.88213	1747	timepoint1_cell437
+b'TCAATGCACGCG'	timepoint1_3-APs/RPs	0.0	349.70627	1742	timepoint1_cell438
+b'GTAAACATTCCT'	timepoint1_3-APs/RPs	0.0	339.15375	1559	timepoint1_cell439
+b'TTTTATTCTTGT'	timepoint1_5-APs/RPs	0.0	138.38982	1743	timepoint1_cell440
+b'TGAAGCCGGTGN'	timepoint1_5-APs/RPs	0.0	592.08264	1695	timepoint1_cell441
+b'AATTAGGCCCGA'	timepoint1_4-IPs	0.0	847.3299	1607	timepoint1_cell442
+b'GAGACACTCGCA'	timepoint1_3-APs/RPs	0.0	500.33688	1940	timepoint1_cell443
+b'ATCGTCATTATA'	timepoint1_3-APs/RPs	0.0	63.670193	1827	timepoint1_cell444
+b'ACAAAGTTATGG'	timepoint1_3-APs/RPs	-0.0	-122.32853	1454	timepoint1_cell445
+b'TTATTATACATG'	timepoint1_3-APs/RPs	0.0	189.53351	1776	timepoint1_cell446
+b'GGCTACGGCGCT'	timepoint1_3-APs/RPs	0.0	139.52013	1585	timepoint1_cell447
+b'GGCCTAGGTAAG'	timepoint1_3-APs/RPs	0.0	437.80136	1777	timepoint1_cell448
+b'AATAATAGTGAC'	timepoint1_3-APs/RPs	-0.0	-238.95059	1664	timepoint1_cell449
+b'ATTGGGGATCGN'	timepoint1_5-APs/RPs	0.0	191.44138	1617	timepoint1_cell450
+b'GCTCTAGAAATA'	timepoint1_5-APs/RPs	0.0	255.20525	1621	timepoint1_cell451
+b'AGGCTCCCAGGT'	timepoint1_5-APs/RPs	0.0	646.8333	1798	timepoint1_cell452
+b'CGTGTAGTTAAT'	timepoint1_3-APs/RPs	0.0	328.10745	1787	timepoint1_cell453
+b'GATTATCGTCTC'	timepoint1_1-Neurons	-0.0	-39.133194	1518	timepoint1_cell454
+b'CAGATGTGGTCT'	timepoint1_1-Neurons	0.0	424.38513	1719	timepoint1_cell455
+b'GTCTAGCACCAC'	timepoint1_5-APs/RPs	0.0	186.28615	1834	timepoint1_cell456
+b'GAACCTATCCGC'	timepoint1_3-APs/RPs	0.0	87.44837	1775	timepoint1_cell457
+b'TGGGTGCTGGAC'	timepoint1_5-APs/RPs	0.0	866.8888	1963	timepoint1_cell458
+b'GTCTTCTGAGTG'	timepoint1_1-Neurons	0.0	845.4361	1825	timepoint1_cell459
+b'CTCAGCCGCCGC'	timepoint1_1-Neurons	0.0	145.3084	1785	timepoint1_cell460
+b'GACCGGTCTGAC'	timepoint1_5-APs/RPs	0.0	116.37842	1655	timepoint1_cell461
+b'GACACTGATGAT'	timepoint1_5-APs/RPs	0.0	324.60046	1739	timepoint1_cell462
+b'GCCGGCGGCCGG'	timepoint1_3-APs/RPs	-0.0	-156.51903	1651	timepoint1_cell463
+b'TCTTGACGGCCA'	timepoint1_3-APs/RPs	-0.0	-429.36377	1515	timepoint1_cell464
+b'GTGCGGAAACAC'	timepoint1_5-APs/RPs	0.0	281.34543	1767	timepoint1_cell465
+b'GTGGATGGAGGG'	timepoint1_1-Neurons	0.0	1091.9312	1807	timepoint1_cell466
+b'CCGCATCTCCTT'	timepoint1_3-APs/RPs	-0.0	-7.0171857	1578	timepoint1_cell467
+b'GCTCCTTAATAC'	timepoint1_6-Young neurons	-0.0	-55.04674	1636	timepoint1_cell468
+b'ATGATATCCTAA'	timepoint1_5-APs/RPs	0.0	369.27682	1760	timepoint1_cell469
+b'CAGATTACCGAC'	timepoint1_6-Young neurons	0.0	135.30101	1655	timepoint1_cell470
+b'CTACATCCTAAT'	timepoint1_1-Neurons	0.0	48.621883	1440	timepoint1_cell471
+b'AGTTGTTAGCAA'	timepoint1_3-APs/RPs	0.0	37.640797	1689	timepoint1_cell472
+b'GGCACGATCGTG'	timepoint1_3-APs/RPs	0.0	75.8867	1582	timepoint1_cell473
+b'GGGCCGTAGGTG'	timepoint1_5-APs/RPs	0.0	829.1589	1801	timepoint1_cell474
+b'GGCAAACGCTAA'	timepoint1_3-APs/RPs	-0.0	-132.0626	1657	timepoint1_cell475
+b'TTGCGATCAGCC'	timepoint1_7-IPs	0.0	354.99988	1543	timepoint1_cell476
+b'ATTAGGCCGGCA'	timepoint1_2-Young neurons	0.0	179.2994	1620	timepoint1_cell477
+b'ATTGCGGCGGGG'	timepoint1_3-APs/RPs	0.0	569.7234	1696	timepoint1_cell478
+b'ATGAGAGGAAGA'	timepoint1_3-APs/RPs	0.0	206.37228	1572	timepoint1_cell479
+b'AATTTACTTAAC'	timepoint1_5-APs/RPs	0.0	249.10918	1569	timepoint1_cell480
+b'ATCCAGAGAGTA'	timepoint1_4-IPs	0.0	581.3501	1604	timepoint1_cell481
+b'GCAGCTGGGTCT'	timepoint1_5-APs/RPs	-0.0	-239.88853	1626	timepoint1_cell482
+b'ACCAAGCGTCGG'	timepoint1_1-Neurons	0.0	41.29239	1672	timepoint1_cell483
+b'TTTTCAATACGG'	timepoint1_3-APs/RPs	-0.0	-164.88832	1464	timepoint1_cell484
+b'CGCAGTACGATA'	timepoint1_5-APs/RPs	0.0	236.04602	1541	timepoint1_cell485
+b'GGTTGGCTGCTC'	timepoint1_2-Young neurons	0.0	950.4537	1942	timepoint1_cell486
+b'AGCTGAAAGAGG'	timepoint1_5-APs/RPs	0.0	727.53424	1757	timepoint1_cell487
+b'TCCTTTAATCTC'	timepoint1_4-IPs	0.0	345.78598	1654	timepoint1_cell488
+b'CGACAATACCGG'	timepoint1_3-APs/RPs	0.0	32.7677	1526	timepoint1_cell489
+b'AGCTCATCGCTG'	timepoint1_7-IPs	-0.0	-348.24408	1356	timepoint1_cell490
+b'GAGAGATCTACG'	timepoint1_4-IPs	0.0	312.03668	1585	timepoint1_cell491
+b'TGTATGTCTGTC'	timepoint1_4-IPs	-0.0	-25.670017	1640	timepoint1_cell492
+b'GATCAGCCGGAT'	timepoint1_3-APs/RPs	0.0	49.656883	1558	timepoint1_cell493
+b'TCCTTATGCCGC'	timepoint1_3-APs/RPs	-0.0	-26.835463	1653	timepoint1_cell494
+b'ATTACGTTGTCC'	timepoint1_3-APs/RPs	0.0	65.57378	1733	timepoint1_cell495
+b'CTGGACGCTTTA'	timepoint1_5-APs/RPs	-0.0	-227.478	1717	timepoint1_cell496
+b'TCCTAATTTGCA'	timepoint1_3-APs/RPs	0.0	335.5422	1521	timepoint1_cell497
+b'GGTGTTTCACAC'	timepoint1_3-APs/RPs	0.0	279.99164	1786	timepoint1_cell498
+b'ACGACTACTCGG'	timepoint1_3-APs/RPs	0.0	606.2719	1729	timepoint1_cell499
+b'AGACATACGTAG'	timepoint1_3-APs/RPs	-0.0	-208.66357	1605	timepoint1_cell500
+b'CCTTAACGTCCA'	timepoint1_4-IPs	-0.0	-192.12198	1503	timepoint1_cell501
+b'AGAATAACTACT'	timepoint1_3-APs/RPs	-0.0	-891.7807	1347	timepoint1_cell502
+b'GTGCGCATAGCA'	timepoint1_6-Young neurons	0.0	357.02515	1739	timepoint1_cell503
+b'CGGGCCGAAGTN'	timepoint1_3-APs/RPs	-0.0	-44.611183	1633	timepoint1_cell504
+b'GGTGAACAGTTG'	timepoint1_3-APs/RPs	0.0	406.48483	1774	timepoint1_cell505
+b'ATTTGAATGCAC'	timepoint1_5-APs/RPs	0.0	683.01605	1603	timepoint1_cell506
+b'CTCGCTGCCGAT'	timepoint1_3-APs/RPs	-0.0	-18.355892	1701	timepoint1_cell507
+b'GCGGCCTCAGGN'	timepoint1_3-APs/RPs	0.0	98.90991	1720	timepoint1_cell508
+b'CGTACAATTGAT'	timepoint1_4-IPs	0.0	198.73839	1531	timepoint1_cell509
+b'GATTGGCGTCTT'	timepoint1_3-APs/RPs	-0.0	-37.128647	1586	timepoint1_cell510
+b'AAATCATTAACA'	timepoint1_1-Neurons	0.0	7.7503033	1423	timepoint1_cell511
+b'CCAATCGGACTG'	timepoint1_5-APs/RPs	0.0	59.339973	1657	timepoint1_cell512
+b'ATCGTGTTCTAC'	timepoint1_5-APs/RPs	0.0	400.71292	1694	timepoint1_cell513
+b'ATCCCACGCTCC'	timepoint1_5-APs/RPs	0.0	173.00203	1634	timepoint1_cell514
+b'TGAATGGCGCTT'	timepoint1_6-Young neurons	-0.0	-67.98026	1602	timepoint1_cell515
+b'GACCCAATCGGT'	timepoint1_3-APs/RPs	-0.0	-267.92993	1512	timepoint1_cell516
+b'TCGATACTAAAG'	timepoint1_5-APs/RPs	-0.0	-14.577706	1545	timepoint1_cell517
+b'AACTTTCGGGAG'	timepoint1_1-Neurons	0.0	78.85781	1572	timepoint1_cell518
+b'CCCGGCGCTGAN'	timepoint1_3-APs/RPs	-0.0	-488.754	1442	timepoint1_cell519
+b'TTATTCAAGGCA'	timepoint1_5-APs/RPs	-0.0	-149.21347	1486	timepoint1_cell520
+b'GACCATTTAGGC'	timepoint1_3-APs/RPs	0.0	158.6404	1571	timepoint1_cell521
+b'TTTACCTCTCAC'	timepoint1_3-APs/RPs	-0.0	-185.85068	1495	timepoint1_cell522
+b'GCGGAGGCTACC'	timepoint1_4-IPs	-0.0	-121.81096	1458	timepoint1_cell523
+b'GCCGACAACTGG'	timepoint1_3-APs/RPs	0.0	150.76915	1632	timepoint1_cell524
+b'GCACGCCCCAAA'	timepoint1_3-APs/RPs	-0.0	-74.47663	1726	timepoint1_cell525
+b'ACACTTGGACAG'	timepoint1_5-APs/RPs	0.0	321.6768	1714	timepoint1_cell526
+b'TCCAATCATATT'	timepoint1_5-APs/RPs	0.0	625.5612	1595	timepoint1_cell527
+b'ATTTCTTCGGTA'	timepoint1_1-Neurons	0.0	431.9715	1599	timepoint1_cell528
+b'AGCGTCTGGAGG'	timepoint1_3-APs/RPs	0.0	44.1392	1720	timepoint1_cell529
+b'TTCCAGGCCAAC'	timepoint1_5-APs/RPs	-0.0	-223.39134	1471	timepoint1_cell530
+b'CAATTCTTGACA'	timepoint1_3-APs/RPs	0.0	460.56424	1619	timepoint1_cell531
+b'ATCTGCCAGGTN'	timepoint1_3-APs/RPs	0.0	140.65155	1604	timepoint1_cell532
+b'GCCATTACGGTC'	timepoint1_1-Neurons	-0.0	-339.88556	1490	timepoint1_cell533
+b'TTACGACCCCCT'	timepoint1_4-IPs	0.0	256.26105	1645	timepoint1_cell534
+b'GCCTAGGTATCG'	timepoint1_6-Young neurons	0.0	56.096024	1497	timepoint1_cell535
+b'CCGACTGATTGC'	timepoint1_6-Young neurons	-0.0	-55.59004	1619	timepoint1_cell536
+b'AATAAGGAAGCG'	timepoint1_3-APs/RPs	-0.0	-48.689762	1504	timepoint1_cell537
+b'CTGTTGTAATTC'	timepoint1_5-APs/RPs	-0.0	-98.35767	1510	timepoint1_cell538
+b'GATAGCCGTTGC'	timepoint1_3-APs/RPs	0.0	113.13975	1346	timepoint1_cell539
+b'GCGCCATTAACT'	timepoint1_3-APs/RPs	0.0	292.3752	1745	timepoint1_cell540
+b'TGAAAATTAACG'	timepoint1_3-APs/RPs	-0.0	-372.67386	1421	timepoint1_cell541
+b'GCCTGACATTCG'	timepoint1_5-APs/RPs	0.0	221.59772	1582	timepoint1_cell542
+b'ACAGTACCACTG'	timepoint1_3-APs/RPs	-0.0	-132.00468	1566	timepoint1_cell543
+b'GGGTAATCACTG'	timepoint1_5-APs/RPs	0.0	565.30994	1544	timepoint1_cell544
+b'ATTCCTCAGTCT'	timepoint1_3-APs/RPs	0.0	639.91833	1692	timepoint1_cell545
+b'TCTGCCAAATAC'	timepoint1_3-APs/RPs	0.0	160.53844	1491	timepoint1_cell546
+b'TACACCAGAAAA'	timepoint1_5-APs/RPs	0.0	115.707825	1534	timepoint1_cell547
+b'ATGTCTGCTTGA'	timepoint1_5-APs/RPs	-0.0	-167.77065	1625	timepoint1_cell548
+b'GGCACGGCCTGN'	timepoint1_3-APs/RPs	-0.0	-31.609943	1629	timepoint1_cell549
+b'CGTGTGCAGTCC'	timepoint1_4-IPs	0.0	784.80896	1856	timepoint1_cell550
+b'ATCTCAATGTCC'	timepoint1_5-APs/RPs	-0.0	-136.24815	1502	timepoint1_cell551
+b'ACTTACCAACCG'	timepoint1_3-APs/RPs	0.0	5.371783	1581	timepoint1_cell552
+b'ACGGCCGCCGTC'	timepoint1_3-APs/RPs	-0.0	-105.702545	1592	timepoint1_cell553
+b'GGACACAACCGC'	timepoint1_5-APs/RPs	0.0	168.31436	1617	timepoint1_cell554
+b'TCACAGGCTTCG'	timepoint1_3-APs/RPs	-0.0	-5.963784	1542	timepoint1_cell555
+b'GACCTTACAGCG'	timepoint1_1-Neurons	0.0	56.35656	1574	timepoint1_cell556
+b'CTACTCTGGATC'	timepoint1_5-APs/RPs	0.0	11.137407	1642	timepoint1_cell557
+b'ATGATTGACTGA'	timepoint1_3-APs/RPs	-0.0	-55.08407	1744	timepoint1_cell558
+b'GATTCCTCCTAG'	timepoint1_1-Neurons	-0.0	-113.82234	1470	timepoint1_cell559
+b'GCGTCCGATCGT'	timepoint1_5-APs/RPs	0.0	1275.5211	1644	timepoint1_cell560
+b'GCGCCCCCTTAT'	timepoint1_4-IPs	0.0	344.78003	1714	timepoint1_cell561
+b'GAAAACAGGAAT'	timepoint1_3-APs/RPs	0.0	271.82407	1395	timepoint1_cell562
+b'TATATGCTCTGC'	timepoint1_3-APs/RPs	-0.0	-288.68008	1348	timepoint1_cell563
+b'GATGCCGAACAC'	timepoint1_6-Young neurons	-0.0	-318.33063	1379	timepoint1_cell564
+b'CTGGGGTTACTT'	timepoint1_3-APs/RPs	0.0	230.67592	1767	timepoint1_cell565
+b'GGGGACGAGCTT'	timepoint1_4-IPs	0.0	539.8702	2018	timepoint1_cell566
+b'GCCCCTCACGAT'	timepoint1_3-APs/RPs	-0.0	-324.50253	1208	timepoint1_cell567
+b'GATACGCTGCAA'	timepoint1_3-APs/RPs	0.0	52.78384	1497	timepoint1_cell568
+b'TGGGACTTAAGC'	timepoint1_1-Neurons	-0.0	-158.42911	1500	timepoint1_cell569
+b'GTTCCTGTGATN'	timepoint1_2-Young neurons	0.0	30.542152	1405	timepoint1_cell570
+b'AAACGGCTATTG'	timepoint1_3-APs/RPs	-0.0	-195.85678	1491	timepoint1_cell571
+b'CCGCTACCTATT'	timepoint1_3-APs/RPs	0.0	274.0388	1580	timepoint1_cell572
+b'CATTATCAGTAG'	timepoint1_3-APs/RPs	-0.0	-226.07849	1350	timepoint1_cell573
+b'CGTAGTGAATGC'	timepoint1_3-APs/RPs	-0.0	-292.78134	1389	timepoint1_cell574
+b'GAAAAGAGGCTG'	timepoint1_2-Young neurons	0.0	231.45149	1481	timepoint1_cell575
+b'CTCTATGTGCAT'	timepoint1_1-Neurons	0.0	200.87936	1455	timepoint1_cell576
+b'GAGTGTGGGTAG'	timepoint1_5-APs/RPs	0.0	217.82503	1793	timepoint1_cell577
+b'ATATAACCTAAA'	timepoint1_3-APs/RPs	-0.0	-270.70013	1319	timepoint1_cell578
+b'TCGTCTGGGTAC'	timepoint1_3-APs/RPs	-0.0	-674.31433	1354	timepoint1_cell579
+b'CAATCGACCAAA'	timepoint1_3-APs/RPs	-0.0	-120.56967	1366	timepoint1_cell580
+b'CACAGCACTACC'	timepoint1_3-APs/RPs	-0.0	-326.71338	1485	timepoint1_cell581
+b'CCTCCTATTACG'	timepoint1_5-APs/RPs	0.0	122.17401	1541	timepoint1_cell582
+b'TAGTGCATCACC'	timepoint1_3-APs/RPs	-0.0	-88.73651	1578	timepoint1_cell583
+b'CGGTTGTGCCTG'	timepoint1_4-IPs	0.0	428.34097	1827	timepoint1_cell584
+b'TCGGCCATGAAA'	timepoint1_3-APs/RPs	0.0	156.13728	1537	timepoint1_cell585
+b'CGACAAAAATCG'	timepoint1_6-Young neurons	-0.0	-497.7066	1252	timepoint1_cell586
+b'TTGACTAGAGAC'	timepoint1_1-Neurons	-0.0	-294.74637	1355	timepoint1_cell587
+b'GGCACTTTAATC'	timepoint1_4-IPs	0.0	136.7203	1614	timepoint1_cell588
+b'TAAACGATCCGC'	timepoint1_3-APs/RPs	-0.0	-39.375725	1563	timepoint1_cell589
+b'CTACTAGTGCTT'	timepoint1_3-APs/RPs	-0.0	-10.119399	1541	timepoint1_cell590
+b'GTTGGTACGTCT'	timepoint1_5-APs/RPs	0.0	533.0403	1605	timepoint1_cell591
+b'TTAGAGAACTAG'	timepoint1_2-Young neurons	-0.0	-246.45009	1373	timepoint1_cell592
+b'CCGTTTAGAGCN'	timepoint1_3-APs/RPs	0.0	102.50703	1560	timepoint1_cell593
+b'GCACGCGGTCCC'	timepoint1_6-Young neurons	-0.0	-30.830702	1581	timepoint1_cell594
+b'GATATTGGGACC'	timepoint1_5-APs/RPs	0.0	100.06791	1627	timepoint1_cell595
+b'TAGTCAGCCCCT'	timepoint1_3-APs/RPs	0.0	250.69618	1732	timepoint1_cell596
+b'CGGCGGGCAAGC'	timepoint1_4-IPs	0.0	104.683334	1395	timepoint1_cell597
+b'CGAGCGATCAAC'	timepoint1_4-IPs	-0.0	-200.79927	1376	timepoint1_cell598
+b'TCCATGGCTAAT'	timepoint1_5-APs/RPs	-0.0	-228.23878	1517	timepoint1_cell599
+b'CTGGGCGCATCG'	timepoint1_6-Young neurons	0.0	70.47725	1539	timepoint1_cell600
+b'CGGGGACATGTC'	timepoint1_4-IPs	0.0	793.74176	2054	timepoint1_cell601
+b'CTGTCTGTCCGG'	timepoint1_4-IPs	0.0	531.9628	1658	timepoint1_cell602
+b'GGGCACTGAATG'	timepoint1_3-APs/RPs	0.0	244.68568	1608	timepoint1_cell603
+b'CCACCTTTAGCN'	timepoint1_2-Young neurons	-0.0	-47.421925	1482	timepoint1_cell604
+b'CGTGAACGCAGG'	timepoint1_1-Neurons	0.0	424.26736	1589	timepoint1_cell605
+b'CACTCGATCGGT'	timepoint1_3-APs/RPs	0.0	280.51218	1669	timepoint1_cell606
+b'GTAGTAGGAGGC'	timepoint1_3-APs/RPs	0.0	521.0229	1540	timepoint1_cell607
+b'GACAGCCCGTAG'	timepoint1_5-APs/RPs	-0.0	-127.85325	1536	timepoint1_cell608
+b'CAATTCGTGTAG'	timepoint1_5-APs/RPs	-0.0	-257.88617	1314	timepoint1_cell609
+b'GTTTATGAGGGA'	timepoint1_3-APs/RPs	-0.0	-41.2459	1523	timepoint1_cell610
+b'AGTAATTAATCC'	timepoint1_3-APs/RPs	-0.0	-488.90253	1338	timepoint1_cell611
+b'GAGTGAACCCCG'	timepoint1_5-APs/RPs	0.0	378.76285	1700	timepoint1_cell612
+b'TGCCTATATTGC'	timepoint1_3-APs/RPs	0.0	240.03477	1738	timepoint1_cell613
+b'ACCGAGTCTCCC'	timepoint1_7-IPs	-0.0	-652.0451	1324	timepoint1_cell614
+b'TTAACACTGTGN'	timepoint1_4-IPs	-0.0	-82.55855	1401	timepoint1_cell615
+b'TGAGCGACCGCC'	timepoint1_3-APs/RPs	0.0	206.99724	1546	timepoint1_cell616
+b'GGAAGTCTGGGC'	timepoint1_2-Young neurons	0.0	623.2952	1577	timepoint1_cell617
+b'TTGGCTAGCACC'	timepoint1_5-APs/RPs	-0.0	-32.97695	1513	timepoint1_cell618
+b'GCTCTTTGCTCC'	timepoint1_3-APs/RPs	-0.0	-98.324745	1517	timepoint1_cell619
+b'CAGAGTTGTCAG'	timepoint1_5-APs/RPs	0.0	32.467896	1457	timepoint1_cell620
+b'ACCGCTGGTTTG'	timepoint1_5-APs/RPs	-0.0	-521.392	1382	timepoint1_cell621
+b'ACCTGGCACGGC'	timepoint1_4-IPs	-0.0	-715.62115	1208	timepoint1_cell622
+b'CGCGGTGGCTAN'	timepoint1_5-APs/RPs	-0.0	-73.71558	1687	timepoint1_cell623
+b'AATAAGACCTTG'	timepoint1_3-APs/RPs	0.0	180.68964	1312	timepoint1_cell624
+b'CACGGCAAGTTT'	timepoint1_4-IPs	-0.0	-575.77924	1279	timepoint1_cell625
+b'CGCGCGTTGTCT'	timepoint1_5-APs/RPs	0.0	298.117	1542	timepoint1_cell626
+b'AATACAATAGAC'	timepoint1_4-IPs	-0.0	-95.42144	1365	timepoint1_cell627
+b'TAAGTATTTGTT'	timepoint1_3-APs/RPs	-0.0	-620.24194	1366	timepoint1_cell628
+b'TGGCCGTGTAGC'	timepoint1_4-IPs	0.0	614.06854	1696	timepoint1_cell629
+b'AAAGGGTTGGCA'	timepoint1_3-APs/RPs	-0.0	-233.28477	1368	timepoint1_cell630
+b'ATGTAAAAGAAC'	timepoint1_2-Young neurons	-0.0	-414.15317	1209	timepoint1_cell631
+b'TACAACCAGAGN'	timepoint1_5-APs/RPs	-0.0	-193.88521	1462	timepoint1_cell632
+b'TTGGACTAGAAT'	timepoint1_3-APs/RPs	-0.0	-293.64	1343	timepoint1_cell633
+b'ATGCACCTACCG'	timepoint1_1-Neurons	0.0	140.38657	1446	timepoint1_cell634
+b'GTGCTTCCCTAA'	timepoint1_4-IPs	0.0	169.69244	1646	timepoint1_cell635
+b'TGGAAGAATGCC'	timepoint1_3-APs/RPs	-0.0	-450.82138	1330	timepoint1_cell636
+b'GTATTCGTAGCC'	timepoint1_4-IPs	-0.0	-331.41653	1303	timepoint1_cell637
+b'GTTTTGGGTGAC'	timepoint1_5-APs/RPs	0.0	56.34567	1542	timepoint1_cell638
+b'CAGGAACTCTAA'	timepoint1_3-APs/RPs	-0.0	-348.77847	1348	timepoint1_cell639
+b'TTCAGCTGACGA'	timepoint1_3-APs/RPs	0.0	50.43583	1327	timepoint1_cell640
+b'AACGTGACTGGG'	timepoint1_4-IPs	-0.0	-140.88036	1379	timepoint1_cell641
+b'CTTACCCCTTTT'	timepoint1_3-APs/RPs	-0.0	-371.42975	1324	timepoint1_cell642
+b'CCCCAAGCAATT'	timepoint1_2-Young neurons	-0.0	-61.29726	1322	timepoint1_cell643
+b'CTACCTTTCAAT'	timepoint1_3-APs/RPs	-0.0	-260.4329	1389	timepoint1_cell644
+b'CCGACTCCAACG'	timepoint1_3-APs/RPs	-0.0	-877.71185	1289	timepoint1_cell645
+b'GATTTATCCAGC'	timepoint1_3-APs/RPs	-0.0	-109.40294	1352	timepoint1_cell646
+b'CCCGGTGGGCGA'	timepoint1_4-IPs	-0.0	-227.0923	1392	timepoint1_cell647
+b'GGAGCGAACATG'	timepoint1_5-APs/RPs	0.0	328.3647	1566	timepoint1_cell648
+b'TCACTTGTAACC'	timepoint1_5-APs/RPs	-0.0	-660.7754	1263	timepoint1_cell649
+b'TCAAGGATTAGC'	timepoint1_6-Young neurons	-0.0	-479.32993	1328	timepoint1_cell650
+b'GCTAGCCTACGT'	timepoint1_4-IPs	0.0	19.272406	1418	timepoint1_cell651
+b'TTAATTACTAGA'	timepoint1_3-APs/RPs	0.0	285.1956	1523	timepoint1_cell652
+b'TTACTTATGTTA'	timepoint1_4-IPs	-0.0	-614.3201	1325	timepoint1_cell653
+b'ATAAGGGTCCGT'	timepoint1_3-APs/RPs	-0.0	-28.528868	1595	timepoint1_cell654
+b'CTTATCACGCGC'	timepoint1_3-APs/RPs	-0.0	-521.36365	1339	timepoint1_cell655
+b'TGCATATTCAAC'	timepoint1_3-APs/RPs	0.0	124.98715	1453	timepoint1_cell656
+b'CACGAAGACTTA'	timepoint1_3-APs/RPs	-0.0	-15.364923	1330	timepoint1_cell657
+b'CTGCCAAAGTAG'	timepoint1_7-IPs	-0.0	-255.21484	1291	timepoint1_cell658
+b'TGATGGAAAACT'	timepoint1_1-Neurons	0.0	161.76402	1427	timepoint1_cell659
+b'CCAAAACCAGCA'	timepoint1_1-Neurons	0.0	27.080606	1285	timepoint1_cell660
+b'ATGACACTTAGA'	timepoint1_3-APs/RPs	-0.0	-232.63568	1392	timepoint1_cell661
+b'GTTGTTGGTTGC'	timepoint1_1-Neurons	0.0	320.2224	1503	timepoint1_cell662
+b'TCATTCGCATTG'	timepoint1_1-Neurons	-0.0	-392.71747	1386	timepoint1_cell663
+b'TGAGGACGAATC'	timepoint1_3-APs/RPs	-0.0	-48.830715	1553	timepoint1_cell664
+b'GGGATGATTTAA'	timepoint1_3-APs/RPs	0.0	342.5723	1435	timepoint1_cell665
+b'CAGCTGCCATAC'	timepoint1_3-APs/RPs	-0.0	-52.90325	1417	timepoint1_cell666
+b'GTAATTCAAAAC'	timepoint1_4-IPs	-0.0	-128.18332	1304	timepoint1_cell667
+b'CCGAAGAGGATC'	timepoint1_3-APs/RPs	-0.0	-30.36527	1270	timepoint1_cell668
+b'CTGCTGACAGTN'	timepoint1_5-APs/RPs	-0.0	-88.413795	1447	timepoint1_cell669
+b'CGACATGCCGAA'	timepoint1_3-APs/RPs	-0.0	-172.7421	1349	timepoint1_cell670
+b'ATAGCGAGGAGC'	timepoint1_3-APs/RPs	-0.0	-211.7246	1333	timepoint1_cell671
+b'AGCCGTCAGGGC'	timepoint1_7-IPs	-0.0	-374.27826	1396	timepoint1_cell672
+b'TGTATCTTTGCT'	timepoint1_3-APs/RPs	0.0	166.6447	1438	timepoint1_cell673
+b'AGGTCGGGGCCG'	timepoint1_3-APs/RPs	0.0	26.244156	1757	timepoint1_cell674
+b'AATACGCAATAA'	timepoint1_7-IPs	-0.0	-449.58832	1330	timepoint1_cell675
+b'AGGAGTCGCTTC'	timepoint1_3-APs/RPs	-0.0	-206.1446	1371	timepoint1_cell676
+b'ACTCGCTTCAGC'	timepoint1_6-Young neurons	-0.0	-219.36577	1263	timepoint1_cell677
+b'ATGACCGTGCTC'	timepoint1_3-APs/RPs	0.0	625.8045	1628	timepoint1_cell678
+b'TGAACAAGTACA'	timepoint1_3-APs/RPs	-0.0	-13.778393	1358	timepoint1_cell679
+b'CTTGACCGTAAG'	timepoint1_3-APs/RPs	-0.0	-298.56076	1472	timepoint1_cell680
+b'CTTCCCCTGCGG'	timepoint1_4-IPs	-0.0	-167.70033	1395	timepoint1_cell681
+b'GCCCGACCGGCA'	timepoint1_1-Neurons	0.0	107.88867	1474	timepoint1_cell682
+b'CTCGGAAGAGGG'	timepoint1_3-APs/RPs	0.0	348.0161	1325	timepoint1_cell683
+b'ACCCTAATTGGG'	timepoint1_3-APs/RPs	-0.0	-105.58696	1334	timepoint1_cell684
+b'TCGAGTTTAGTG'	timepoint1_3-APs/RPs	-0.0	-161.13211	1313	timepoint1_cell685
+b'CGGCGGACTGCT'	timepoint1_4-IPs	-0.0	-216.50533	1384	timepoint1_cell686
+b'TCGTTCGACAAG'	timepoint1_4-IPs	-0.0	-655.48755	1221	timepoint1_cell687
+b'ATACCCGGTTTG'	timepoint1_6-Young neurons	-0.0	-1.1946721	1351	timepoint1_cell688
+b'CAAGTCAGGCGA'	timepoint1_3-APs/RPs	-0.0	-537.73944	1168	timepoint1_cell689
+b'TTACCACAGGGA'	timepoint1_3-APs/RPs	-0.0	-614.42053	1294	timepoint1_cell690
+b'GAGGAGTTACGT'	timepoint1_2-Young neurons	-0.0	-425.78226	1338	timepoint1_cell691
+b'CCCAATTGTGAT'	timepoint1_3-APs/RPs	-0.0	-657.63074	1190	timepoint1_cell692
+b'GTGTGACGAGAG'	timepoint1_3-APs/RPs	-0.0	-165.00192	1522	timepoint1_cell693
+b'CCCTCAACTCTC'	timepoint1_6-Young neurons	-0.0	-107.95157	1365	timepoint1_cell694
+b'TTGTCTTAGAAA'	timepoint1_3-APs/RPs	-0.0	-270.9159	1392	timepoint1_cell695
+b'GAATCGGATGAT'	timepoint1_5-APs/RPs	-0.0	-279.97998	1319	timepoint1_cell696
+b'TACAATACTGTT'	timepoint1_4-IPs	-0.0	-35.71067	1437	timepoint1_cell697
+b'GAACAATTTGGC'	timepoint1_7-IPs	-0.0	-154.78453	1357	timepoint1_cell698
+b'CAACTGGTACGC'	timepoint1_3-APs/RPs	-0.0	-599.7107	1253	timepoint1_cell699
+b'CAGTATAACTTA'	timepoint1_2-Young neurons	-0.0	-310.2	1377	timepoint1_cell700
+b'GAGGGCGCCAAT'	timepoint1_3-APs/RPs	0.0	114.87206	1611	timepoint1_cell701
+b'GGCGGTCGAGCG'	timepoint1_3-APs/RPs	0.0	609.657	1668	timepoint1_cell702
+b'TCCAGAGATCTN'	timepoint1_6-Young neurons	-0.0	-409.92114	1303	timepoint1_cell703
+b'GCGCCATACTAA'	timepoint1_1-Neurons	0.0	7.540709	1281	timepoint1_cell704
+b'TTATGCTCCGTG'	timepoint1_3-APs/RPs	-0.0	-1058.7446	1154	timepoint1_cell705
+b'AGATGCTACTCC'	timepoint1_3-APs/RPs	-0.0	-821.6543	1285	timepoint1_cell706
+b'ATAAAATTTATT'	timepoint1_6-Young neurons	-0.0	-178.17596	1374	timepoint1_cell707
+b'CATATGAGCCGC'	timepoint1_3-APs/RPs	-0.0	-757.1365	1317	timepoint1_cell708
+b'CGGGACTTACGA'	timepoint1_2-Young neurons	-0.0	-176.63628	1391	timepoint1_cell709
+b'AACATAGAGGCG'	timepoint1_3-APs/RPs	0.0	311.58942	1560	timepoint1_cell710
+b'TTGAGCGTGCCN'	timepoint1_1-Neurons	-0.0	-110.49203	1468	timepoint1_cell711
+b'GACCTGTACGAT'	timepoint1_5-APs/RPs	-0.0	-11.605792	1499	timepoint1_cell712
+b'AACTGTGTGCTG'	timepoint1_4-IPs	-0.0	-146.0798	1493	timepoint1_cell713
+b'GAGTTTAGTGGT'	timepoint1_6-Young neurons	-0.0	-538.2492	1350	timepoint1_cell714
+b'CACACTCGGCGG'	timepoint1_6-Young neurons	-0.0	-284.6864	1378	timepoint1_cell715
+b'TTGCTGTTTGCT'	timepoint1_3-APs/RPs	-0.0	-193.64487	1301	timepoint1_cell716
+b'CGTTGTGAGATA'	timepoint1_1-Neurons	0.0	513.8364	1527	timepoint1_cell717
+b'ACTAGCGTTATG'	timepoint1_6-Young neurons	-0.0	-493.8713	1228	timepoint1_cell718
+b'AGTAGGAAGCGA'	timepoint1_3-APs/RPs	-0.0	-341.34442	1412	timepoint1_cell719
+b'TTGGCGGGTTCT'	timepoint1_3-APs/RPs	-0.0	-99.22019	1317	timepoint1_cell720
+b'ACCACCGCACAG'	timepoint1_6-Young neurons	-0.0	-176.58627	1430	timepoint1_cell721
+b'TACCACCCCTTC'	timepoint1_3-APs/RPs	-0.0	-636.48987	1350	timepoint1_cell722
+b'CATTCCGGTAGC'	timepoint1_3-APs/RPs	0.0	2389.3992	1071	timepoint1_cell723
+b'GAAAAACATGCT'	timepoint1_3-APs/RPs	-0.0	-615.6491	1075	timepoint1_cell724
+b'TAGGACCTGGCA'	timepoint1_3-APs/RPs	-0.0	-618.5114	1346	timepoint1_cell725
+b'TCTTATCGCCGT'	timepoint1_3-APs/RPs	-0.0	-233.97423	1443	timepoint1_cell726
+b'GAGTAGCTGGCG'	timepoint1_3-APs/RPs	-0.0	-807.3707	1187	timepoint1_cell727
+b'AAGAAGGGATTT'	timepoint1_3-APs/RPs	-0.0	-125.41111	1297	timepoint1_cell728
+b'GGAGGATAGATT'	timepoint1_4-IPs	-0.0	-203.78526	1446	timepoint1_cell729
+b'AAGCATACGTCC'	timepoint1_2-Young neurons	-0.0	-71.98707	1390	timepoint1_cell730
+b'GAATTAGACGAT'	timepoint1_3-APs/RPs	-0.0	-24.87355	1301	timepoint1_cell731
+b'CGAAAAGGTAGT'	timepoint1_4-IPs	-0.0	-333.0844	1181	timepoint1_cell732
+b'GATATCAATAGG'	timepoint1_6-Young neurons	-0.0	-236.6321	1327	timepoint1_cell733
+b'ATAGACTCACTT'	timepoint1_4-IPs	-0.0	-125.45689	1246	timepoint1_cell734
+b'AACCCAAACGCT'	timepoint1_2-Young neurons	-0.0	-252.20065	1450	timepoint1_cell735
+b'ACCTATGGAAAT'	timepoint1_3-APs/RPs	-0.0	-420.05002	1237	timepoint1_cell736
+b'AGAACCCGTGAA'	timepoint1_3-APs/RPs	-0.0	-104.69465	1331	timepoint1_cell737
+b'CTTTGAATAAGN'	timepoint1_1-Neurons	-0.0	-506.1976	1257	timepoint1_cell738
+b'ACGGAGTGTCAA'	timepoint1_3-APs/RPs	-0.0	-145.53937	1261	timepoint1_cell739
+b'TGTACATATCCC'	timepoint1_1-Neurons	-0.0	-288.99954	1317	timepoint1_cell740
+b'TCTCGTGACTTT'	timepoint1_3-APs/RPs	-0.0	-142.6841	1290	timepoint1_cell741
+b'ATGCGGCCGTCN'	timepoint1_3-APs/RPs	-0.0	-513.40283	1235	timepoint1_cell742
+b'TTGTTTAAACTT'	timepoint1_3-APs/RPs	-0.0	-81.16214	1559	timepoint1_cell743
+b'TACATCTCGTCA'	timepoint1_3-APs/RPs	-0.0	-635.827	1270	timepoint1_cell744
+b'AGCATACTAATA'	timepoint1_3-APs/RPs	0.0	111.91982	1353	timepoint1_cell745
+b'ACCTTATAGTGA'	timepoint1_3-APs/RPs	-0.0	-39.820557	1387	timepoint1_cell746
+b'GTCCTGCGATGG'	timepoint1_3-APs/RPs	-0.0	-141.55515	1294	timepoint1_cell747
+b'CTTATGATTTTA'	timepoint1_2-Young neurons	-0.0	-102.27893	1364	timepoint1_cell748
+b'ATGCAAGGCCTT'	timepoint1_4-IPs	-0.0	-174.42024	1334	timepoint1_cell749
+b'CCGATCTAGGAA'	timepoint1_6-Young neurons	-0.0	-447.1838	1319	timepoint1_cell750
+b'GTGCTTAATTTT'	timepoint1_5-APs/RPs	0.0	300.66208	1313	timepoint1_cell751
+b'GAGTCAATCTCC'	timepoint1_3-APs/RPs	-0.0	-293.00134	1382	timepoint1_cell752
+b'TATTCTGGTTTG'	timepoint1_3-APs/RPs	-0.0	-94.85077	1336	timepoint1_cell753
+b'TAACGCTATCGT'	timepoint1_4-IPs	-0.0	-577.1283	1280	timepoint1_cell754
+b'CGTACCGCGTAN'	timepoint1_3-APs/RPs	-0.0	-36.74273	1333	timepoint1_cell755
+b'ACGGACGCTCAA'	timepoint1_4-IPs	0.0	108.110794	1372	timepoint1_cell756
+b'AACAGCTCTCAG'	timepoint1_3-APs/RPs	0.0	98.99919	1278	timepoint1_cell757
+b'CAGTCGGCTTGC'	timepoint1_3-APs/RPs	-0.0	-239.38472	1310	timepoint1_cell758
+b'CGAGTCAACACC'	timepoint1_2-Young neurons	-0.0	-137.99931	1307	timepoint1_cell759
+b'TAAGGCGGGTTC'	timepoint1_3-APs/RPs	0.0	297.54938	1297	timepoint1_cell760
+b'TCGATGACTCCC'	timepoint1_5-APs/RPs	-0.0	-236.65228	1390	timepoint1_cell761
+b'CGCAATAAACCT'	timepoint1_5-APs/RPs	-0.0	-541.7929	1223	timepoint1_cell762
+b'CCGGTGGAAGCT'	timepoint1_5-APs/RPs	-0.0	-596.23236	1201	timepoint1_cell763
+b'CGGCAACTATCA'	timepoint1_3-APs/RPs	-0.0	-461.3595	1038	timepoint1_cell764
+b'CCTTGTTCGTGA'	timepoint1_7-IPs	-0.0	-28.543125	1330	timepoint1_cell765
+b'GAGTGGGCTTCA'	timepoint1_4-IPs	0.0	40.61933	1361	timepoint1_cell766
+b'TCTAGTGTATGT'	timepoint1_4-IPs	-0.0	-198.15701	1269	timepoint1_cell767
+b'TAGTGTTCCGGT'	timepoint1_3-APs/RPs	-0.0	-246.36113	1430	timepoint1_cell768
+b'TATGTTCCGGTG'	timepoint1_5-APs/RPs	-0.0	-323.9306	1424	timepoint1_cell769
+b'GATAGGCACGGT'	timepoint1_6-Young neurons	0.0	141.12668	1438	timepoint1_cell770
+b'CTTTTCACTGAC'	timepoint1_1-Neurons	0.0	146.90521	1367	timepoint1_cell771
+b'AAGAGTTGATTG'	timepoint1_4-IPs	-0.0	-420.30615	1229	timepoint1_cell772
+b'CCAACACGACTT'	timepoint1_3-APs/RPs	-0.0	-627.1705	1160	timepoint1_cell773
+b'CTACCGACAGCA'	timepoint1_6-Young neurons	-0.0	-321.94614	1284	timepoint1_cell774
+b'TATTGCGCGCGG'	timepoint1_1-Neurons	-0.0	-95.511444	1359	timepoint1_cell775
+b'CGCGGATCTAGA'	timepoint1_2-Young neurons	-0.0	-238.4532	1394	timepoint1_cell776
+b'TAGATCTTGAGA'	timepoint1_4-IPs	-0.0	-367.79733	1235	timepoint1_cell777
+b'CAAATTATACTA'	timepoint1_4-IPs	-0.0	-601.6338	1176	timepoint1_cell778
+b'CTGCGAAGTGAC'	timepoint1_2-Young neurons	-0.0	-408.41516	1272	timepoint1_cell779
+b'TAACGTGGCGTG'	timepoint1_6-Young neurons	-0.0	-327.9679	1243	timepoint1_cell780
+b'CTAGCAAACACC'	timepoint1_5-APs/RPs	-0.0	-494.42615	1141	timepoint1_cell781
+b'GTGTCAAAGACA'	timepoint1_3-APs/RPs	-0.0	-593.9001	1176	timepoint1_cell782
+b'GAGGATTCTATT'	timepoint1_3-APs/RPs	-0.0	-574.8482	1211	timepoint1_cell783
+b'GGAGTGAGCCGG'	timepoint1_3-APs/RPs	-0.0	-362.074	1503	timepoint1_cell784
+b'CATGCTATAAAC'	timepoint1_3-APs/RPs	0.0	308.19226	1406	timepoint1_cell785
+b'TCAGGCGTTACC'	timepoint1_3-APs/RPs	-0.0	-428.1107	1136	timepoint1_cell786
+b'TAATAGTGGCTT'	timepoint1_3-APs/RPs	-0.0	-275.42136	1266	timepoint1_cell787
+b'GGAAGGGTGCGT'	timepoint1_6-Young neurons	-0.0	-421.3573	1324	timepoint1_cell788
+b'CGCCAATGGGCT'	timepoint1_4-IPs	-0.0	-278.68634	1268	timepoint1_cell789
+b'GATCCCGAGCAC'	timepoint1_3-APs/RPs	-0.0	-523.0034	1323	timepoint1_cell790
+b'TACTATAAGAGT'	timepoint1_6-Young neurons	-0.0	-398.86066	1373	timepoint1_cell791
+b'AATGTACACGCC'	timepoint1_3-APs/RPs	-0.0	-106.91771	1372	timepoint1_cell792
+b'ATGTGACTACCC'	timepoint1_3-APs/RPs	-0.0	-487.45148	1312	timepoint1_cell793
+b'GCATGGGCGAGA'	timepoint1_4-IPs	0.0	171.47968	1421	timepoint1_cell794
+b'GGAGGCCTCTCA'	timepoint1_3-APs/RPs	0.0	197.34468	1425	timepoint1_cell795
+b'TCTTAGACAGTC'	timepoint1_5-APs/RPs	-0.0	-568.5153	1248	timepoint1_cell796
+b'ACTATTGCCCTG'	timepoint1_3-APs/RPs	-0.0	-240.3023	1322	timepoint1_cell797
+b'GGGGTACATGCA'	timepoint1_5-APs/RPs	0.0	619.66284	1632	timepoint1_cell798
+b'TGTGATCGAGCG'	timepoint1_3-APs/RPs	-0.0	-80.171326	1339	timepoint1_cell799
+b'ACACTTGATACG'	timepoint1_1-Neurons	0.0	372.77414	1273	timepoint1_cell800
+b'GGCACCTAGAGA'	timepoint1_3-APs/RPs	0.0	500.21524	1296	timepoint1_cell801
+b'AATAGCAAGAGG'	timepoint1_1-Neurons	-0.0	-228.6451	1209	timepoint1_cell802
+b'AAGTTTCTCATT'	timepoint1_1-Neurons	-0.0	-167.35281	1204	timepoint1_cell803
+b'GCGGTACGTAGG'	timepoint1_6-Young neurons	-0.0	-239.74554	1332	timepoint1_cell804
+b'CCATTCCAAAGG'	timepoint1_6-Young neurons	-0.0	-563.608	1261	timepoint1_cell805
+b'TATACTGACCGA'	timepoint1_1-Neurons	-0.0	-52.021835	1324	timepoint1_cell806
+b'ATCCACTTAACA'	timepoint1_3-APs/RPs	-0.0	-875.1778	1118	timepoint1_cell807
+b'CTAGAGGTTCAN'	timepoint1_4-IPs	-0.0	-377.31354	1174	timepoint1_cell808
+b'GGTGGACTAGGA'	timepoint1_3-APs/RPs	0.0	471.06375	1697	timepoint1_cell809
+b'TAGATCTAAGGA'	timepoint1_3-APs/RPs	-0.0	-154.86824	1315	timepoint1_cell810
+b'TAGACTCCTTAT'	timepoint1_7-IPs	-0.0	-813.6166	1088	timepoint1_cell811
+b'ATATATTGAATA'	timepoint1_6-Young neurons	-0.0	-434.89893	1285	timepoint1_cell812
+b'CCATAAGGTAGG'	timepoint1_4-IPs	0.0	61.13275	1176	timepoint1_cell813
+b'GCCGGAGCGCGC'	timepoint1_3-APs/RPs	-0.0	-315.5973	1260	timepoint1_cell814
+b'CTAAAATGGAAT'	timepoint1_1-Neurons	-0.0	-636.7775	1138	timepoint1_cell815
+b'AGCACTTCGATA'	timepoint1_3-APs/RPs	-0.0	-573.00757	1212	timepoint1_cell816
+b'TACTTAAGTGTT'	timepoint1_5-APs/RPs	-0.0	-62.962418	1296	timepoint1_cell817
+b'GTGTGAGGGAAA'	timepoint1_4-IPs	0.0	484.66806	1505	timepoint1_cell818
+b'ATAATAACTTGT'	timepoint1_3-APs/RPs	-0.0	-681.7762	1025	timepoint1_cell819
+b'TCCCCACAACGA'	timepoint1_3-APs/RPs	-0.0	-524.8425	1235	timepoint1_cell820
+b'TGTACTTTGGCC'	timepoint1_4-IPs	-0.0	-253.50478	1227	timepoint1_cell821
+b'TGGCTTCCCTTN'	timepoint1_5-APs/RPs	-0.0	-62.31183	1366	timepoint1_cell822
+b'GAAAAGCAGCAG'	timepoint1_5-APs/RPs	-0.0	-540.59827	1226	timepoint1_cell823
+b'GCGGTTGTAGCC'	timepoint1_1-Neurons	-0.0	-18.927502	1390	timepoint1_cell824
+b'TCTGCGTAAATN'	timepoint1_6-Young neurons	-0.0	-886.76556	905	timepoint1_cell825
+b'TTAGTCTTGAAA'	timepoint1_1-Neurons	-0.0	-150.1054	1235	timepoint1_cell826
+b'CCGCTGCAAGTG'	timepoint1_3-APs/RPs	-0.0	-626.73145	1103	timepoint1_cell827
+b'AAGAGTACGCCN'	timepoint1_4-IPs	-0.0	-408.60992	1203	timepoint1_cell828
+b'GGCATTATACGG'	timepoint1_6-Young neurons	-0.0	-315.47864	1350	timepoint1_cell829
+b'GTGGGGAGGGCC'	timepoint1_5-APs/RPs	0.0	657.72766	1799	timepoint1_cell830
+b'ACTAACGTATTG'	timepoint1_1-Neurons	-0.0	-284.22275	1258	timepoint1_cell831
+b'AAATTTCTAAGC'	timepoint1_5-APs/RPs	-0.0	-415.5793	1213	timepoint1_cell832
+b'GCAGCGTGACCA'	timepoint1_6-Young neurons	-0.0	-206.66931	1258	timepoint1_cell833
+b'TATCTGCACCCT'	timepoint1_1-Neurons	-0.0	-557.2603	1091	timepoint1_cell834
+b'CTGGCGGGGGTC'	timepoint1_3-APs/RPs	-0.0	-728.0915	1216	timepoint1_cell835
+b'TTGGGAATCCGA'	timepoint1_3-APs/RPs	-0.0	-85.3093	1377	timepoint1_cell836
+b'TGTCCTGTATGC'	timepoint1_3-APs/RPs	-0.0	-56.57874	1233	timepoint1_cell837
+b'TCCCTCGTAGGT'	timepoint1_3-APs/RPs	-0.0	-254.07605	1199	timepoint1_cell838
+b'AACGCGCTTTTG'	timepoint1_6-Young neurons	-0.0	-122.07136	1301	timepoint1_cell839
+b'GTGCGTTAAGGA'	timepoint1_3-APs/RPs	-0.0	-708.1665	1228	timepoint1_cell840
+b'TAGAGCGTCTGA'	timepoint1_3-APs/RPs	-0.0	-332.02496	1258	timepoint1_cell841
+b'TCCTGGAAGAGC'	timepoint1_6-Young neurons	-0.0	-408.9093	1125	timepoint1_cell842
+b'AGTTAAGAACTC'	timepoint1_1-Neurons	-0.0	-364.07452	1226	timepoint1_cell843
+b'CCACTTGGCAGA'	timepoint1_4-IPs	-0.0	-910.98315	984	timepoint1_cell844
+b'TCGTTTGAGAAT'	timepoint1_3-APs/RPs	-0.0	-514.93756	1225	timepoint1_cell845
+b'GATCGGTCCCAC'	timepoint1_4-IPs	0.0	131.87843	1380	timepoint1_cell846
+b'GTATAAGTCAAG'	timepoint1_3-APs/RPs	-0.0	-506.58408	1192	timepoint1_cell847
+b'TCGAAAAGTATC'	timepoint1_6-Young neurons	-0.0	-396.76355	1116	timepoint1_cell848
+b'ACCTAAGATTAC'	timepoint1_3-APs/RPs	-0.0	-681.25354	1016	timepoint1_cell849
+b'ATTCCGGCTTAN'	timepoint1_3-APs/RPs	-0.0	-410.9541	1070	timepoint1_cell850
+b'GAGGGCGACATA'	timepoint1_5-APs/RPs	0.0	127.84261	1300	timepoint1_cell851
+b'AGCCCCTGAAAC'	timepoint1_3-APs/RPs	0.0	190.75209	1215	timepoint1_cell852
+b'TAAGGTCCCATA'	timepoint1_4-IPs	-0.0	-740.0262	1147	timepoint1_cell853
+b'TCTATATAAGCC'	timepoint1_6-Young neurons	-0.0	-296.45837	1194	timepoint1_cell854
+b'GAGAAAGCGGGT'	timepoint1_6-Young neurons	-0.0	-365.48593	1232	timepoint1_cell855
+b'GCGTCCAACGCA'	timepoint1_3-APs/RPs	-0.0	-408.77527	1219	timepoint1_cell856
+b'AACGTGCAGGCC'	timepoint1_3-APs/RPs	-0.0	-386.1625	1349	timepoint1_cell857
+b'AGGTCTATGGAC'	timepoint1_3-APs/RPs	-0.0	-131.10283	1224	timepoint1_cell858
+b'TCTTCTCTTCTG'	timepoint1_3-APs/RPs	-0.0	-534.5157	1101	timepoint1_cell859
+b'GCATAAGGACGC'	timepoint1_3-APs/RPs	-0.0	-1177.7067	1032	timepoint1_cell860
+b'ACCACGAAGTTC'	timepoint1_1-Neurons	-0.0	-751.7875	1131	timepoint1_cell861
+b'CTATCAGCGGGT'	timepoint1_2-Young neurons	0.0	82.99606	1160	timepoint1_cell862
+b'CTACTTATGGGC'	timepoint1_5-APs/RPs	-0.0	-282.43625	1236	timepoint1_cell863
+b'GTTTCTACTAAC'	timepoint1_3-APs/RPs	-0.0	-416.0116	1251	timepoint1_cell864
+b'AGACCGTTAGGC'	timepoint1_6-Young neurons	-0.0	-403.27313	1081	timepoint1_cell865
+b'AGGAGGAATATA'	timepoint1_3-APs/RPs	-0.0	-166.18468	1244	timepoint1_cell866
+b'ACATTATGGCAC'	timepoint1_3-APs/RPs	-0.0	-967.25616	1053	timepoint1_cell867
+b'TGGTCGGTCCTT'	timepoint1_4-IPs	-0.0	-201.41322	1310	timepoint1_cell868
+b'CAGATGGTCGCT'	timepoint1_5-APs/RPs	-0.0	-916.3366	1064	timepoint1_cell869
+b'GGACTCCAGGTT'	timepoint1_5-APs/RPs	-0.0	-733.60095	1051	timepoint1_cell870
+b'CAGCCGGTTACA'	timepoint1_3-APs/RPs	-0.0	-458.97308	1148	timepoint1_cell871
+b'CACGCCGTAGTT'	timepoint1_6-Young neurons	-0.0	-512.34973	1213	timepoint1_cell872
+b'GTTAAAACGGTT'	timepoint1_4-IPs	-0.0	-461.8035	1019	timepoint1_cell873
+b'AGTTTTGGAGTT'	timepoint1_4-IPs	-0.0	-410.70593	1331	timepoint1_cell874
+b'GACAAGCTCTGT'	timepoint1_3-APs/RPs	-0.0	-349.62335	1117	timepoint1_cell875
+b'CTGGAGCGGAGA'	timepoint1_5-APs/RPs	-0.0	-232.05734	1167	timepoint1_cell876
+b'CTTTCGGATGAA'	timepoint1_3-APs/RPs	-0.0	-822.09344	1121	timepoint1_cell877
+b'ACGACTCGTTGT'	timepoint1_1-Neurons	-0.0	-559.11597	930	timepoint1_cell878
+b'GTATGATGGAAN'	timepoint1_3-APs/RPs	-0.0	-474.70554	1079	timepoint1_cell879
+b'GCGGGCCGCCTA'	timepoint1_2-Young neurons	0.0	405.41257	1697	timepoint1_cell880
+b'TGAGAAGTTGGT'	timepoint1_5-APs/RPs	-0.0	-627.2194	1146	timepoint1_cell881
+b'TAGGAATTTCGT'	timepoint1_6-Young neurons	-0.0	-199.58313	1194	timepoint1_cell882
+b'CGCGAGTGGATT'	timepoint1_1-Neurons	-0.0	-650.4121	1113	timepoint1_cell883
+b'TTTGCCTTGGTN'	timepoint1_6-Young neurons	-0.0	-764.7016	1164	timepoint1_cell884
+b'GCTGCCTCAGGT'	timepoint1_3-APs/RPs	-0.0	-791.4728	1166	timepoint1_cell885
+b'ATCACGGGCTCT'	timepoint1_4-IPs	-0.0	-801.47833	1044	timepoint1_cell886
+b'TCGGCCGGCATT'	timepoint1_3-APs/RPs	-0.0	-315.5051	1133	timepoint1_cell887
+b'GTCCGACTGTAC'	timepoint1_3-APs/RPs	-0.0	-652.48865	1292	timepoint1_cell888
+b'ATATGGCGGCGG'	timepoint1_4-IPs	-0.0	-696.6668	1018	timepoint1_cell889
+b'TAGCGGAAGTCC'	timepoint1_6-Young neurons	-0.0	-849.78375	1102	timepoint1_cell890
+b'ATCATTGGGCGC'	timepoint1_4-IPs	-0.0	-424.00885	1235	timepoint1_cell891
+b'ACCGACATCCGC'	timepoint1_3-APs/RPs	0.0	98.3194	1228	timepoint1_cell892
+b'ACTCTACCTTGA'	timepoint1_3-APs/RPs	-0.0	-526.4541	1232	timepoint1_cell893
+b'TCTAGTCAGAGN'	timepoint1_5-APs/RPs	-0.0	-613.3432	1093	timepoint1_cell894
+b'GACGGATAAGGG'	timepoint1_3-APs/RPs	-0.0	-499.3231	1153	timepoint1_cell895
+b'GAGATCCCTTAG'	timepoint1_5-APs/RPs	-0.0	-609.98566	1103	timepoint1_cell896
+b'TGAGCACTTTTA'	timepoint1_4-IPs	-0.0	-687.8085	1099	timepoint1_cell897
+b'GGAATATGGGTA'	timepoint1_5-APs/RPs	-0.0	-235.24406	1122	timepoint1_cell898
+b'TGGGTCCGTTCT'	timepoint1_5-APs/RPs	-0.0	-288.2247	1305	timepoint1_cell899
+b'TAGGGCTAGCGT'	timepoint1_4-IPs	-0.0	-623.9688	1071	timepoint1_cell900
+b'CCCTATCAGTAA'	timepoint1_3-APs/RPs	-0.0	-163.98424	1069	timepoint1_cell901
+b'AGTTGTTACTAC'	timepoint1_3-APs/RPs	-0.0	-1194.2299	1044	timepoint1_cell902
+b'TGAAAGTCGCAA'	timepoint1_5-APs/RPs	-0.0	-423.39178	988	timepoint1_cell903
+b'GTCTGCTGAACT'	timepoint1_4-IPs	-0.0	-160.51234	1178	timepoint1_cell904
+b'CTTTTGTACCAG'	timepoint1_3-APs/RPs	-0.0	-392.74362	1118	timepoint1_cell905
+b'GACTATTGAGCC'	timepoint1_6-Young neurons	-0.0	-494.01718	1124	timepoint1_cell906
+b'GTACTGTTTTAA'	timepoint1_6-Young neurons	-0.0	-850.97626	1058	timepoint1_cell907
+b'AAGAGGACAGGG'	timepoint1_3-APs/RPs	-0.0	-537.28577	1136	timepoint1_cell908
+b'GTCGACTGGACA'	timepoint1_3-APs/RPs	-0.0	-636.8838	1036	timepoint1_cell909
+b'AAGGCATAGATA'	timepoint1_5-APs/RPs	-0.0	-414.45374	1136	timepoint1_cell910
+b'GGGATGCAGTGG'	timepoint1_3-APs/RPs	-0.0	-409.59595	1128	timepoint1_cell911
+b'TAGATGCCATGC'	timepoint1_3-APs/RPs	-0.0	-1306.2976	1021	timepoint1_cell912
+b'AGCCTGTGAGCA'	timepoint1_5-APs/RPs	-0.0	-547.2792	1154	timepoint1_cell913
+b'GCGGTTGTGTTA'	timepoint1_3-APs/RPs	-0.0	-507.53412	1235	timepoint1_cell914
+b'TTCGCGCGAGGG'	timepoint1_5-APs/RPs	0.0	259.2356	1109	timepoint1_cell915
+b'TATCCGTAAGCT'	timepoint1_4-IPs	-0.0	-1057.1722	1029	timepoint1_cell916
+b'TAACCGGTAACA'	timepoint1_3-APs/RPs	-0.0	-839.7842	985	timepoint1_cell917
+b'CTGCATTTAATG'	timepoint1_5-APs/RPs	-0.0	-762.5649	1009	timepoint1_cell918
+b'ATGCTTGCAAAA'	timepoint1_3-APs/RPs	-0.0	-662.3336	1028	timepoint1_cell919
+b'CGCACTCTAGCG'	timepoint1_4-IPs	-0.0	-369.4983	1130	timepoint1_cell920
+b'TCCTCGCTCCAG'	timepoint1_3-APs/RPs	-0.0	-894.294	967	timepoint1_cell921
+b'ATATAGCTAGGC'	timepoint1_1-Neurons	-0.0	-548.6029	1154	timepoint1_cell922
+b'CTAAAAGCGGCA'	timepoint1_6-Young neurons	-0.0	-798.56104	863	timepoint1_cell923
+b'AGCCAGCCGCTN'	timepoint1_3-APs/RPs	-0.0	-1038.0443	1105	timepoint1_cell924
+b'GTAATGCTATTG'	timepoint1_4-IPs	-0.0	-253.89703	994	timepoint1_cell925
+b'AATTAGGGAATT'	timepoint1_5-APs/RPs	-0.0	-294.89307	952	timepoint1_cell926
+b'GGCAGACCCGAG'	timepoint1_3-APs/RPs	-0.0	-684.87024	1131	timepoint1_cell927
+b'AACAATTAGCCG'	timepoint1_3-APs/RPs	-0.0	-414.92593	1157	timepoint1_cell928
+b'GCACAATCGCCT'	timepoint1_3-APs/RPs	-0.0	-1471.3787	853	timepoint1_cell929
+b'GATTGATGTCCA'	timepoint1_3-APs/RPs	-0.0	-1733.8687	885	timepoint1_cell930
+b'ACTGTACGCCGG'	timepoint1_3-APs/RPs	-0.0	-20.652729	987	timepoint1_cell931
+b'CTGGTGGAGGTC'	timepoint1_1-Neurons	-0.0	-358.98895	1210	timepoint1_cell932
+b'TTTAGTCTCTCA'	timepoint1_3-APs/RPs	-0.0	-441.02493	963	timepoint1_cell933
+b'AGAGCCGTCGCT'	timepoint1_3-APs/RPs	-0.0	-758.1647	1037	timepoint1_cell934
+b'TTAAACAGATCC'	timepoint1_4-IPs	-0.0	-733.8046	1021	timepoint1_cell935
+b'TAGACAAGTGCC'	timepoint1_3-APs/RPs	-0.0	-895.2736	1028	timepoint1_cell936
+b'ACGTAATACGCG'	timepoint1_4-IPs	-0.0	-1003.21796	963	timepoint1_cell937
+b'GGCCAGCCGACC'	timepoint1_3-APs/RPs	-0.0	-673.37573	1199	timepoint1_cell938
+b'ATGGTTCGAACG'	timepoint1_3-APs/RPs	-0.0	-1141.5146	1072	timepoint1_cell939
+b'ATGTGTGTGGGT'	timepoint1_3-APs/RPs	-0.0	-312.5937	1155	timepoint1_cell940
+b'GCATGTACAAGC'	timepoint1_4-IPs	-0.0	-811.61896	1049	timepoint1_cell941
+b'TAGCAATGGAAA'	timepoint1_2-Young neurons	-0.0	-455.24878	954	timepoint1_cell942
+b'GAAATGGTGGAC'	timepoint1_3-APs/RPs	-0.0	-761.25464	982	timepoint1_cell943
+b'TATGACTTTAGC'	timepoint1_6-Young neurons	-0.0	-796.30615	1077	timepoint1_cell944
+b'TACCACCAACAA'	timepoint1_6-Young neurons	-0.0	-401.22406	1021	timepoint1_cell945
+b'CAGATGACGGGT'	timepoint1_4-IPs	-0.0	-637.6997	1114	timepoint1_cell946
+b'GTGTGTAGCCTC'	timepoint1_3-APs/RPs	-0.0	-1046.8763	1103	timepoint1_cell947
+b'GTAGGTCGTGGC'	timepoint1_2-Young neurons	-0.0	-654.77026	1068	timepoint1_cell948
+b'TCGTAGCTAATA'	timepoint1_6-Young neurons	-0.0	-1100.07	1017	timepoint1_cell949
+b'AGACTGTCTGGT'	timepoint1_7-IPs	-0.0	-620.03094	980	timepoint1_cell950
+b'GCCGTACCTGCT'	timepoint1_6-Young neurons	-0.0	-956.4213	1023	timepoint1_cell951
+b'CTTGTCGGTAGA'	timepoint1_6-Young neurons	-0.0	-1109.1025	935	timepoint1_cell952
+b'AGTGACCTAGAG'	timepoint1_4-IPs	-0.0	-403.04333	1101	timepoint1_cell953
+b'CCGGGTTCGCTG'	timepoint1_6-Young neurons	-0.0	-628.6069	1104	timepoint1_cell954
+b'GGTTTGCGCGAN'	timepoint1_6-Young neurons	-0.0	-581.6643	1082	timepoint1_cell955
+b'GTCGCTCGGAGT'	timepoint1_3-APs/RPs	-0.0	-744.35956	1215	timepoint1_cell956
+b'TTGACATGTAAT'	timepoint1_6-Young neurons	-0.0	-897.3224	1086	timepoint1_cell957
+b'AGATGGAAAAAT'	timepoint1_5-APs/RPs	-0.0	-576.264	1074	timepoint1_cell958
+b'GCTAAGAATCCN'	timepoint1_6-Young neurons	-0.0	-488.38	1109	timepoint1_cell959
+b'GCGACGAAGAGT'	timepoint1_6-Young neurons	-0.0	-511.19046	1049	timepoint1_cell960
+b'AAATAACAGAGA'	timepoint1_3-APs/RPs	-0.0	-611.53125	984	timepoint1_cell961
+b'AATGCTGCGTCG'	timepoint1_1-Neurons	-0.0	-543.74603	1017	timepoint1_cell962
+b'ATCACAATAAAC'	timepoint1_4-IPs	-0.0	-483.72467	908	timepoint1_cell963
+b'TCTGCAGTTGTG'	timepoint1_1-Neurons	-0.0	-842.51434	985	timepoint1_cell964
+b'AGGCGTTTTAGG'	timepoint1_3-APs/RPs	-0.0	-883.6658	1017	timepoint1_cell965
+b'CTCATCAAAAGC'	timepoint1_3-APs/RPs	-0.0	-708.2466	953	timepoint1_cell966
+b'ACGTGACGCTGC'	timepoint1_3-APs/RPs	-0.0	-1564.7557	931	timepoint1_cell967
+b'GTAGTCGTGTTC'	timepoint1_3-APs/RPs	-0.0	-792.49335	940	timepoint1_cell968
+b'ACGTCGCCGACT'	timepoint1_3-APs/RPs	-0.0	-782.4604	1042	timepoint1_cell969
+b'TGCCTGGTCCCG'	timepoint1_3-APs/RPs	-0.0	-1252.4316	933	timepoint1_cell970
+b'GGATGTGTTACN'	timepoint1_6-Young neurons	-0.0	-746.98267	1054	timepoint1_cell971
+b'TGAAGACCATTG'	timepoint1_3-APs/RPs	-0.0	-883.4403	994	timepoint1_cell972
+b'GAAAGAGGAAGT'	timepoint1_5-APs/RPs	-0.0	-1041.2393	947	timepoint1_cell973
+b'TGTAAATCAGAC'	timepoint1_3-APs/RPs	-0.0	-849.6183	973	timepoint1_cell974
+b'ATAACCTACTGG'	timepoint1_3-APs/RPs	-0.0	-1473.5709	953	timepoint1_cell975
+b'CCGTCCGGTGCC'	timepoint1_6-Young neurons	-0.0	-1097.9247	986	timepoint1_cell976
+b'TTTGGTTTGCCC'	timepoint1_6-Young neurons	-0.0	-611.43445	1057	timepoint1_cell977
+b'GTATGATGGAAG'	timepoint1_3-APs/RPs	-0.0	-431.46072	1061	timepoint1_cell978
+b'TGGGAGATGACT'	timepoint1_5-APs/RPs	0.0	189.29196	1018	timepoint1_cell979
+b'CTCTCGGGGTAT'	timepoint1_4-IPs	-0.0	-550.72235	1099	timepoint1_cell980
+b'TTTAAACCTGCT'	timepoint1_6-Young neurons	-0.0	-895.9773	1013	timepoint1_cell981
+b'TATTCAGTTGGC'	timepoint1_3-APs/RPs	-0.0	-1443.618	978	timepoint1_cell982
+b'GGGCCGGTTTCC'	timepoint1_3-APs/RPs	-0.0	-783.1989	1173	timepoint1_cell983
+b'CGTTGCTCCTGC'	timepoint1_3-APs/RPs	-0.0	-809.1745	1046	timepoint1_cell984
+b'CTCGACCGCAAA'	timepoint1_3-APs/RPs	-0.0	-1613.7212	803	timepoint1_cell985
+b'ACTGTTACTCAT'	timepoint1_1-Neurons	-0.0	-573.6483	1110	timepoint1_cell986
+b'TTCTTGTGTTCT'	timepoint1_7-IPs	-0.0	-102.547264	1127	timepoint1_cell987
+b'GTAGTTGTGAAG'	timepoint1_4-IPs	-0.0	-495.69617	1076	timepoint1_cell988
+b'CGAGAAAAGTGT'	timepoint1_3-APs/RPs	-0.0	-626.5247	1119	timepoint1_cell989
+b'TGGGACTGAGGA'	timepoint1_3-APs/RPs	-0.0	-863.4448	1135	timepoint1_cell990
+b'CTGGGTTGTCGC'	timepoint1_5-APs/RPs	-0.0	-550.83777	1118	timepoint1_cell991
+b'TTGCACCGTTCT'	timepoint1_1-Neurons	-0.0	-736.0308	973	timepoint1_cell992
+b'TATCGGATGGAN'	timepoint1_4-IPs	-0.0	-964.1907	969	timepoint1_cell993
+b'GCGCCCTTCTTC'	timepoint1_3-APs/RPs	-0.0	-1277.322	879	timepoint1_cell994
+b'CGTAACCTAGAA'	timepoint1_3-APs/RPs	-0.0	-720.2053	1025	timepoint1_cell995
+b'CCTTCAGTCGCA'	timepoint1_3-APs/RPs	-0.0	-1237.3586	828	timepoint1_cell996
+b'AGGTTTGCGATG'	timepoint1_3-APs/RPs	-0.0	-958.28687	1124	timepoint1_cell997
+b'GTGAACAGAGCC'	timepoint1_3-APs/RPs	-0.0	-827.1943	1078	timepoint1_cell998
+b'CTTCCCGAGTAG'	timepoint1_3-APs/RPs	-0.0	-1284.7451	904	timepoint1_cell999
+b'GGCGGAGGCGTA'	timepoint1_3-APs/RPs	-0.0	-223.44937	1143	timepoint1_cell1000
+b'TTTACAATCCCC'	timepoint1_3-APs/RPs	-0.0	-824.3411	777	timepoint1_cell1001
+b'CTCAATGGAGGA'	timepoint1_6-Young neurons	-0.0	-361.62567	1007	timepoint1_cell1002
+b'GCATAATCTTTC'	timepoint1_3-APs/RPs	-0.0	-1147.3461	835	timepoint1_cell1003
+b'ATAGGTATCGCC'	timepoint1_6-Young neurons	-0.0	-669.60706	1040	timepoint1_cell1004
+b'AATTGCGTGATT'	timepoint1_3-APs/RPs	-0.0	-870.46014	1047	timepoint1_cell1005
+b'ATGAGCCAGGCN'	timepoint1_1-Neurons	-0.0	-557.3874	989	timepoint1_cell1006
+b'TGGTTGTGGCCG'	timepoint1_5-APs/RPs	-0.0	-277.213	1199	timepoint1_cell1007
+b'AACCGTTTAGGA'	timepoint1_3-APs/RPs	-0.0	-1341.2584	854	timepoint1_cell1008
+b'TGGCCACTACAA'	timepoint1_4-IPs	-0.0	-683.60583	1103	timepoint1_cell1009
+b'CCAGTAGCAGTC'	timepoint1_3-APs/RPs	-0.0	-915.24255	946	timepoint1_cell1010
+b'AGAGGTTATCCA'	timepoint1_4-IPs	-0.0	-634.74396	996	timepoint1_cell1011
+b'TACGAGCTTGCN'	timepoint1_5-APs/RPs	-0.0	-684.47797	967	timepoint1_cell1012
+b'CCATACATCGCC'	timepoint1_3-APs/RPs	-0.0	-984.92004	782	timepoint1_cell1013
+b'ACGGTTATAAGC'	timepoint1_1-Neurons	-0.0	-480.44888	1041	timepoint1_cell1014
+b'TGACGGCCAGTC'	timepoint1_4-IPs	-0.0	-535.89233	1028	timepoint1_cell1015
+b'TGTCATTTAATC'	timepoint1_6-Young neurons	-0.0	-658.98944	1069	timepoint1_cell1016
+b'ATTGTCAACGTC'	timepoint1_6-Young neurons	-0.0	-826.72754	1018	timepoint1_cell1017
+b'TGACACACCTCT'	timepoint1_3-APs/RPs	-0.0	-1110.1938	852	timepoint1_cell1018
+b'CAGACACTAGAG'	timepoint1_3-APs/RPs	-0.0	-538.08276	1038	timepoint1_cell1019
+b'GCTCCCTGCTCA'	timepoint1_5-APs/RPs	-0.0	-817.50586	964	timepoint1_cell1020
+b'CTAGGGACGAGA'	timepoint1_6-Young neurons	-0.0	-819.83435	878	timepoint1_cell1021
+b'TCAGGTGCGTCG'	timepoint1_3-APs/RPs	-0.0	-1311.5906	911	timepoint1_cell1022
+b'AAGCTGGGTGGA'	timepoint1_2-Young neurons	-0.0	-391.82462	1053	timepoint1_cell1023
+b'TCCCGAGACTAC'	timepoint1_5-APs/RPs	-0.0	-931.0262	915	timepoint1_cell1024
+b'ACCGGTGTGCAT'	timepoint1_3-APs/RPs	-0.0	-440.18073	1051	timepoint1_cell1025
+b'AATACTGGGAAA'	timepoint1_3-APs/RPs	-0.0	-907.4652	922	timepoint1_cell1026
+b'GGCCCAAGACTA'	timepoint1_3-APs/RPs	-0.0	-1273.7037	950	timepoint1_cell1027
+b'GGAGTATCCAGA'	timepoint1_6-Young neurons	-0.0	-909.326	968	timepoint1_cell1028
+b'TCTATTAAAAGC'	timepoint1_5-APs/RPs	-0.0	-509.73627	897	timepoint1_cell1029
+b'ACTTGCAACAGN'	timepoint1_2-Young neurons	-0.0	-956.2458	863	timepoint1_cell1030
+b'ACGCCTGTTCTT'	timepoint1_3-APs/RPs	-0.0	-1055.9348	907	timepoint1_cell1031
+b'AGAAAATAAGTG'	timepoint1_2-Young neurons	-0.0	-764.1397	896	timepoint1_cell1032
+b'CATTGGAGATGT'	timepoint1_7-IPs	-0.0	-733.4666	867	timepoint1_cell1033
+b'ATTCGCCACCAA'	timepoint1_6-Young neurons	-0.0	-1454.3909	812	timepoint1_cell1034
+b'TTAAAGCAGCAA'	timepoint1_1-Neurons	-0.0	-883.22375	876	timepoint1_cell1035
+b'TCTGAGTATCTA'	timepoint1_1-Neurons	-0.0	-628.70624	974	timepoint1_cell1036
+b'GTTGCCCGTACN'	timepoint1_4-IPs	-0.0	-1131.5104	908	timepoint1_cell1037
+b'ATAACAATTCTG'	timepoint1_6-Young neurons	-0.0	-984.8423	886	timepoint1_cell1038
+b'GACCAATTAACT'	timepoint1_3-APs/RPs	-0.0	-588.57666	882	timepoint1_cell1039
+b'CCTGTACGCACA'	timepoint1_6-Young neurons	-0.0	-1187.0885	921	timepoint1_cell1040
+b'ATCCTCCCTTCC'	timepoint1_3-APs/RPs	-0.0	-270.50052	794	timepoint1_cell1041
+b'CGGGGAGGCGCN'	timepoint1_3-APs/RPs	-0.0	-545.2582	1069	timepoint1_cell1042
+b'AAGCTAAAAGGA'	timepoint1_3-APs/RPs	-0.0	-1062.7517	859	timepoint1_cell1043
+b'CTACAACAAAGT'	timepoint1_1-Neurons	-0.0	-886.40643	846	timepoint1_cell1044
+b'AACAATAGTAGT'	timepoint1_2-Young neurons	-0.0	-842.78796	813	timepoint1_cell1045
+b'CAGGGAGAGAGC'	timepoint1_2-Young neurons	-0.0	-845.0072	900	timepoint1_cell1046
+b'ATGGCGGAATAC'	timepoint1_2-Young neurons	-0.0	-436.4858	934	timepoint1_cell1047
+b'CCCTAGGTCATC'	timepoint1_3-APs/RPs	-0.0	-745.5273	610	timepoint1_cell1048
+b'CTTTATCGCTGC'	timepoint1_3-APs/RPs	-0.0	-1084.7222	896	timepoint1_cell1049
+b'CACGTGCATTGA'	timepoint1_3-APs/RPs	-0.0	-1040.3519	1000	timepoint1_cell1050
+b'TGAATGATTTCT'	timepoint1_3-APs/RPs	-0.0	-1531.1697	775	timepoint1_cell1051
+b'TAACCATTACTT'	timepoint1_4-IPs	-0.0	-1015.29785	876	timepoint1_cell1052
+b'TAAATAGGGTCA'	timepoint1_3-APs/RPs	-0.0	-793.6555	977	timepoint1_cell1053
+b'GCTAACCTCTTA'	timepoint1_3-APs/RPs	-0.0	-1282.2275	794	timepoint1_cell1054
+b'GATATGTTAAAG'	timepoint1_3-APs/RPs	-0.0	-1405.2395	836	timepoint1_cell1055
+b'TTTGCCGAAGGT'	timepoint1_3-APs/RPs	-0.0	-870.7589	948	timepoint1_cell1056
+b'CTATTGACCAAG'	timepoint1_4-IPs	-0.0	-882.12744	899	timepoint1_cell1057
+b'CAGTTAGCCACG'	timepoint1_3-APs/RPs	-0.0	-1199.4213	830	timepoint1_cell1058
+b'CAAATACAACCC'	timepoint1_4-IPs	-0.0	-1554.7205	793	timepoint1_cell1059
+b'CGCGCTCGGTCC'	timepoint1_6-Young neurons	-0.0	-902.68585	986	timepoint1_cell1060
+b'GCACTACTGTCT'	timepoint1_3-APs/RPs	-0.0	-1195.1838	842	timepoint1_cell1061
+b'ACCCCATTGTTA'	timepoint1_3-APs/RPs	-0.0	-376.27335	867	timepoint1_cell1062
+b'ATCTGACTGCCT'	timepoint1_6-Young neurons	-0.0	-830.27966	873	timepoint1_cell1063
+b'AACTCCTGCCAC'	timepoint1_3-APs/RPs	-0.0	-1479.3208	816	timepoint1_cell1064
+b'TCGCGTACAATA'	timepoint1_3-APs/RPs	-0.0	-982.07324	871	timepoint1_cell1065
+b'CGTCTTCCACGT'	timepoint1_4-IPs	-0.0	-929.0562	807	timepoint1_cell1066
+b'CAATCGCCCGCA'	timepoint1_3-APs/RPs	-0.0	-1706.3727	777	timepoint1_cell1067
+b'GGCTGGGGTGCC'	timepoint1_1-Neurons	-0.0	-52.139847	1154	timepoint1_cell1068
+b'CCCGGCTTCTAC'	timepoint1_3-APs/RPs	-0.0	-1451.7269	806	timepoint1_cell1069
+b'AGCCTGTTCTTN'	timepoint1_1-Neurons	-0.0	-1189.7223	837	timepoint1_cell1070
+b'AGGCCTCCCCAA'	timepoint1_5-APs/RPs	-0.0	-718.9222	942	timepoint1_cell1071
+b'TATCTACCCATC'	timepoint1_3-APs/RPs	-0.0	-1237.6077	815	timepoint1_cell1072
+b'AGGCAAAATAGT'	timepoint1_4-IPs	-0.0	-924.81805	909	timepoint1_cell1073
+b'AAACGATTTCCA'	timepoint1_6-Young neurons	-0.0	-931.4027	839	timepoint1_cell1074
+b'GCGACAATGCGT'	timepoint1_4-IPs	-0.0	-1114.6194	881	timepoint1_cell1075
+b'TTCATGTCGCCC'	timepoint1_3-APs/RPs	-0.0	-288.17706	596	timepoint1_cell1076
+b'CCTGCCCACGCC'	timepoint1_3-APs/RPs	-0.0	-1102.1084	926	timepoint1_cell1077
+b'CGATGAGGATAT'	timepoint1_3-APs/RPs	-0.0	-980.6272	950	timepoint1_cell1078
+b'GTCGTGGAGCCN'	timepoint1_3-APs/RPs	-0.0	-1111.2703	848	timepoint1_cell1079
+b'AGAGCTCAAGTG'	timepoint1_3-APs/RPs	-0.0	-1223.6567	852	timepoint1_cell1080
+b'TGTCGGATACAC'	timepoint1_3-APs/RPs	-0.0	-936.8531	814	timepoint1_cell1081
+b'ACGCTCTACAAG'	timepoint1_3-APs/RPs	-0.0	-627.1496	872	timepoint1_cell1082
+b'CAATTTCCGCGN'	timepoint1_6-Young neurons	-0.0	-1011.32495	829	timepoint1_cell1083
+b'CAGAGAATGATT'	timepoint1_3-APs/RPs	-0.0	-964.4271	882	timepoint1_cell1084
+b'GCTGCCCAAGGG'	timepoint1_3-APs/RPs	-0.0	-1325.2385	855	timepoint1_cell1085
+b'GGGTCTACCCTT'	timepoint1_5-APs/RPs	-0.0	-380.75168	1117	timepoint1_cell1086
+b'GACGAGTTGCGG'	timepoint1_3-APs/RPs	-0.0	-1281.1681	832	timepoint1_cell1087
+b'TTGTCCGTAGAA'	timepoint1_3-APs/RPs	-0.0	-872.9716	740	timepoint1_cell1088
+b'CGTGCAAAAAAC'	timepoint1_6-Young neurons	-0.0	-1000.9968	861	timepoint1_cell1089
+b'ATACAAATATAA'	timepoint1_1-Neurons	-0.0	-1065.0645	795	timepoint1_cell1090
+b'GAACGTAGCTAT'	timepoint1_3-APs/RPs	-0.0	-875.1163	792	timepoint1_cell1091
+b'GCATTTGGCGAA'	timepoint1_3-APs/RPs	-0.0	-969.25824	790	timepoint1_cell1092
+b'GAGCACCCTTTC'	timepoint1_3-APs/RPs	-0.0	-936.4075	746	timepoint1_cell1093
+b'CGTCGTGGAGCC'	timepoint1_3-APs/RPs	-0.0	-1516.2136	766	timepoint1_cell1094
+b'ATGCGTTTGCAA'	timepoint1_2-Young neurons	-0.0	-1183.7961	830	timepoint1_cell1095
+b'AGGTGCCGAGTG'	timepoint1_3-APs/RPs	-0.0	-953.7367	910	timepoint1_cell1096
+b'ATGAAGGCGCGT'	timepoint1_4-IPs	-0.0	-1081.4215	829	timepoint1_cell1097
+b'TACGGCGTCTAA'	timepoint1_4-IPs	-0.0	-1330.7523	852	timepoint1_cell1098
+b'TCATCGGGACTC'	timepoint1_4-IPs	-0.0	-1417.2921	796	timepoint1_cell1099
+b'ACGGTTGTGTGA'	timepoint1_3-APs/RPs	-0.0	-806.2061	1006	timepoint1_cell1100
+b'CTATTTGGATAC'	timepoint1_3-APs/RPs	0.0	142.12209	564	timepoint1_cell1101
+b'TGTTACTCTCCG'	timepoint1_7-IPs	-0.0	-1090.1929	908	timepoint1_cell1102
+b'CATGTCGGACAT'	timepoint1_3-APs/RPs	-0.0	-1292.0613	840	timepoint1_cell1103
+b'CGAAAGGCTTGT'	timepoint1_3-APs/RPs	-0.0	-1132.2965	847	timepoint1_cell1104
+b'TAACGCGTCTAG'	timepoint1_6-Young neurons	-0.0	-1234.0878	803	timepoint1_cell1105
+b'GATGACTCATTT'	timepoint1_3-APs/RPs	-0.0	-664.94336	770	timepoint1_cell1106
+b'GGATCATGGGTC'	timepoint1_3-APs/RPs	-0.0	-1340.3035	890	timepoint1_cell1107
+b'AAAAAAGTAGCA'	timepoint1_5-APs/RPs	-0.0	-1068.5762	791	timepoint1_cell1108
+b'AAGCCTCCTTCA'	timepoint1_1-Neurons	-0.0	-664.62695	918	timepoint1_cell1109
+b'TAGCAGGGGGTT'	timepoint1_3-APs/RPs	-0.0	-950.0156	841	timepoint1_cell1110
+b'ACGACCCCCATA'	timepoint1_3-APs/RPs	-0.0	-1615.7449	856	timepoint1_cell1111
+b'ATAATGTGATTA'	timepoint1_3-APs/RPs	-0.0	-905.0462	980	timepoint1_cell1112
+b'ATCAGCTGCCGG'	timepoint1_5-APs/RPs	-0.0	-434.40295	860	timepoint1_cell1113
+b'TCTAGGGAACGG'	timepoint1_6-Young neurons	-0.0	-1083.0823	853	timepoint1_cell1114
+b'AGTCGCTGATCT'	timepoint1_3-APs/RPs	-0.0	-1114.8771	894	timepoint1_cell1115
+b'ATTCAGATTCCC'	timepoint1_5-APs/RPs	-0.0	-948.4344	826	timepoint1_cell1116
+b'TAAGGTGTTGAC'	timepoint1_4-IPs	-0.0	-1133.0452	781	timepoint1_cell1117
+b'GGCAGTGGCCCA'	timepoint1_4-IPs	-0.0	-1019.69336	921	timepoint1_cell1118
+b'TAGCCGCTTTCC'	timepoint1_3-APs/RPs	-0.0	-1683.3612	741	timepoint1_cell1119
+b'TCTGTTAGACTT'	timepoint1_5-APs/RPs	-0.0	-1026.9745	680	timepoint1_cell1120
+b'ACGATTTTTCCT'	timepoint1_7-IPs	-0.0	-1218.7479	834	timepoint1_cell1121
+b'GCGCTGGCTAAC'	timepoint1_2-Young neurons	-0.0	-1062.4841	863	timepoint1_cell1122
+b'CATCTTATAGAA'	timepoint1_4-IPs	-0.0	-1102.3916	844	timepoint1_cell1123
+b'CTGGATAAAGGT'	timepoint1_6-Young neurons	-0.0	-1159.2446	775	timepoint1_cell1124
+b'GGACTCCCACAC'	timepoint1_3-APs/RPs	-0.0	-1367.3942	939	timepoint1_cell1125
+b'ACAGGAGGTTCG'	timepoint1_5-APs/RPs	-0.0	-1039.6895	779	timepoint1_cell1126
+b'CTTATCTTTTAC'	timepoint1_3-APs/RPs	-0.0	-185.50632	765	timepoint1_cell1127
+b'AAAAACGCCCAA'	timepoint1_6-Young neurons	-0.0	-636.3663	858	timepoint1_cell1128
+b'GACTGGTTTGGG'	timepoint1_2-Young neurons	-0.0	-921.8652	880	timepoint1_cell1129
+b'GACTGGGCAAGC'	timepoint1_3-APs/RPs	-0.0	-1505.228	804	timepoint1_cell1130
+b'GGTAAGTTATCN'	timepoint1_3-APs/RPs	-0.0	-937.63556	818	timepoint1_cell1131
+b'TGGGCCCACCAC'	timepoint1_3-APs/RPs	-0.0	-1156.1945	876	timepoint1_cell1132
+b'TTCGTGGCTGTA'	timepoint1_4-IPs	-0.0	-804.14325	667	timepoint1_cell1133
+b'GTAAAAACGTGA'	timepoint1_3-APs/RPs	-0.0	-1205.8634	760	timepoint1_cell1134
+b'GTTACATTATCA'	timepoint1_3-APs/RPs	-0.0	-1554.9094	765	timepoint1_cell1135
+b'ATGACATTTCGT'	timepoint1_3-APs/RPs	-0.0	-1603.737	700	timepoint1_cell1136
+b'TCCAACTAAGAT'	timepoint1_3-APs/RPs	-0.0	-1278.149	758	timepoint1_cell1137
+b'TTCTCTATATCG'	timepoint1_3-APs/RPs	-0.0	-1308.5422	865	timepoint1_cell1138
+b'CGACTTGCTACC'	timepoint1_3-APs/RPs	-0.0	-1180.4608	780	timepoint1_cell1139
+b'CGGTGGTAACCC'	timepoint1_4-IPs	-0.0	-546.92725	761	timepoint1_cell1140
+b'TGGGGGACCTCC'	timepoint1_5-APs/RPs	-0.0	-913.7425	1004	timepoint1_cell1141
+b'TGTCTGAAGCCC'	timepoint1_3-APs/RPs	-0.0	-1075.7192	731	timepoint1_cell1142
+b'CGCCTACCACCT'	timepoint1_3-APs/RPs	-0.0	-1085.8774	844	timepoint1_cell1143
+b'TATGTGTGACGA'	timepoint1_3-APs/RPs	-0.0	-921.39777	693	timepoint1_cell1144
+b'GCCCAATACTTC'	timepoint1_3-APs/RPs	-0.0	-1361.5491	808	timepoint1_cell1145
+b'CTCTTCGAATGC'	timepoint1_6-Young neurons	-0.0	-1287.5446	731	timepoint1_cell1146
+b'GTCTCTTAAATC'	timepoint1_3-APs/RPs	-0.0	-1239.8972	757	timepoint1_cell1147
+b'TGTCCCCGGACA'	timepoint1_3-APs/RPs	-0.0	-1440.3004	841	timepoint1_cell1148
+b'AAGTTCCACCTT'	timepoint1_1-Neurons	-0.0	-1297.5691	760	timepoint1_cell1149
+b'ACTCCGAGTTTA'	timepoint1_3-APs/RPs	-0.0	-1143.8287	748	timepoint1_cell1150
+b'AGCTCAACCAGN'	timepoint1_5-APs/RPs	-0.0	-907.2327	880	timepoint1_cell1151
+b'CCTGTCCGACGC'	timepoint1_3-APs/RPs	-0.0	-1114.751	649	timepoint1_cell1152
+b'TATCTCGTTCAT'	timepoint1_5-APs/RPs	-0.0	-183.87805	690	timepoint1_cell1153
+b'TGATCTTTAGAT'	timepoint1_3-APs/RPs	-0.0	-983.36444	836	timepoint1_cell1154
+b'TGACTGGATATA'	timepoint1_3-APs/RPs	-0.0	-1471.5033	760	timepoint1_cell1155
+b'TGCGACGCGGAC'	timepoint1_3-APs/RPs	-0.0	-1901.771	689	timepoint1_cell1156
+b'CTCCCTGTGTAC'	timepoint1_3-APs/RPs	-0.0	-1663.094	708	timepoint1_cell1157
+b'TAGCGCCACAGT'	timepoint1_7-IPs	-0.0	-1131.7892	803	timepoint1_cell1158
+b'ATTATGTTACGA'	timepoint1_6-Young neurons	-0.0	-1515.6968	662	timepoint1_cell1159
+b'GCATCGCGATCA'	timepoint1_3-APs/RPs	-0.0	-1559.9578	633	timepoint1_cell1160
+b'TGAGTTATTGGG'	timepoint1_3-APs/RPs	-0.0	-1041.616	853	timepoint1_cell1161
+b'GAACCCGTGATA'	timepoint1_3-APs/RPs	-0.0	-1370.2819	703	timepoint1_cell1162
+b'ACTTGAATCCTC'	timepoint1_3-APs/RPs	-0.0	-1856.204	691	timepoint1_cell1163
+b'ACGCAACCCATG'	timepoint1_1-Neurons	-0.0	-890.28296	725	timepoint1_cell1164
+b'TGAAGTGTAAGT'	timepoint1_3-APs/RPs	-0.0	-1739.0306	646	timepoint1_cell1165
+b'AAGGATGCCGAA'	timepoint1_3-APs/RPs	-0.0	-1008.8486	883	timepoint1_cell1166
+b'GCTCGACCTAGG'	timepoint1_6-Young neurons	-0.0	-954.19763	900	timepoint1_cell1167
+b'ATTTCGATATTC'	timepoint1_3-APs/RPs	-0.0	-1092.6093	630	timepoint1_cell1168
+b'TCCACGCACCGA'	timepoint1_3-APs/RPs	-0.0	-1288.2906	851	timepoint1_cell1169
+b'CGCAAATATCAC'	timepoint1_3-APs/RPs	-0.0	-1815.3441	693	timepoint1_cell1170
+b'CCGTGTGTTTCC'	timepoint1_6-Young neurons	-0.0	-1207.4387	756	timepoint1_cell1171
+b'AATCAAATATTT'	timepoint1_5-APs/RPs	-0.0	-1073.6558	609	timepoint1_cell1172
+b'GACTATCAGACT'	timepoint1_3-APs/RPs	-0.0	-560.82806	763	timepoint1_cell1173
+b'ATTATATAGGCG'	timepoint1_3-APs/RPs	-0.0	-749.22363	880	timepoint1_cell1174
+b'GTTCTCGATGAT'	timepoint1_3-APs/RPs	-0.0	-1461.7568	798	timepoint1_cell1175
+b'GACCGGCGGGAT'	timepoint1_6-Young neurons	-0.0	-1322.3923	896	timepoint1_cell1176
+b'CGGCATAAGCTA'	timepoint1_3-APs/RPs	-0.0	-1329.4601	719	timepoint1_cell1177
+b'GTTAAAAACTAA'	timepoint1_2-Young neurons	-0.0	-1126.2845	678	timepoint1_cell1178
+b'GCCGACAATGGN'	timepoint1_3-APs/RPs	-0.0	-1412.7578	769	timepoint1_cell1179
+b'AATGGTAAGGCC'	timepoint1_3-APs/RPs	-0.0	-1639.8157	713	timepoint1_cell1180
+b'ATACAACCTTCC'	timepoint1_3-APs/RPs	-0.0	-298.57413	609	timepoint1_cell1181
+b'TCTCCAGGTTAA'	timepoint1_3-APs/RPs	-0.0	-1556.9276	686	timepoint1_cell1182
+b'CAGGAATTTACG'	timepoint1_3-APs/RPs	-0.0	-1433.913	775	timepoint1_cell1183
+b'CGCGTTACATTG'	timepoint1_3-APs/RPs	-0.0	-960.73584	773	timepoint1_cell1184
+b'ACTTTGTCGAAA'	timepoint1_3-APs/RPs	-0.0	-1538.3689	706	timepoint1_cell1185
+b'GCAAGTCGGCAG'	timepoint1_3-APs/RPs	-0.0	-1178.7848	715	timepoint1_cell1186
+b'TACCCGGATTTG'	timepoint1_3-APs/RPs	-0.0	-1678.1233	732	timepoint1_cell1187
+b'GTTAAAGTTAGG'	timepoint1_3-APs/RPs	-0.0	-1369.706	816	timepoint1_cell1188
+b'TCTGGTGTAATA'	timepoint1_3-APs/RPs	-0.0	-1232.5503	770	timepoint1_cell1189
+b'AACATTGATTAA'	timepoint1_6-Young neurons	-0.0	-1218.6722	833	timepoint1_cell1190
+b'GGGATTAGAGTG'	timepoint1_3-APs/RPs	-0.0	-1373.9596	802	timepoint1_cell1191
+b'TCATAAAAAGAT'	timepoint1_3-APs/RPs	-0.0	-1188.5358	768	timepoint1_cell1192
+b'TGGGCGGTTGTG'	timepoint1_3-APs/RPs	-0.0	-921.94745	860	timepoint1_cell1193
+b'CTGCGGGCCTGA'	timepoint1_3-APs/RPs	-0.0	-1589.5221	678	timepoint1_cell1194
+b'ATGGCCTTAAAT'	timepoint1_3-APs/RPs	-0.0	-932.5864	669	timepoint1_cell1195
+b'CCAGGAAAACAG'	timepoint1_3-APs/RPs	-0.0	-1737.4008	778	timepoint1_cell1196
+b'TGAGTTCATTTC'	timepoint1_3-APs/RPs	-0.0	-1074.7612	734	timepoint1_cell1197
+b'CTGCTGTCAACT'	timepoint1_3-APs/RPs	-0.0	-1474.6139	709	timepoint1_cell1198
+b'GTCGCTCCCCGG'	timepoint1_3-APs/RPs	-0.0	-1325.0642	814	timepoint1_cell1199
+b'TCAGGCACTCCT'	timepoint1_4-IPs	-0.0	-1218.3827	815	timepoint1_cell1200
+b'GATTGCCAGCGT'	timepoint1_3-APs/RPs	-0.0	-1519.1389	759	timepoint1_cell1201
+b'TCTAGGCAGCTA'	timepoint1_3-APs/RPs	-0.0	-1182.4884	778	timepoint1_cell1202
+b'ATACGTTGATCC'	timepoint1_6-Young neurons	-0.0	-1249.4397	715	timepoint1_cell1203
+b'TATTTCGCATTC'	timepoint1_3-APs/RPs	-0.0	-1365.5713	775	timepoint1_cell1204
+b'GACGTTAGCATA'	timepoint1_4-IPs	-0.0	-728.0654	822	timepoint1_cell1205
+b'TCGCTTTACTTT'	timepoint1_3-APs/RPs	-0.0	-555.88403	525	timepoint1_cell1206
+b'GATACTACGAAT'	timepoint1_3-APs/RPs	-0.0	-1847.4846	597	timepoint1_cell1207
+b'GCCGACCCATCT'	timepoint1_3-APs/RPs	-0.0	-744.28906	648	timepoint1_cell1208
+b'TCCCTCTTATAC'	timepoint1_3-APs/RPs	-0.0	-682.6294	514	timepoint1_cell1209
+b'CGGTTGCGCGCC'	timepoint1_4-IPs	-0.0	-1269.748	760	timepoint1_cell1210
+b'TAGCTGCTCGCC'	timepoint1_3-APs/RPs	-0.0	-1724.4612	627	timepoint1_cell1211
+b'CGGATGGGGCGG'	timepoint1_1-Neurons	-0.0	-1188.8204	824	timepoint1_cell1212
+b'GCATATTACGCC'	timepoint1_1-Neurons	-0.0	-1089.9219	559	timepoint1_cell1213
+b'CGCATCAGCACC'	timepoint1_4-IPs	-0.0	-1370.6364	764	timepoint1_cell1214
+b'GGGCTCGCACGG'	timepoint1_6-Young neurons	-0.0	-920.8379	935	timepoint1_cell1215
+b'CCCACGGTGAGG'	timepoint1_3-APs/RPs	-0.0	-1409.4835	733	timepoint1_cell1216
+b'TTGCGTGGTTAA'	timepoint1_5-APs/RPs	-0.0	-1110.2968	713	timepoint1_cell1217
+b'CCTTTCTAAGTT'	timepoint1_3-APs/RPs	-0.0	-1540.1812	822	timepoint1_cell1218
+b'CGCGTATCTGCT'	timepoint1_3-APs/RPs	-0.0	-1536.2355	751	timepoint1_cell1219
+b'TTCGCTCGGACG'	timepoint1_3-APs/RPs	-0.0	-1787.3451	663	timepoint1_cell1220
+b'AAGGCTTCCGAC'	timepoint1_3-APs/RPs	-0.0	-1353.2402	713	timepoint1_cell1221
+b'TCCTGCGGAGAC'	timepoint1_3-APs/RPs	-0.0	-1322.8859	697	timepoint1_cell1222
+b'ATTCGAAGAGCA'	timepoint1_3-APs/RPs	-0.0	-1300.4165	754	timepoint1_cell1223
+b'ATCCCATGAGGA'	timepoint1_3-APs/RPs	-0.0	-557.43256	621	timepoint1_cell1224
+b'CAGCTTAGGGCA'	timepoint1_3-APs/RPs	-0.0	-1229.8319	740	timepoint1_cell1225
+b'AGATTTATAGAT'	timepoint1_3-APs/RPs	-0.0	-1300.0073	840	timepoint1_cell1226
+b'CATGTCTTTTCN'	timepoint1_7-IPs	-0.0	-1082.3984	662	timepoint1_cell1227
+b'GCCATGCGAGAC'	timepoint1_3-APs/RPs	-0.0	-555.03375	535	timepoint1_cell1228
+b'GAAACTGAGTCA'	timepoint1_3-APs/RPs	-0.0	-1746.9036	651	timepoint1_cell1229
+b'GTAGCCAATCAA'	timepoint1_3-APs/RPs	-0.0	-738.74915	519	timepoint1_cell1230
+b'GAATACAGAACA'	timepoint1_3-APs/RPs	-0.0	-1336.8611	712	timepoint1_cell1231
+b'GTGTACATGAGT'	timepoint1_6-Young neurons	-0.0	-1499.9558	676	timepoint1_cell1232
+b'GTCCGTCACAGG'	timepoint1_3-APs/RPs	-0.0	-1363.2405	807	timepoint1_cell1233
+b'AAATCCGGCTAC'	timepoint1_3-APs/RPs	-0.0	-1466.7828	744	timepoint1_cell1234
+b'GACGTGCGATCA'	timepoint1_3-APs/RPs	-0.0	-1407.1686	624	timepoint1_cell1235
+b'CAACTCGTCCGA'	timepoint1_5-APs/RPs	-0.0	-1525.8069	700	timepoint1_cell1236
+b'CCGGGCCTTGAC'	timepoint1_5-APs/RPs	-0.0	-1172.6196	778	timepoint1_cell1237
+b'CTGATCGTTTAT'	timepoint1_3-APs/RPs	-0.0	-1832.3718	642	timepoint1_cell1238
+b'TCTCCTAGTTAT'	timepoint1_3-APs/RPs	-0.0	-1294.3611	660	timepoint1_cell1239
+b'CAATTGTATGCA'	timepoint1_3-APs/RPs	-0.0	-1158.2546	646	timepoint1_cell1240
+b'CATGTCCCGCAT'	timepoint1_3-APs/RPs	-0.0	-1283.862	630	timepoint1_cell1241
+b'CTAGCCGCGTAC'	timepoint1_3-APs/RPs	-0.0	-1062.1238	703	timepoint1_cell1242
+b'GAACCGAGCGCT'	timepoint1_3-APs/RPs	-0.0	-1759.3616	681	timepoint1_cell1243
+b'CCATATCTGGCG'	timepoint1_5-APs/RPs	-0.0	-1164.3411	697	timepoint1_cell1244
+b'GATGCCTACGAA'	timepoint1_5-APs/RPs	-0.0	-1142.1957	582	timepoint1_cell1245
+b'AGTGTTAGCCCC'	timepoint1_4-IPs	-0.0	-1034.822	778	timepoint1_cell1246
+b'CGCTGTAGCACC'	timepoint1_3-APs/RPs	-0.0	-1725.403	702	timepoint1_cell1247
+b'AATGGTGAGTAT'	timepoint1_3-APs/RPs	-0.0	-1479.26	760	timepoint1_cell1248
+b'TAGATGGTGCGA'	timepoint1_3-APs/RPs	-0.0	-1638.412	748	timepoint1_cell1249
+b'TAGTAAGGATTG'	timepoint1_3-APs/RPs	-0.0	-1040.1183	698	timepoint1_cell1250
+b'AAGGATTTCACA'	timepoint1_1-Neurons	-0.0	-1226.6956	619	timepoint1_cell1251
+b'AAATGGCCCTTG'	timepoint1_3-APs/RPs	-0.0	-1659.1647	623	timepoint1_cell1252
+b'CTATTTCGGTGC'	timepoint1_5-APs/RPs	-0.0	-1643.4205	670	timepoint1_cell1253
+b'TGACGTCCCCCA'	timepoint1_6-Young neurons	-0.0	-1564.092	664	timepoint1_cell1254
+b'TGAACCGGAATG'	timepoint1_3-APs/RPs	-0.0	-1673.0148	627	timepoint1_cell1255
+b'TGGCCGCGGCTG'	timepoint1_3-APs/RPs	-0.0	-1572.5234	742	timepoint1_cell1256
+b'CTTACCATCCCA'	timepoint1_3-APs/RPs	-0.0	-1752.2623	631	timepoint1_cell1257
+b'ATCTCAGCCGGG'	timepoint1_5-APs/RPs	-0.0	-1221.4288	709	timepoint1_cell1258
+b'CCCCCAATTGCC'	timepoint1_3-APs/RPs	-0.0	-844.718	530	timepoint1_cell1259
+b'GCTCGTTTGTAC'	timepoint1_6-Young neurons	-0.0	-1477.3817	730	timepoint1_cell1260
+b'CTGCACGCACAA'	timepoint1_3-APs/RPs	-0.0	-1745.8733	579	timepoint1_cell1261
+b'CTGCGGACTCCA'	timepoint1_6-Young neurons	-0.0	-1488.5292	680	timepoint1_cell1262
+b'AGGGATCACTTA'	timepoint1_3-APs/RPs	-0.0	-1425.321	805	timepoint1_cell1263
+b'TACGTTTGATCT'	timepoint1_3-APs/RPs	-0.0	-1241.3248	701	timepoint1_cell1264
+b'AGCCTCGGCCTA'	timepoint1_6-Young neurons	-0.0	-1096.7316	833	timepoint1_cell1265
+b'CAGATTGGCCGT'	timepoint1_4-IPs	-0.0	-1154.8997	602	timepoint1_cell1266
+b'AATGCTCACCAC'	timepoint1_3-APs/RPs	-0.0	-1462.3247	719	timepoint1_cell1267
+b'GGTGCCGTATCG'	timepoint1_4-IPs	-0.0	-1035.6653	772	timepoint1_cell1268
+b'CTAGAATTGGTC'	timepoint1_3-APs/RPs	-0.0	-1245.3491	632	timepoint1_cell1269
+b'TAATGAGCTAGC'	timepoint1_3-APs/RPs	-0.0	-580.6066	563	timepoint1_cell1270
+b'TTGTCTAGCATA'	timepoint1_3-APs/RPs	-0.0	-1170.735	667	timepoint1_cell1271
+b'ATGACAAGCTAC'	timepoint1_3-APs/RPs	-0.0	-1232.243	548	timepoint1_cell1272
+b'GCACACGCCTCA'	timepoint1_4-IPs	-0.0	-1072.1027	562	timepoint1_cell1273
+b'GTATAAGTAAGG'	timepoint1_1-Neurons	-0.0	-1412.7023	675	timepoint1_cell1274
+b'GTCATAACTATC'	timepoint1_3-APs/RPs	-0.0	-1448.922	550	timepoint1_cell1275
+b'GTGAAGCTTCCC'	timepoint1_6-Young neurons	-0.0	-1552.9431	605	timepoint1_cell1276
+b'AAGGATACGCGG'	timepoint1_4-IPs	-0.0	-840.0857	739	timepoint1_cell1277
+b'ATCTTCGAGTGT'	timepoint1_3-APs/RPs	-0.0	-1983.4666	583	timepoint1_cell1278
+b'AAGAAGCTTGAT'	timepoint1_3-APs/RPs	-0.0	-1920.4142	548	timepoint1_cell1279
+b'ATTTGTTCGCTA'	timepoint1_3-APs/RPs	-0.0	-2121.7268	607	timepoint1_cell1280
+b'CAGGGCGAATAG'	timepoint1_4-IPs	-0.0	-1088.9904	737	timepoint1_cell1281
+b'GTTGTATTAGGC'	timepoint1_3-APs/RPs	-0.0	-1281.1058	767	timepoint1_cell1282
+b'TCGGGCTTCATA'	timepoint1_3-APs/RPs	-0.0	-1349.2126	663	timepoint1_cell1283
+b'ATACATTTGTTT'	timepoint1_3-APs/RPs	-0.0	-2116.2725	629	timepoint1_cell1284
+b'TAGCCTGCTGTA'	timepoint1_3-APs/RPs	-0.0	-1515.062	663	timepoint1_cell1285
+b'CCCAGTGAACCC'	timepoint1_4-IPs	-0.0	-1267.2395	642	timepoint1_cell1286
+b'GAAGGCATCTAA'	timepoint1_3-APs/RPs	-0.0	-1529.3711	699	timepoint1_cell1287
+b'GAATCCTGTGTG'	timepoint1_3-APs/RPs	-0.0	-1759.3213	544	timepoint1_cell1288
+b'ATGGAAAAACGT'	timepoint1_4-IPs	-0.0	-1668.6155	554	timepoint1_cell1289
+b'CGCTCCTCCGGC'	timepoint1_3-APs/RPs	-0.0	-1864.6349	610	timepoint1_cell1290
+b'CCTCAACTTATA'	timepoint1_3-APs/RPs	-0.0	-1753.8254	562	timepoint1_cell1291
+b'ATTCCGCTCTTT'	timepoint1_3-APs/RPs	-0.0	-2056.123	621	timepoint1_cell1292
+b'GTGGTAATAATT'	timepoint1_1-Neurons	-0.0	-1379.7003	695	timepoint1_cell1293
+b'GGTTCCCAGAAG'	timepoint1_2-Young neurons	-0.0	-1260.8165	694	timepoint1_cell1294
+b'ACCTGCTACCAA'	timepoint1_3-APs/RPs	-0.0	-1864.2256	650	timepoint1_cell1295
+b'TGGCTGAACTGG'	timepoint1_3-APs/RPs	-0.0	-1183.8433	674	timepoint1_cell1296
+b'CCCGAACGACTT'	timepoint1_3-APs/RPs	-0.0	-1899.3215	626	timepoint1_cell1297
+b'GGGTACATAAAA'	timepoint1_3-APs/RPs	-0.0	-1343.6632	698	timepoint1_cell1298
+b'CAAAGTTAATAG'	timepoint1_1-Neurons	-0.0	-1601.2296	546	timepoint1_cell1299
+b'TCATATCCCCAA'	timepoint1_3-APs/RPs	-0.0	-1631.1469	479	timepoint1_cell1300
+b'AGTCCTCCCACA'	timepoint1_3-APs/RPs	-0.0	-1649.7362	641	timepoint1_cell1301
+b'GGCACGGTCAAT'	timepoint1_3-APs/RPs	-0.0	-1254.2605	596	timepoint1_cell1302
+b'TTCCCGGTCATT'	timepoint1_3-APs/RPs	-0.0	-2091.4404	572	timepoint1_cell1303
+b'TAAAACTAGTTT'	timepoint1_6-Young neurons	-0.0	-1644.707	494	timepoint1_cell1304
+b'GAAGTACAGGTC'	timepoint1_3-APs/RPs	-0.0	-1884.2478	589	timepoint1_cell1305
+b'CCAGTAGGACGG'	timepoint1_6-Young neurons	-0.0	-1764.6666	580	timepoint1_cell1306
+b'TCTGAAGTATTG'	timepoint1_3-APs/RPs	-0.0	-1275.8954	462	timepoint1_cell1307
+b'CCTCAAGCCGTG'	timepoint1_3-APs/RPs	-0.0	-1511.1217	630	timepoint1_cell1308
+b'TGAGAGCGAAGG'	timepoint1_1-Neurons	-0.0	-1522.0887	341	timepoint1_cell1309
+b'GTGCTCCAAGTT'	timepoint1_1-Neurons	-0.0	-1286.214	625	timepoint1_cell1310
+b'TGTTAGCGCGGA'	timepoint1_3-APs/RPs	-0.0	-1410.9297	587	timepoint1_cell1311
+b'ATCCTCTCTCCG'	timepoint1_3-APs/RPs	-0.0	-941.5671	473	timepoint1_cell1312
+b'GTGTGCGTCTTG'	timepoint1_3-APs/RPs	-0.0	-1398.6051	732	timepoint1_cell1313
+b'TACGGAAGCTGC'	timepoint1_6-Young neurons	-0.0	-1505.4805	673	timepoint1_cell1314
+b'CACTGCATCGTC'	timepoint1_4-IPs	-0.0	-1449.474	754	timepoint1_cell1315
+b'CGCGGCTATTTG'	timepoint1_3-APs/RPs	-0.0	-1399.6029	673	timepoint1_cell1316
+b'ATGTTCTATCTC'	timepoint1_1-Neurons	-0.0	-1404.5818	518	timepoint1_cell1317
+b'TAAGGCCAATCC'	timepoint1_3-APs/RPs	-0.0	-1971.3835	626	timepoint1_cell1318
+b'CCACGGATAAGT'	timepoint1_3-APs/RPs	-0.0	-1576.895	655	timepoint1_cell1319
+b'CTCTGATATAAA'	timepoint1_3-APs/RPs	-0.0	-1986.8651	603	timepoint1_cell1320
+b'CTGGGCGGGACC'	timepoint1_6-Young neurons	-0.0	-1472.7799	671	timepoint1_cell1321
+b'CATGGACTTGCA'	timepoint1_3-APs/RPs	-0.0	-1392.03	592	timepoint1_cell1322
+b'GGTGGCGTGGGA'	timepoint1_3-APs/RPs	-0.0	-1062.1002	885	timepoint1_cell1323
+b'GTCGGAGCTTTC'	timepoint1_4-IPs	-0.0	-768.1033	736	timepoint1_cell1324
+b'GGGCCCTCACCG'	timepoint1_3-APs/RPs	-0.0	-1700.1797	617	timepoint1_cell1325
+b'TTAACACGCCGT'	timepoint1_3-APs/RPs	-0.0	-1509.7026	574	timepoint1_cell1326
+b'CCTAGTAGAAGT'	timepoint1_3-APs/RPs	-0.0	-1644.3224	588	timepoint1_cell1327
+b'TCATCGTACCAC'	timepoint1_3-APs/RPs	-0.0	-1669.5394	605	timepoint1_cell1328
+b'CGGCCATCGATA'	timepoint1_3-APs/RPs	-0.0	-1705.9286	596	timepoint1_cell1329
+b'TGTCAAAACTAT'	timepoint1_3-APs/RPs	-0.0	-1697.373	573	timepoint1_cell1330
+b'ATGGATCTCATT'	timepoint1_3-APs/RPs	-0.0	-1574.8975	473	timepoint1_cell1331
+b'GACTGTTTCTTA'	timepoint1_3-APs/RPs	-0.0	-2074.8665	568	timepoint1_cell1332
+b'TAACGATTCCCC'	timepoint1_3-APs/RPs	-0.0	-2184.7402	548	timepoint1_cell1333
+b'TATTCCGTTGCG'	timepoint1_3-APs/RPs	-0.0	-1554.9343	690	timepoint1_cell1334
+b'CGCTCCAAGCCT'	timepoint1_3-APs/RPs	-0.0	-512.0013	650	timepoint1_cell1335
+b'AATTGCTGCACA'	timepoint1_3-APs/RPs	-0.0	-2058.414	593	timepoint1_cell1336
+b'CTATTGAGTCTA'	timepoint1_4-IPs	-0.0	-1375.3118	522	timepoint1_cell1337
+b'ACCACTGCGAGA'	timepoint1_4-IPs	-0.0	-1467.3682	692	timepoint1_cell1338
+b'AGTACCCAATTA'	timepoint1_3-APs/RPs	-0.0	-1807.3213	687	timepoint1_cell1339
+b'TACCTGCCTCGG'	timepoint1_3-APs/RPs	-0.0	-1913.5801	529	timepoint1_cell1340
+b'TTTACACGCTGG'	timepoint1_5-APs/RPs	-0.0	-1686.3362	617	timepoint1_cell1341
+b'AACGAAAGTTCC'	timepoint1_3-APs/RPs	-0.0	-1861.2128	554	timepoint1_cell1342
+b'ATATGCTACTCT'	timepoint1_3-APs/RPs	-0.0	-1812.0326	622	timepoint1_cell1343
+b'TACTACTCTAGC'	timepoint1_4-IPs	-0.0	-1524.057	593	timepoint1_cell1344
+b'CACAGCCACCGT'	timepoint1_3-APs/RPs	-0.0	-1980.1377	541	timepoint1_cell1345
+b'GTAGGGGATACC'	timepoint1_3-APs/RPs	-0.0	-1635.2128	666	timepoint1_cell1346
+b'GGCCCAACGGGG'	timepoint1_6-Young neurons	-0.0	-1313.3492	677	timepoint1_cell1347
+b'AGATCCTCCGTA'	timepoint1_3-APs/RPs	-0.0	-1312.4386	549	timepoint1_cell1348
+b'TATGCCACATTT'	timepoint1_4-IPs	-0.0	-1165.3029	684	timepoint1_cell1349
+b'CGGCTGTTCCGC'	timepoint1_1-Neurons	-0.0	-997.3787	389	timepoint1_cell1350
+b'ATCAACACTGAA'	timepoint1_1-Neurons	-0.0	-1637.9828	537	timepoint1_cell1351
+b'ATAGACTCCTTN'	timepoint1_4-IPs	-0.0	-1637.4097	509	timepoint1_cell1352
+b'TTGCGTGAGTTT'	timepoint1_3-APs/RPs	-0.0	-1609.485	593	timepoint1_cell1353
+b'CCCATCCCGGGC'	timepoint1_3-APs/RPs	-0.0	-1430.6097	530	timepoint1_cell1354
+b'AGCGCTGATTCC'	timepoint1_6-Young neurons	-0.0	-1276.6396	702	timepoint1_cell1355
+b'CAAGCAACTAGA'	timepoint1_3-APs/RPs	-0.0	-1767.2604	537	timepoint1_cell1356
+b'GCGGCTCGCATG'	timepoint1_3-APs/RPs	-0.0	-1624.2108	617	timepoint1_cell1357
+b'GCGGTCGATTGA'	timepoint1_3-APs/RPs	-0.0	-1307.1238	630	timepoint1_cell1358
+b'ACCCCACTAGGA'	timepoint1_3-APs/RPs	-0.0	-1787.237	563	timepoint1_cell1359
+b'TCCTCAGTTTTC'	timepoint1_3-APs/RPs	-0.0	-2445.0903	513	timepoint1_cell1360
+b'CAGTATGTCTGN'	timepoint1_3-APs/RPs	-0.0	-1464.3414	671	timepoint1_cell1361
+b'GAATCGCAACAA'	timepoint1_3-APs/RPs	-0.0	-1066.0526	393	timepoint1_cell1362
+b'CGATTCAGATAT'	timepoint1_3-APs/RPs	-0.0	-1964.8956	591	timepoint1_cell1363
+b'TAAAAATGCTCG'	timepoint1_5-APs/RPs	-0.0	-1548.8652	553	timepoint1_cell1364
+b'CAAGCCCAATAT'	timepoint1_3-APs/RPs	-0.0	-1306.6003	522	timepoint1_cell1365
+b'CGGACGACCTGA'	timepoint1_3-APs/RPs	-0.0	-1371.6288	579	timepoint1_cell1366
+b'CATAAGGATCAC'	timepoint1_6-Young neurons	-0.0	-1685.9684	583	timepoint1_cell1367
+b'GTGCATATAGCA'	timepoint1_3-APs/RPs	-0.0	-1687.5845	645	timepoint1_cell1368
+b'CTGTCGGCCCAT'	timepoint1_3-APs/RPs	-0.0	-1604.2878	600	timepoint1_cell1369
+b'GAGGTCAATAGT'	timepoint1_1-Neurons	-0.0	-1463.4923	676	timepoint1_cell1370
+b'ACCCCGCATTCC'	timepoint1_3-APs/RPs	-0.0	-1605.2614	605	timepoint1_cell1371
+b'CAGATTGAACGG'	timepoint1_7-IPs	-0.0	-1476.8829	562	timepoint1_cell1372
+b'AGATCGCTTCAT'	timepoint1_3-APs/RPs	-0.0	-1160.6632	423	timepoint1_cell1373
+b'CCAGTACCACTG'	timepoint1_3-APs/RPs	-0.0	-1306.4741	593	timepoint1_cell1374
+b'TTCTGCATATCG'	timepoint1_3-APs/RPs	-0.0	-1865.8694	582	timepoint1_cell1375
+b'CCAAATGTAGAC'	timepoint1_6-Young neurons	-0.0	-2000.9852	554	timepoint1_cell1376
+b'ACGGAAGCAACT'	timepoint1_5-APs/RPs	-0.0	-1818.7655	494	timepoint1_cell1377
+b'ATTCTCCCAGTG'	timepoint1_3-APs/RPs	-0.0	-1900.3423	537	timepoint1_cell1378
+b'TATATAAGTATC'	timepoint1_4-IPs	-0.0	-1360.6688	436	timepoint1_cell1379
+b'TGGGACAGTAAA'	timepoint1_3-APs/RPs	-0.0	-1162.034	715	timepoint1_cell1380
+b'CCCCACGCATCG'	timepoint1_3-APs/RPs	-0.0	-1722.0568	566	timepoint1_cell1381
+b'AGGGGTTCGGTG'	timepoint1_3-APs/RPs	-0.0	-1056.1794	720	timepoint1_cell1382
+b'AGCTATCGAAGA'	timepoint1_3-APs/RPs	-0.0	-2095.6394	594	timepoint1_cell1383
+b'GATTCAGCCGTC'	timepoint1_6-Young neurons	-0.0	-1936.3036	488	timepoint1_cell1384
+b'TAACTGTCTATA'	timepoint1_1-Neurons	-0.0	-1977.6738	566	timepoint1_cell1385
+b'TTCCGCCTGAGC'	timepoint1_7-IPs	-0.0	-2021.8861	532	timepoint1_cell1386
+b'ATGTGGACTGGA'	timepoint1_3-APs/RPs	-0.0	-1204.2585	540	timepoint1_cell1387
+b'TCGGCCTTAGCN'	timepoint1_3-APs/RPs	-0.0	-1652.3468	571	timepoint1_cell1388
+b'AGCTTCTGCGAG'	timepoint1_3-APs/RPs	-0.0	-2027.7057	591	timepoint1_cell1389
+b'GTCACGTACAAN'	timepoint1_3-APs/RPs	-0.0	-1642.8896	582	timepoint1_cell1390
+b'CGGGTAAAAAAA'	timepoint1_3-APs/RPs	-0.0	-1734.6671	578	timepoint1_cell1391
+b'TATAGCGCAATA'	timepoint1_6-Young neurons	-0.0	-1860.1368	556	timepoint1_cell1392
+b'GAAGGATGGGGC'	timepoint1_6-Young neurons	-0.0	-1558.0193	650	timepoint1_cell1393
+b'TGTGTGCACCGG'	timepoint1_3-APs/RPs	-0.0	-1468.2515	620	timepoint1_cell1394
+b'GGAGTTGATACG'	timepoint1_6-Young neurons	-0.0	-2094.1167	478	timepoint1_cell1395
+b'TTTACCGAACCA'	timepoint1_3-APs/RPs	-0.0	-1309.8419	454	timepoint1_cell1396
+b'CATAAGCACAGG'	timepoint1_3-APs/RPs	-0.0	-1886.1149	470	timepoint1_cell1397
+b'CTGGAGGGTCGG'	timepoint1_6-Young neurons	-0.0	-1258.3877	649	timepoint1_cell1398
+b'GAGTAAGCAAGC'	timepoint1_4-IPs	-0.0	-1593.583	596	timepoint1_cell1399
+b'TACATCTTGGTT'	timepoint1_3-APs/RPs	-0.0	-2016.0641	567	timepoint1_cell1400
+b'TTTCGTTGGATC'	timepoint1_3-APs/RPs	-0.0	-1275.5875	517	timepoint1_cell1401

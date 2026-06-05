@@ -1,0 +1,4 @@
+rep_cluster,n_patterns,n_genes,ISG_overlap,trajectories
+1,11,619,0,EryP->MKP->MKP->MKP; EryP->MKP->LMPPs->LMPPs; EryP->MKP->MKP->LMPPs; MKP->HSCs->
+2,13,698,0,EryP->EryP->EryP->EryP; MKP->LMPPs->MKP->MKP; MKP->LMPPs->MKP->LMPPs; HSCs->HSCs
+3,8,670,0,MYP->MYP->MYP->MYP; MYP->MYP->LMPPs->LMPPs; LMPPs->LMPPs->LMPPs->EryP; eosiP->Er

@@ -1,0 +1,20 @@
+source,target,score
+1-Neurons,1-Neurons,0.52229
+1-Neurons,2-Young neurons,0.17847
+2-Young neurons,2-Young neurons,0.54862
+3-APs/RPs,1-Neurons,0.16931
+3-APs/RPs,3-APs/RPs,0.38013
+3-APs/RPs,4-IPs,0.13483
+3-APs/RPs,6-Young neurons,0.10668
+4-IPs,1-Neurons,0.1551
+4-IPs,4-IPs,0.56119
+5-APs/RPs,3-APs/RPs,0.19195
+5-APs/RPs,5-APs/RPs,0.14759
+6-Young neurons,1-Neurons,0.25834
+6-Young neurons,2-Young neurons,0.16743
+6-Young neurons,6-Young neurons,0.18594
+7-IPs,4-IPs,0.09308
+1-Neurons,6-Young neurons,0.10054
+4-IPs,6-Young neurons,0.09215
+7-IPs,7-IPs,0.12221
+2-Young neurons,1-Neurons,0.22049

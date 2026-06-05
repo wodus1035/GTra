@@ -1,0 +1,4 @@
+rep_cluster,n_patterns,n_genes,peak,IFN_recovery,trajectories
+2,13,698,24h,13.25,EryP->EryP->EryP->EryP; HSCs->HSCs->HSCs->HSCs; LMPPs->LMPPs->LMPPs->L
+3,8,670,24h,5.59,LMPPs->LMPPs->LMPPs->EryP; LMPPs->MKP->LMPPs->EryP; MKP->LMPPs->LMPPs-
+1,11,619,control,3.18,EryP->EryP->MKP->LMPPs; EryP->EryP->MKP->MKP; EryP->MKP->LMPPs->EryP; 

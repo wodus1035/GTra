@@ -39,7 +39,7 @@ class GTraObject(object):
             # Step 1: GTra's consensus clustering
             self.label_flag = False
             self.gene_norm_flag = True
-            self.cn_neighbors = 10 # For cells (kNN)
+            self.cn_neighbors = 15 # For cells (kNN)
             self.gn_neighbors = 15 # For genes (kNN)
             self.cn_cluster_resolution = 0.5
             self.gn_cluster_resolution = .3
@@ -147,11 +147,14 @@ class GTraObject(object):
             adata = self.tp_data_dict[tp]
             missing = set(fgenes) - set(adata.var_names)
             if missing:
+                # Densify consistently (X may be sparse or dense) before stacking
+                Xd = adata.X.toarray() if hasattr(adata.X, "toarray") else np.asarray(adata.X)
                 zeros = np.zeros((adata.n_obs, len(missing)))
-                X = np.hstack([adata.X.toarray(), csr_matrix(zeros)])
+                X = np.hstack([Xd, zeros])
                 new_genes = list(adata.var_names) + list(missing)
-                X = X[:, [new_genes.index(g) for g in fgenes]]
-                self.tp_data_dict[tp] = sc.AnnData(X, obs=adata.obs, 
+                pos = {g: i for i, g in enumerate(new_genes)}
+                X = X[:, [pos[g] for g in fgenes]]
+                self.tp_data_dict[tp] = sc.AnnData(X, obs=adata.obs,
                                                    var=pd.DataFrame(index=fgenes))
             else:
                 self.tp_data_dict[tp] = adata[:, fgenes]
@@ -164,6 +167,12 @@ class GTraObject(object):
     # Perform consensus clustering
     def find_gclusters(self, N=50):
         print("Step 1: Identifying cell type-specific gene clusters...")
+        if self.params.label_flag == False:
+            for tp in range(self.tp_data_num):
+                cell_clustering(self, tp)
+            self.params.label_flag = True
+            self.params.cell_type_label = 'cluster_label'
+                
         statistical_testing(self, N=N)
         cc_clustering(self)
         create_color_dict(self)
@@ -171,6 +180,7 @@ class GTraObject(object):
     ###########################################################################
     ## ============= Step 2: Construct cell-state trajectories ============= ##
     ###########################################################################
+    
     def cal_edge_score(self, tp1, tp2):
         # Load scRNA data
         t1_df = self.tp_data_dict[tp1].to_df().T
@@ -189,9 +199,6 @@ class GTraObject(object):
         # Comparison intersected gene set between adjacent time points
         edge_info = []
         for t1_s in range(len(t1_genes)):
-            # cos_dists = []
-            # dists = {}
-            # einfo = {}
             for t1_g in range(len(t1_genes[t1_s])):
                 for t2_s in range(len(t2_genes)):
                     for t2_g in range(len(t2_genes[t2_s])):

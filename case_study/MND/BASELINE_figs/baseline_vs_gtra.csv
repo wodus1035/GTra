@@ -1,0 +1,13 @@
+dataset,method,trans_f1,trans_recall
+MND,GTra-labeled,0.5,0.5
+MND,GTra-unlabeled,0.2857142857142857,0.25
+HSPC,GTra-labeled,0.4,0.6
+HSPC,GTra-unlabeled,0.25,0.2
+COVID,GTra-labeled,0.3298479298479297,0.5357142857142857
+COVID,GTra-unlabeled,0.1909400123685838,0.1785714285714285
+MND,pseudobulk-corr(fair),0.5,0.5
+HSPC,pseudobulk-corr(fair),0.1818181818181818,0.2
+COVID,pseudobulk-corr(fair),0.3688311688311689,0.5
+MND,pseudobulk-corr(oracle),0.5714285714285715,1.0
+HSPC,pseudobulk-corr(oracle),0.32000000000000006,0.8
+COVID,pseudobulk-corr(oracle),0.5762079190650619,0.8928571428571429

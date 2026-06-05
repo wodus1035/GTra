@@ -1,0 +1,5 @@
+method,COVID_transF1
+GTra(labeled),0.33
+GTra(unlabeled),0.191
+WOT,0.178
+CellRank,0.096

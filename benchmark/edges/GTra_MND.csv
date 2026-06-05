@@ -1,0 +1,20 @@
+source,target,score
+1-Neurons,2-Young neurons,1.0
+1-Neurons,1-Neurons,1.0
+1-Neurons,3-APs/RPs,1.0
+5-APs/RPs,5-APs/RPs,1.0
+5-APs/RPs,3-APs/RPs,1.0
+7-IPs,4-IPs,1.0
+7-IPs,7-IPs,1.0
+3-APs/RPs,5-APs/RPs,1.0
+3-APs/RPs,3-APs/RPs,1.0
+3-APs/RPs,1-Neurons,1.0
+3-APs/RPs,4-IPs,1.0
+2-Young neurons,1-Neurons,1.0
+2-Young neurons,2-Young neurons,1.0
+6-Young neurons,1-Neurons,1.0
+6-Young neurons,2-Young neurons,1.0
+6-Young neurons,4-IPs,1.0
+6-Young neurons,6-Young neurons,1.0
+4-IPs,4-IPs,1.0
+4-IPs,3-APs/RPs,1.0

@@ -1,0 +1,4 @@
+variant,n_modules,IFN_recovery
+GTra_coarse,37.0,28.741760727641633
+GTra_fine,198.0,40.42328396663782
+baseline_kmeans,,57.8

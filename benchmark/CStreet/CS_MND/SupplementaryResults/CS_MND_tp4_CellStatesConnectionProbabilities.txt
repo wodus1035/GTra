@@ -1,0 +1,20 @@
+#Only connections and cell states with following conditions have been displayed in the result figure:
+# Connection probability >= 0.09000
+# Total cell number of a state >= 20
+	Node1_cluster	Node2_cluster	total_edge_num	Node1_cluster_cell_num	Node2_cluster_cell_num	probability	95_conf_interval
+0	timepoint4_1-Neurons	timepoint4_2-Young neurons	971	420	159	0.04499	(0.04268,0.04730)
+1	timepoint4_1-Neurons	timepoint4_4-IPs	334	420	137	0.01578	(0.01470,0.01686)
+2	timepoint4_1-Neurons	timepoint4_6-Young neurons	628	420	71	0.03651	(0.03409,0.03893)
+3	timepoint4_2-Young neurons	timepoint4_1-Neurons	1283	159	420	0.06271	(0.05970,0.06573)
+4	timepoint4_2-Young neurons	timepoint4_4-IPs	35	159	137	0.00307	(0.00280,0.00335)
+5	timepoint4_2-Young neurons	timepoint4_6-Young neurons	116	159	71	0.01377	(0.01286,0.01469)
+6	timepoint4_3-APs/RPs	timepoint4_4-IPs	22	65	137	0.00299	(0.00259,0.00339)
+7	timepoint4_3-APs/RPs	timepoint4_5-APs/RPs	2	65	10	0.00066	(0.00048,0.00084)
+8	timepoint4_4-IPs	timepoint4_1-Neurons	634	137	420	0.03076	(0.02893,0.03259)
+9	timepoint4_4-IPs	timepoint4_2-Young neurons	35	137	159	0.00303	(0.00274,0.00332)
+10	timepoint4_4-IPs	timepoint4_3-APs/RPs	11	137	65	0.00134	(0.00113,0.00155)
+11	timepoint4_4-IPs	timepoint4_6-Young neurons	360	137	71	0.04666	(0.04460,0.04872)
+12	timepoint4_5-APs/RPs	timepoint4_3-APs/RPs	2	10	65	0.00078	(0.00059,0.00097)
+13	timepoint4_6-Young neurons	timepoint4_1-Neurons	814	71	420	0.04730	(0.04420,0.05039)
+14	timepoint4_6-Young neurons	timepoint4_2-Young neurons	85	71	159	0.00991	(0.00924,0.01059)
+15	timepoint4_6-Young neurons	timepoint4_4-IPs	305	71	137	0.03918	(0.03708,0.04129)

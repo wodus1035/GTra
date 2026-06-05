@@ -1,0 +1,17 @@
+source,target,score
+LMPPs,LMPPs,1.0
+LMPPs,MKP,1.0
+HSCs,HSCs,1.0
+HSCs,LMPPs,1.0
+HSCs,MKP,1.0
+EryP,EryP,1.0
+EryP,LMPPs,1.0
+MYP,MYP,1.0
+MYP,EryP,1.0
+MYP,MKP,1.0
+MKP,MKP,1.0
+MKP,LMPPs,1.0
+MKP,EryP,1.0
+eosiP,LMPPs,1.0
+eosiP,MKP,1.0
+eosiP,eosiP,1.0

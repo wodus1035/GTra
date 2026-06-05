@@ -4,6 +4,7 @@ import seaborn as sns
 
 import matplotlib
 import matplotlib.pyplot as plt
+import matplotlib.backends.backend_pdf  # draw_patterns uses PdfPages; submodule must be imported explicitly
 import matplotlib.patches as mpatches
 import matplotlib.path as mpath
 import matplotlib.colors as mcolors
@@ -511,6 +512,11 @@ def draw_patterns(obj):
     # Gene set data frame
     gene_set_df = pd.DataFrame()
 
+    # In-memory record of {pattern key -> trajectory name} for the plotted
+    # (significant) patterns, so module_evaluation() no longer depends on
+    # round-tripping through the *_pattern_genes.csv file.
+    key_map = {}
+
     # Plotting time-series gene expression patterns
     fc_th = 1.2
     for idx, key in enumerate(pt_keys):
@@ -524,11 +530,12 @@ def draw_patterns(obj):
         # Customizing a personalized list of specific time points for each user
         if len(obj.params.time_point_label) != 0:
             pt_df.columns = obj.params.time_point_label
-        
+
         # Store cell-state trajectory info and gene sets
         convert_name = convert_path_name(obj, key)
         start_cells = convert_name[: convert_name.find("-")]
         gene_set_df = make_gene_set_frame(idx, gene_set_df, pt_df, key, convert_name)
+        key_map[key] = convert_name
 
         # Update position
         if pos // col_n == col_n:
@@ -544,6 +551,7 @@ def draw_patterns(obj):
         pos+=1
     
     # Store gene set information for cell trajectory
+    obj.pattern_key_map = key_map
     gene_set_df.to_csv(f'{obj.params.output_dir}/{obj.params.output_name}_pattern_genes.csv',sep=",")
     fig.tight_layout()
     pdf.savefig(fig)
@@ -552,7 +560,6 @@ def draw_patterns(obj):
     
     
 from .utils import build_sankey_df_from_pvals, rgb01_to_rgbstr, extract_time_and_celltype
-from .utils import rgb01_to_rgbstr
 
 def draw_trajectory(obj):
     color_mapping = obj.celltype_colors.copy()

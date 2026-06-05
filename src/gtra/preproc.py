@@ -31,26 +31,6 @@ def concat_meta(obj):
     # Single concat (fast & stable)
     return pd.concat(dfs, axis=0)
         
-# Update index
-def update_idx(t1,t2,t1_s,t1_g,t2_s,t2_g):
-    if t2_s == len(t2) - 1:
-        if t2_g == len(t2[t2_s]) - 1:
-            t2_s, t2_g = 0, 0
-            t1_g += 1
-            if t1_g == len(t1[t1_s]):
-                t1_s += 1
-                t1_g = 0
-        else:
-            t2_g += 1
-    else:
-        if t2_g < len(t2[t2_s]) - 1:
-            t2_g += 1
-        else:
-            t2_s += 1
-            t2_g = 0
-
-    return t1_s, t1_g, t2_s, t2_g
-
 # Get unique cell type list
 def get_unique_celltype(obj, tp, s):
     label = obj.cell_label_index[tp][s]
@@ -105,7 +85,6 @@ def get_gcinfo(obj):
 
 # Create consensus matrix for gene clustering results
 def get_ccmatrix(res):
-    from collections import defaultdict
     ccmatrix = defaultdict(dict)
     N = len(res)
 
@@ -199,7 +178,7 @@ def cal_pvals(dist_df):
             valid_vals = np.array(raw_pvals)[valid_mask]
             
             if np.sum(valid_mask) > 0:
-                adj = multipletests(valid_vals, alpha=0.5, method="fdr_bh")[1]
+                adj = multipletests(valid_vals, alpha=0.05, method="fdr_bh")[1]
             else:
                 adj = np.array([])
             

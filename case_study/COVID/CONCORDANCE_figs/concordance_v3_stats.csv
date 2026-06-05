@@ -1,0 +1,3 @@
+module,n_patients,direction_concordant,binom_p,median_DP_minus_RP,exact_perm_p
+GTra,7,6/7,0.0625,0.0445,0.1143
+DEG,7,6/7,0.0625,0.4403,0.0571

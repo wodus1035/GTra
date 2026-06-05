@@ -148,90 +148,7 @@ def JS_threshold_test(obj, tp1, tp2):
     return optimal_th
 
 
-def flatten_gene_modules(gene_info):
-    """
-    Convert hierarchical structure gene info[cluster][module] -> flat list.
-    Each element = (cluster idx, module idx, gene_list)
-    """
-    flat = []
-    for c_idx, modules in enumerate(gene_info):
-        for m_idx, gene_list in enumerate(modules):
-            flat.append((c_idx, m_idx, gene_list))
-    return flat
-
-def compute_js_matrix(GM1, GM2, all_genes):
-    """
-    Compute Jaccard similarity for all module pairs in matrix
-    """
-    gene_index = {g: i for i, g in enumerate(all_genes)}
-    G = len(all_genes)
-    
-    n1, n2 = len(GM1), len(GM2)
-    
-    B1 = np.zeros((n1, G), dtype=np.uint8)
-    B2 = np.zeros((n2, G), dtype=np.uint8)
-    
-    for i, (_,_, genes) in enumerate(GM1):
-        idx = [gene_index[g] for g in genes if g in gene_index]
-        B1[i, idx] = 1
-    
-    for j, (_,_, genes) in enumerate(GM2):
-        idx = [gene_index[g] for g in genes if g in gene_index]
-        B2[j, idx] = 1
-        
-    inter = B1 @ B2.T
-    sum1 = B1.sum(axis=1)[:,None]
-    sum2 = B2.sum(axis=1)[None,:]
-    union = sum1 + sum2 - inter + 1e-10
-    
-    return inter/union
-
-def CPM(X):
-    lib = X.sum(axis=1)
-    lib = lib.replace(0, 1e-9)  # avoid divide-by-zero
-    X_norm = X.div(lib, axis=0) * 1e6
-    return X_norm
-
-def vector_norm(X):
-    X_norm = CPM(X)
-    X_log = np.log1p(X_norm)
-    return X_log
-
-def compute_cluster_means(df, cell_idx):
-    """
-    df: cell x gene matrix
-    cell_idx: list of list (cluster -> cells)
-    Returns: cluster_mean_matrix (C x G)
-    """
-    C = len(cell_idx)
-    G = df.shape[1]
-    means = np.zeros((C, G))
-
-    for c, cells in enumerate(cell_idx):
-        means[c] = df.loc[cells].mean(axis=0).values
-    
-    return means
-
-
-def extract_shared_vectors(genes1, genes2, mean1, mean2, gene_index):
-    """
-    Return:
-      v1_sub, v2_sub → 서로 공유된 gene positions만 남긴 vector
-      shared_n        → shared gene count
-    """
-    set1 = set(genes1)
-    set2 = set(genes2)
-    shared = list(set1.intersection(set2))
-
-    shared_idx = [gene_index[g] for g in shared if g in gene_index]
-
-    if len(shared_idx) == 0:
-        return None, None, 0
-
-    return mean1[shared_idx], mean2[shared_idx], len(shared_idx)
-
 # Create normalized pseudo-bulk data
-from scipy.spatial import distance
 def cal_cos_dist(obj,tp1,tp2,t1_s,t2_s,t1_df,t2_df,inter_genes):
     # Load cells
     t1_cells = obj.cell_label_index[tp1][t1_s]
@@ -267,76 +184,6 @@ def cal_cos_dist(obj,tp1,tp2,t1_s,t2_s,t1_df,t2_df,inter_genes):
         return 1.0
 
     return float(distance.cosine(t1_pseudo, t2_pseudo))
-
-def cal_cos_dist_fast(
-    A1, A2,
-    genes, gene_index,
-    cells1, cells2
-):
-    ix = [gene_index[g] for g in genes if g in gene_index]
-    if len(ix) < 2:
-        return -1
-
-    # pseudo-bulk (gene-wise mean across cells)
-    p1 = A1[ix][:, cells1].mean(axis=1)
-    p2 = A2[ix][:, cells2].mean(axis=1)
-
-    # remove non-expressed genes
-    mask = (p1 + p2) > 0
-    if mask.sum() < 2:
-        return -1
-
-    p1 = p1[mask]
-    p2 = p2[mask]
-
-    mu = (p1 + p2) / 2
-
-    def cos_dist(u, v):
-        if np.allclose(u, 0) or np.allclose(v, 0):
-            return 1.0
-        return 1 - np.dot(u, v) / (np.linalg.norm(u) * np.linalg.norm(v))
-
-    return [
-        cos_dist(p1, mu),
-        cos_dist(p2, mu)
-    ]
-
-
-
-def centered_cosine(x, y):
-    if x is None or y is None:
-        return None
-    x_c = x - x.mean()
-    y_c = y - y.mean()
-    num = np.dot(x_c, y_c)
-    den = np.linalg.norm(x_c) * np.linalg.norm(y_c) + 1e-9
-    return num / den
-
-
-def js_divergence(p, q):
-    if p is None or q is None:
-        return None
-
-    p = p + 1e-9
-    q = q + 1e-9
-    p = p / p.sum()
-    q = q / q.sum()
-    m = 0.5 * (p + q)
-
-    kl1 = np.sum(p * (np.log(p) - np.log(m)))
-    kl2 = np.sum(q * (np.log(q) - np.log(m)))
-    return 0.5 * (kl1 + kl2)
-
-
-def compute_joint_score(js, cos, jsdiv):
-    """
-    Final Edge Score
-      W * ( alpha·JS + beta·COS + gamma·exp(-JSdiv) )
-    """
-    score = cos * np.exp(-jsdiv)
-
-    return score
-
 
 def get_edge_info(obj, tp1):
     COS_PARAM = 5
@@ -896,7 +743,6 @@ def build_sankey_df_from_pvals(obj, min_gn=1, pval_col="adj_p-value", pval_th=No
 from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.stats import pearsonr
 from scipy.stats import friedmanchisquare
-from gtra.utils import l2norm
 
 def detect_expression_trend(expression_vector):
     """
@@ -921,9 +767,22 @@ def detect_expression_trend(expression_vector):
         return "transient"
     
 def get_sig_patterns(obj, pval_th=1e-2):
-    pt = pd.read_csv(f'{obj.params.output_dir}/{obj.params.output_name}_pattern_genes.csv',index_col=0)
+    # Prefer the in-memory {key -> trajectory} map populated by plot_patterns();
+    # fall back to the *_pattern_genes.csv it writes (e.g. when loading a saved
+    # object in a fresh session).
+    key_map = getattr(obj, "pattern_key_map", None)
+    if key_map:
+        pt_key_dict = dict(key_map)
+    else:
+        csv_path = f'{obj.params.output_dir}/{obj.params.output_name}_pattern_genes.csv'
+        if not os.path.isfile(csv_path):
+            raise RuntimeError(
+                "No pattern set available: call plot_patterns() before "
+                "module_evaluation() (or ensure the *_pattern_genes.csv exists)."
+            )
+        pt = pd.read_csv(csv_path, index_col=0)
+        pt_key_dict = {i[i.find('[')+1:i.find(']')]: i[:i.find('[')] for i in pt.columns}
     pattern_data = obj.merge_pattern_dict.copy()
-    pt_key_dict = {i[i.find('[')+1:i.find(']')]:i[:i.find('[')] for i in pt.columns}
     sig_pt_dat = {i: pattern_data[i] for i in pt_key_dict.keys()}
     
     pattern_stats = []

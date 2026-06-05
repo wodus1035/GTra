@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# run logs / scratch / test artifacts (regenerable)
+*.log
+_scratch/
+Test/test_out/
+
+# build
+build/
+dist/
+
+# heavy data / single-cell objects (regenerable from source data; keep out of git)
+*.h5ad
+*.dill
+*.pkl
+*.npz
+*.h5
+*.loom
+*.mtx
+*.mtx.gz
+*.rds
+

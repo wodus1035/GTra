@@ -1,0 +1,15 @@
+Loading /data1/home/jyj/PROJECT/2025/submission/NatureCom/GTra/case_study/HSPC/hspc_full.dill ...
+tp_data_num=4, genes=1333
+stored gene_label_info total modules = 81
+
+[current _calc_gap] total modules = 81
+  (sanity vs stored: MATCH)
+[fixed   _calc_gap] total modules = 57
+
+DELTA total modules: 81 -> 57 (-24, -29.6%)
+
+Per-timepoint module counts (sum over cell clusters): current -> fixed
+  t0: 22 -> 16  <-- changed
+  t1: 21 -> 15  <-- changed
+  t2: 20 -> 14  <-- changed
+  t3: 18 -> 12  <-- changed
