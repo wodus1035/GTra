@@ -52,7 +52,7 @@ python -m pip install --upgrade pip
 
 ### 2) Install from Github
 ```bash
-pip install "git+https://github.com/wodus1035/2025_GTra.git"
+pip install "git+https://github.com/wodus1035/GTra.git"
 ```
 
 ### Developer installation (editable)
